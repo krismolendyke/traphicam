@@ -1,202 +1,202 @@
-{"name":"I-95 @ Disston St","loc":{"lat":40.022241, "lng":-75.038786},"cam_id":8615,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-95 n/o Cottman Ave","loc":{"lat":40.029495, "lng":-75.022104},"cam_id":8616,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-95 s/o Pennypack St","loc":{"lat":40.035241, "lng":-75.018385},"cam_id":8617,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-95 @ Broad St","loc":{"lat":39.899367, "lng":-75.175699},"cam_id":8626,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-95 @ Walt Whitman Bridge","loc":{"lat":39.907123, "lng":-75.149381},"cam_id":8627,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-95 @ I-476","loc":{"lat":39.867107, "lng":-75.343658},"cam_id":8633,"description":"Camera located Median"}
-{"name":"I-95 @ Island Ave","loc":{"lat":39.893144, "lng":-75.234534},"cam_id":8624,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-95 @ Enterprise Ave","loc":{"lat":39.887177, "lng":-75.214916},"cam_id":8625,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-95 @ Front St","loc":{"lat":39.910221, "lng":-75.149388},"cam_id":8628,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-95 @ Tasker St","loc":{"lat":39.927897, "lng":-75.146736},"cam_id":8629,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-95 @ Columbus Blvd","loc":{"lat":39.938433, "lng":-75.143736},"cam_id":8630,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-95 @ Frankford Ave","loc":{"lat":39.967112, "lng":-75.134177},"cam_id":8631,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-95 @ Girard Ave","loc":{"lat":39.973515, "lng":-75.120399},"cam_id":8632,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 @ RT-320","loc":{"lat":39.945169, "lng":-75.348552},"cam_id":8634,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 n/o County Line Rd","loc":{"lat":40.051814, "lng":-75.344397},"cam_id":8641,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 e/o Old Gulph Rd","loc":{"lat":40.057296, "lng":-75.331224},"cam_id":8642,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-476 @ I-76","loc":{"lat":40.063823, "lng":-75.321393},"cam_id":8643,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 s/o Front St &amp; Brdg","loc":{"lat":40.074794, "lng":-75.32235},"cam_id":8644,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 @ Access Rd Brdg","loc":{"lat":40.083, "lng":-75.3111},"cam_id":8645,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 s/o Ridge Pk","loc":{"lat":40.094607, "lng":-75.30484},"cam_id":8646,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 n/o Ridge Pk","loc":{"lat":40.1001, "lng":-75.2916},"cam_id":8647,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-95 @ Vine Exp &amp; BF Bridge","loc":{"lat":39.952847, "lng":-75.141122},"cam_id":9489,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-95 @ Race St","loc":{"lat":39.955904, "lng":-75.14087},"cam_id":9490,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-95 @ Callowhil St","loc":{"lat":39.958012, "lng":-75.141354},"cam_id":9491,"description":"Traffic closest to camera is traveling South"}
-{"name":"US-1 Btwn Henry Ave &amp; Scotts Ln","loc":{"lat":40.010251, "lng":-75.184872},"cam_id":9492,"description":"Traffic closest to camera is traveling North"}
-{"name":"US-1 @ Fox St","loc":{"lat":40.01404, "lng":-75.17919},"cam_id":9493,"description":"Traffic closest to camera is traveling South"}
-{"name":"US-1 @ Wissahickon Ave","loc":{"lat":40.017707, "lng":-75.172798},"cam_id":9494,"description":"Traffic closest to camera is traveling South"}
-{"name":"US-1 @ Roberts Ave","loc":{"lat":40.018437, "lng":-75.166775},"cam_id":9495,"description":"Traffic closest to camera is traveling North"}
-{"name":"US-1 @ 17th St","loc":{"lat":40.020304, "lng":-75.153978},"cam_id":9496,"description":"Traffic closest to camera is traveling East"}
-{"name":"US-1 @ Broad St","loc":{"lat":40.019815, "lng":-75.148496},"cam_id":9497,"description":"Traffic closest to camera is traveling West"}
-{"name":"US-1 @ 9th St","loc":{"lat":40.020156, "lng":-75.142234},"cam_id":9498,"description":"Camera located Median"}
-{"name":"US-1 NB @ Creek Rd","loc":{"lat":39.871861, "lng":-75.591513},"cam_id":9499,"description":"Traffic closest to camera is traveling East"}
-{"name":"RT-100 @ Phoenixville Pike","loc":{"lat":39.996233, "lng":-75.593971},"cam_id":9500,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-100 Bef Kirkland","loc":{"lat":40.002929, "lng":-75.599581},"cam_id":9501,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-100 Aft Boot Rd","loc":{"lat":40.007684, "lng":-75.612882},"cam_id":9502,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-100 &amp; Pottstown Pike","loc":{"lat":40.012512, "lng":-75.616486},"cam_id":9503,"description":"Camera located Median"}
-{"name":"RT-100 @ Mtn View Dr","loc":{"lat":40.01719, "lng":-75.621372},"cam_id":9504,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-100 @ SR-30","loc":{"lat":40.027992, "lng":-75.627822},"cam_id":9505,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-100 @ Sunrise Blvd","loc":{"lat":40.038478, "lng":-75.631981},"cam_id":9506,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-100 s/o Ship Rd","loc":{"lat":40.046488, "lng":-75.633459},"cam_id":9507,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-100 @ Worthington Rd","loc":{"lat":40.055021, "lng":-75.641295},"cam_id":9508,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-202 @ Town Ctr Rd","loc":{"lat":40.093325, "lng":-75.367394},"cam_id":9511,"description":"Camera located Median"}
-{"name":"RT-202 @ Allendale Rd","loc":{"lat":40.087684, "lng":-75.383453},"cam_id":9512,"description":"Camera located Median"}
-{"name":"RT-202 @ US-202 &amp; I-76","loc":{"lat":40.083205, "lng":-75.394341},"cam_id":9513,"description":"Traffic closest to camera is traveling East"}
-{"name":"RT-202 @ US-202 &amp; PA-422","loc":{"lat":40.080145, "lng":-75.406981},"cam_id":9514,"description":"Traffic closest to camera is traveling West"}
-{"name":"RT-202 @ Valley Rd","loc":{"lat":40.073279, "lng":-75.427095},"cam_id":9515,"description":"Traffic closest to camera is traveling East"}
-{"name":"RT-202 @ RT-252","loc":{"lat":40.071801, "lng":-75.441375},"cam_id":9516,"description":"Traffic closest to camera is traveling West"}
-{"name":"RT-202 @ RT-252","loc":{"lat":40.067764, "lng":-75.452075},"cam_id":9517,"description":"Traffic closest to camera is traveling West"}
-{"name":"RT-202 @ Chestbrook Blvd","loc":{"lat":40.065417, "lng":-75.4603},"cam_id":9518,"description":"Traffic closest to camera is traveling East"}
-{"name":"RT-202 @ Howellvllle Rd","loc":{"lat":40.064198, "lng":-75.472478},"cam_id":9519,"description":"Traffic closest to camera is traveling West"}
-{"name":"RT-202 &amp; Valley Rd","loc":{"lat":40.057932, "lng":-75.486049},"cam_id":9520,"description":"Traffic closest to camera is traveling East"}
-{"name":"RT-202 @ Cedar Hollow Rd","loc":{"lat":40.056071, "lng":-75.500422},"cam_id":9521,"description":"Traffic closest to camera is traveling West"}
-{"name":"RT-202 @ PA-29","loc":{"lat":40.051502, "lng":-75.533384},"cam_id":9522,"description":"Traffic closest to camera is traveling East"}
-{"name":"RT-202 @ Mill Lane","loc":{"lat":40.050795, "lng":-75.54685},"cam_id":9523,"description":"Traffic closest to camera is traveling East"}
-{"name":"RT-202 @ Church Rd","loc":{"lat":40.0518, "lng":-75.561478},"cam_id":9524,"description":"Traffic closest to camera is traveling South"}
-{"name":"RT-202 @ PA-401","loc":{"lat":40.043094, "lng":-75.570364},"cam_id":9525,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-202 @ RT-30","loc":{"lat":40.034072, "lng":-75.583724},"cam_id":9526,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-202 @ King Rd","loc":{"lat":40.021834, "lng":-75.587664},"cam_id":9527,"description":"Traffic closest to camera is traveling South"}
-{"name":"RT-202 @ Morstein Rd","loc":{"lat":40.011358, "lng":-75.581101},"cam_id":9528,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-202 @ Boot Rd","loc":{"lat":40.00527, "lng":-75.582383},"cam_id":9529,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-202 @ SR-100","loc":{"lat":39.991901, "lng":-75.588952},"cam_id":9530,"description":"Traffic closest to camera is traveling South"}
-{"name":"RT-202 @ SR-322","loc":{"lat":39.981112, "lng":-75.588848},"cam_id":9531,"description":"Traffic closest to camera is traveling South"}
-{"name":"RT-202 @ Paoli Pike","loc":{"lat":39.972792, "lng":-75.583476},"cam_id":9532,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-202 @ Chester Pike","loc":{"lat":39.967216, "lng":-75.581489},"cam_id":9533,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-202 &amp; Westtown Rd","loc":{"lat":39.95938, "lng":-75.579706},"cam_id":9534,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-202 &amp; Bolmar St","loc":{"lat":39.950463, "lng":-75.58186},"cam_id":9535,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-202 @ PA-322","loc":{"lat":39.939962, "lng":-75.59088},"cam_id":9536,"description":"Traffic closest to camera is traveling South"}
-{"name":"RT-202 @ Skiles Blvd","loc":{"lat":39.930374, "lng":-75.585545},"cam_id":9537,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-202 @ PA-926","loc":{"lat":39.91955, "lng":-75.576952},"cam_id":9538,"description":"Traffic closest to camera is traveling South"}
-{"name":"RT-202 @ Green Tree Dr","loc":{"lat":39.911253, "lng":-75.571124},"cam_id":9539,"description":"Traffic closest to camera is traveling South"}
-{"name":"RT-202 @ Watkins","loc":{"lat":39.891427, "lng":-75.555418},"cam_id":9540,"description":"Traffic closest to camera is traveling South"}
-{"name":"RT-202 @ RT-1","loc":{"lat":39.881181, "lng":-75.547159},"cam_id":9541,"description":"Traffic closest to camera is traveling South"}
-{"name":"RT-202 Ramp L","loc":{"lat":40.078518, "lng":-75.405679},"cam_id":9542,"description":"Traffic closest to camera is traveling East"}
-{"name":"RT-202 @ Continental Dr","loc":{"lat":40.080357, "lng":-75.398429},"cam_id":9543,"description":"Traffic closest to camera is traveling East"}
-{"name":"RT-202 @ I-76","loc":{"lat":40.081386, "lng":-75.391506},"cam_id":9544,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 @ RT-202 &amp; RT-422","loc":{"lat":40.083155, "lng":-75.397335},"cam_id":9545,"description":"Traffic closest to camera is traveling West"}
-{"name":"RT-30 @ RT-100","loc":{"lat":40.020545, "lng":-75.624261},"cam_id":9546,"description":"Traffic closest to camera is traveling East"}
-{"name":"RT-422 @ PA-Tnpk","loc":{"lat":40.090324, "lng":-75.415266},"cam_id":9553,"description":"Traffic closest to camera is traveling South"}
-{"name":"RT-422 @ PA-23","loc":{"lat":40.101426, "lng":-75.41845},"cam_id":9554,"description":"Traffic closest to camera is traveling West"}
-{"name":"RT-422 @ PA-363","loc":{"lat":40.113103, "lng":-75.420018},"cam_id":9555,"description":"Traffic closest to camera is traveling West"}
-{"name":"RT-422 @ PA-363","loc":{"lat":40.115942, "lng":-75.431126},"cam_id":9556,"description":"Traffic closest to camera is traveling West"}
-{"name":"Rt-422 @ Pawlngs Rd","loc":{"lat":40.114187, "lng":-75.454858},"cam_id":9557,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-476 @ Reed Rd","loc":{"lat":39.953802, "lng":-75.337619},"cam_id":8635,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 n/o Reed Rd","loc":{"lat":39.96297, "lng":-75.333733},"cam_id":8636,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 @ Lawrence Rd","loc":{"lat":39.972806, "lng":-75.339588},"cam_id":8637,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-422 Btwn Pawlings Rd &amp; Eygpt Rd","loc":{"lat":40.124303, "lng":-75.451094},"cam_id":9558,"description":"Traffic closest to camera is traveling South"}
-{"name":"Rt422 @ Egypt Rd","loc":{"lat":40.134715, "lng":-75.446785},"cam_id":9559,"description":"Traffic closest to camera is traveling West"}
-{"name":"RT-422 w/o Indian Head Rd","loc":{"lat":40.147784, "lng":-75.460309},"cam_id":9560,"description":"Traffic closest to camera is traveling East"}
-{"name":"RT-422 @ Cider Mil Rd","loc":{"lat":40.1505, "lng":-75.459886},"cam_id":9561,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-422 @ PA-29","loc":{"lat":40.156804, "lng":-75.46998},"cam_id":9562,"description":"Traffic closest to camera is traveling West"}
-{"name":"RT-63 @ Millbrook Rd","loc":{"lat":40.080925, "lng":-74.965648},"cam_id":9563,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-676 @ 24th St","loc":{"lat":39.960049, "lng":-75.178635},"cam_id":9564,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-676 @ Ben Franklin Pkwy","loc":{"lat":39.959, "lng":-75.1724},"cam_id":9565,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-676 @ 20th St","loc":{"lat":39.958798, "lng":-75.17066},"cam_id":9566,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-676 @ 18th St","loc":{"lat":39.9587, "lng":-75.1687},"cam_id":9567,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-676 @ 16th St","loc":{"lat":39.958153, "lng":-75.165364},"cam_id":9568,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-676 @ Broad St","loc":{"lat":39.957756, "lng":-75.162034},"cam_id":9569,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-676 @ 11th St","loc":{"lat":39.957116, "lng":-75.157304},"cam_id":9570,"description":"Traffic closest to camera is traveling East"}
-{"name":"Harbison Ave @ Sanger St","loc":{"lat":40.016847, "lng":-75.066832},"cam_id":11913,"description":"Traffic closest to camera is traveling South"}
-{"name":"PA-23 @ Fayette St","loc":{"lat":40.068957, "lng":-75.311242},"cam_id":11914,"description":"Traffic closest to camera is traveling East"}
-{"name":"PA-23 @ Hollow Rd","loc":{"lat":40.030956, "lng":-75.263107},"cam_id":11915,"description":"Traffic closest to camera is traveling West"}
-{"name":"US-1 @ PA-23","loc":{"lat":40.001264, "lng":-75.226194},"cam_id":11916,"description":"Traffic closest to camera is traveling East"}
-{"name":"PA-309 s/o Papermill Rd","loc":{"lat":40.10024, "lng":-75.185239},"cam_id":11918,"description":"Traffic closest to camera is traveling North"}
-{"name":"PA-309 @ Papermill Rd","loc":{"lat":40.102046, "lng":-75.194376},"cam_id":11919,"description":"Traffic closest to camera is traveling South"}
-{"name":"PA-309 @ PA-73 (Church Rd)","loc":{"lat":40.113005, "lng":-75.2012},"cam_id":11920,"description":"Traffic closest to camera is traveling South"}
-{"name":"PA-309 s/o I-276 (PA Tnpk)","loc":{"lat":40.125332, "lng":-75.204116},"cam_id":11921,"description":"Traffic closest to camera is traveling South"}
-{"name":"PA-309 n/o I-276 (PA Tnpk)","loc":{"lat":40.140091, "lng":-75.201563},"cam_id":11922,"description":"Traffic closest to camera is traveling North"}
-{"name":"PA-309 n/o PA-63 (English Village)","loc":{"lat":40.208961, "lng":-75.225032},"cam_id":11923,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 n/o Bullens Ln","loc":{"lat":39.883257, "lng":-75.352293},"cam_id":11929,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 n/o PA-320","loc":{"lat":39.891585, "lng":-75.359409},"cam_id":11930,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 @ SEPTA Overpass","loc":{"lat":39.902923, "lng":-75.364082},"cam_id":11931,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 s/o Plush Mill Rd","loc":{"lat":39.908106, "lng":-75.362036},"cam_id":11932,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 n/o Beatty Rd","loc":{"lat":39.929743, "lng":-75.362529},"cam_id":11933,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 @ PA-3 (W Chester Pike)","loc":{"lat":39.977936, "lng":-75.34082},"cam_id":11934,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 n/o PA-3 (W Chester Pike)","loc":{"lat":39.983941, "lng":-75.338299},"cam_id":11935,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 s/o Marple Rd","loc":{"lat":39.988443, "lng":-75.343379},"cam_id":11936,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 s/o Darby Rd","loc":{"lat":39.995837, "lng":-75.347753},"cam_id":11937,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 s/o Bryn Mawr Ave","loc":{"lat":40.006628, "lng":-75.354561},"cam_id":11938,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 @ Clyde Rd","loc":{"lat":40.015646, "lng":-75.357376},"cam_id":11939,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 n/o US-30 (Exit 13)","loc":{"lat":40.038689, "lng":-75.353366},"cam_id":8639,"description":"Traffic closest to camera is traveling South"}
-{"name":"Torresdale Ave @ Harbison Ave","loc":{"lat":40.013394, "lng":-75.06848},"cam_id":11902,"description":"Traffic closest to camera is traveling East"}
-{"name":"Torresdale Ave @ Robbins St","loc":{"lat":40.020535, "lng":-75.05352},"cam_id":11903,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-476 @ Conestoga Rd","loc":{"lat":40.028747, "lng":-75.3637},"cam_id":11940,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 @ Ridge Pike","loc":{"lat":40.098534, "lng":-75.300033},"cam_id":11941,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 @ Germantown Pike Ramp","loc":{"lat":40.107476, "lng":-75.288272},"cam_id":11942,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-676 @ 8th St","loc":{"lat":39.956885, "lng":-75.152458},"cam_id":9571,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-676 @ 3rd St","loc":{"lat":39.95709, "lng":-75.144664},"cam_id":9572,"description":"Camera located Median"}
-{"name":"I-76 @ Croton Rd","loc":{"lat":40.079081, "lng":-75.378339},"cam_id":9573,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 @ Weadley Rd","loc":{"lat":40.075854, "lng":-75.361414},"cam_id":9574,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 @ Gypsy Rd","loc":{"lat":40.073258, "lng":-75.347398},"cam_id":9575,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 @ Gulph Mills ","loc":{"lat":40.069341, "lng":-75.343037},"cam_id":9576,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-76 @ MM 330.6","loc":{"lat":40.067532, "lng":-75.337332},"cam_id":9577,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 @ Matsonford Rd","loc":{"lat":40.064201, "lng":-75.329595},"cam_id":9578,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 @ I-476 Interchng","loc":{"lat":40.065429, "lng":-75.319932},"cam_id":9579,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 @ MM 332","loc":{"lat":40.066599, "lng":-75.312504},"cam_id":9580,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 @ MM 332.6","loc":{"lat":40.067961, "lng":-75.301245},"cam_id":9581,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 @ Conshohocken Curve N","loc":{"lat":40.071793, "lng":-75.2011242},"cam_id":9582,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 @ Conshohocken Curve S","loc":{"lat":40.067973, "lng":-75.278682},"cam_id":9583,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-76 w/o Waverly Rd","loc":{"lat":40.063783, "lng":-75.276152},"cam_id":9584,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 e/o Waverly Rd","loc":{"lat":40.053328, "lng":-75.266267},"cam_id":9585,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 w/o Gladwyne","loc":{"lat":40.044433, "lng":-75.256645},"cam_id":9586,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 @ Gladwyne","loc":{"lat":40.038435, "lng":-75.248517},"cam_id":9587,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 e/o Gladwyne","loc":{"lat":40.037203, "lng":-75.246649},"cam_id":9588,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 w/o Belmont Ave","loc":{"lat":40.031681, "lng":-75.2388},"cam_id":9589,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 @ Belmont Ave","loc":{"lat":40.025108, "lng":-75.228989},"cam_id":9590,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 e/o Belmont Ave","loc":{"lat":40.019287, "lng":-75.218236},"cam_id":9591,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-76 WB @ City Ave","loc":{"lat":40.011294, "lng":-75.20849},"cam_id":9592,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 Aft City Ave","loc":{"lat":40.009588, "lng":-75.207656},"cam_id":9593,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 E @ US1","loc":{"lat":40.006554, "lng":-75.199163},"cam_id":9594,"description":"Traffic closest to camera is traveling East"}
-{"name":"US-1 @ I-76","loc":{"lat":40.004985, "lng":-75.194563},"cam_id":9595,"description":"Camera located Median"}
-{"name":"I-76 w/o Montgomery Dr","loc":{"lat":39.994843, "lng":-75.197918},"cam_id":9596,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 @ Montgomery Dr","loc":{"lat":39.98709, "lng":-75.208017},"cam_id":9597,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 e/o Montgomery Dr","loc":{"lat":39.982881, "lng":-75.20821},"cam_id":9598,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 w/o Girard Ave","loc":{"lat":39.978151, "lng":-75.202341},"cam_id":9599,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 @ Girard Ave","loc":{"lat":39.976595, "lng":-75.197227},"cam_id":9600,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 e/o Girard Ave","loc":{"lat":39.974199, "lng":-75.193929},"cam_id":9601,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 w/o Spring Garden St","loc":{"lat":39.969199, "lng":-75.192234},"cam_id":9602,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 @ Spring Garden St","loc":{"lat":39.964045, "lng":-75.184147},"cam_id":9603,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-76 @ I-676","loc":{"lat":39.960271, "lng":-75.181489},"cam_id":9604,"description":"Camera located Median"}
-{"name":"I-76 e/o I-676","loc":{"lat":39.9557, "lng":-75.1806},"cam_id":9605,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 @ 30th Street","loc":{"lat":39.9536, "lng":-75.1815},"cam_id":9606,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 w/o South St","loc":{"lat":39.948823, "lng":-75.185161},"cam_id":9607,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-76 e/o South St","loc":{"lat":39.945013, "lng":-75.191216},"cam_id":9608,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 @ University Ave","loc":{"lat":39.943335, "lng":-75.19304},"cam_id":9609,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 @ Grays Ferry","loc":{"lat":39.934827, "lng":-75.200018},"cam_id":9610,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 @ Vare Ave","loc":{"lat":39.929042, "lng":-75.197317},"cam_id":9611,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-76 &amp; Passyunk Ave","loc":{"lat":39.92273, "lng":-75.191678},"cam_id":9612,"description":"Traffic closest to camera is traveling East"}
-{"name":"26th Street @ I-76 ","loc":{"lat":39.9216, "lng":-75.1906},"cam_id":9613,"description":"Traffic closest to camera is traveling East"}
-{"name":"I-95 @ Indiana St","loc":{"lat":39.979865, "lng":-75.105587},"cam_id":9615,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-95 @ Castor Ave","loc":{"lat":39.988474, "lng":-75.088116},"cam_id":9616,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-95 @ Betsy Ross","loc":{"lat":39.997474, "lng":-75.082157},"cam_id":9617,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-95 @ Wakeling St","loc":{"lat":40.007602, "lng":-75.072676},"cam_id":9618,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-95 @ Van Kirk St","loc":{"lat":40.012461, "lng":-75.058764},"cam_id":9619,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-95 @ Amtrk","loc":{"lat":40.04104, "lng":-75.004579},"cam_id":9620,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-95 @ Academy Rd","loc":{"lat":40.048087, "lng":-74.999732},"cam_id":9621,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-95 @ Convent Lane","loc":{"lat":40.051024, "lng":-74.989336},"cam_id":9622,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-95 @ Mill Rd","loc":{"lat":40.058591, "lng":-74.98158},"cam_id":9623,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-95 @ Tennis Ave","loc":{"lat":40.063657, "lng":-74.970704},"cam_id":9624,"description":"Traffic closest to camera is traveling North"}
-{"name":"RAMP: I-95 to PA-63W","loc":{"lat":40.068009, "lng":-74.961042},"cam_id":9625,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-95 @ Woodhaven Dr","loc":{"lat":40.070602, "lng":-74.961126},"cam_id":9626,"description":"Traffic closest to camera is traveling West"}
-{"name":"I-95 @ Station Ave","loc":{"lat":40.074024, "lng":-74.948979},"cam_id":9627,"description":"Traffic closest to camera is traveling North"}
-{"name":"PA-291 s/o I-76","loc":{"lat":39.916392, "lng":-75.191475},"cam_id":9628,"description":"Traffic closest to camera is traveling North"}
-{"name":"26th St @ Penrose Ave","loc":{"lat":39.906196, "lng":-75.193563},"cam_id":9629,"description":"Traffic closest to camera is traveling North"}
-{"name":"Platt Bridge Midspan","loc":{"lat":39.897999, "lng":-75.210979},"cam_id":9630,"description":"Traffic closest to camera is traveling South"}
-{"name":"Platt Bridge @ I-95","loc":{"lat":39.892626, "lng":-75.223462},"cam_id":9631,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-309 @ Easton Rd","loc":{"lat":40.08789, "lng":-75.166087},"cam_id":9632,"description":"Traffic closest to camera is traveling South"}
-{"name":"RT-309 n/o PA-Trnpk","loc":{"lat":40.1334, "lng":-75.2011},"cam_id":9633,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-309 @ Susquehana","loc":{"lat":40.160967, "lng":-75.201122},"cam_id":9634,"description":"Traffic closest to camera is traveling North"}
-{"name":"RT-309 @ Beth Pk Mrg","loc":{"lat":40.195359, "lng":-75.222847},"cam_id":9635,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 &amp; McDade Blvd","loc":{"lat":39.875729, "lng":-75.348688},"cam_id":9636,"description":"Traffic closest to camera is traveling North"}
-{"name":"I-476 @ McDade Blvd","loc":{"lat":39.876811, "lng":-75.351744},"cam_id":9637,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 @ Baltimore Pike","loc":{"lat":39.912593, "lng":-75.362486},"cam_id":9638,"description":"Traffic closest to camera is traveling South"}
-{"name":"I-476 @ RT-1","loc":{"lat":39.936081, "lng":-75.364619},"cam_id":9639,"description":"Traffic closest to camera is traveling South"}
-{"name":"Torresdale Ave @ Levick St","loc":{"lat":40.021556, "lng":-75.051592},"cam_id":11904,"description":"Traffic closest to camera is traveling East"}
-{"name":"Torresdale Ave @ Princeton Ave","loc":{"lat":40.028194, "lng":-75.038753},"cam_id":11905,"description":"Traffic closest to camera is traveling East"}
-{"name":"Torresdale Ave @ Cottman Ave","loc":{"lat":40.030124, "lng":-75.03503},"cam_id":11906,"description":"Traffic closest to camera is traveling East"}
-{"name":"Torresdale Ave @ Rhawn St","loc":{"lat":40.03527, "lng":-75.025055},"cam_id":11907,"description":"Traffic closest to camera is traveling East"}
-{"name":"Torresdale Ave @ Ashburner St","loc":{"lat":40.040348, "lng":-75.015231},"cam_id":11908,"description":"Traffic closest to camera is traveling East"}
-{"name":"Torresdale Ave @ Linden Ave","loc":{"lat":40.050419, "lng":-74.999684},"cam_id":11909,"description":"Traffic closest to camera is traveling East"}
-{"name":"State Rd @ Princeton Ave","loc":{"lat":40.023963, "lng":-75.035242},"cam_id":11910,"description":"&amp;#32"}
-{"name":"State Rd @ Cottman Ave","loc":{"lat":40.02568, "lng":-75.031477},"cam_id":11911,"description":"Traffic closest to camera is traveling East"}
-{"name":"Aramingo Ave @ Tacony St","loc":{"lat":40.008064, "lng":-75.072405},"cam_id":11912,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-95 @ Disston St","loc":[40.022241,-75.038786],"cam_id":8615,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-95 n/o Cottman Ave","loc":[40.029495,-75.022104],"cam_id":8616,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-95 s/o Pennypack St","loc":[40.035241,-75.018385],"cam_id":8617,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-95 @ Broad St","loc":[39.899367,-75.175699],"cam_id":8626,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-95 @ Walt Whitman Bridge","loc":[39.907123,-75.149381],"cam_id":8627,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-95 @ I-476","loc":[39.867107,-75.343658],"cam_id":8633,"description":"Camera located Median"}
+{"name":"I-95 @ Island Ave","loc":[39.893144,-75.234534],"cam_id":8624,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-95 @ Enterprise Ave","loc":[39.887177,-75.214916],"cam_id":8625,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-95 @ Front St","loc":[39.910221,-75.149388],"cam_id":8628,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-95 @ Tasker St","loc":[39.927897,-75.146736],"cam_id":8629,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-95 @ Columbus Blvd","loc":[39.938433,-75.143736],"cam_id":8630,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-95 @ Frankford Ave","loc":[39.967112,-75.134177],"cam_id":8631,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-95 @ Girard Ave","loc":[39.973515,-75.120399],"cam_id":8632,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 @ RT-320","loc":[39.945169,-75.348552],"cam_id":8634,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 n/o County Line Rd","loc":[40.051814,-75.344397],"cam_id":8641,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 e/o Old Gulph Rd","loc":[40.057296,-75.331224],"cam_id":8642,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-476 @ I-76","loc":[40.063823,-75.321393],"cam_id":8643,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 s/o Front St &amp; Brdg","loc":[40.074794,-75.32235],"cam_id":8644,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 @ Access Rd Brdg","loc":[40.083,-75.3111],"cam_id":8645,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 s/o Ridge Pk","loc":[40.094607,-75.30484],"cam_id":8646,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 n/o Ridge Pk","loc":[40.1001,-75.2916],"cam_id":8647,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-95 @ Vine Exp &amp; BF Bridge","loc":[39.952847,-75.141122],"cam_id":9489,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-95 @ Race St","loc":[39.955904,-75.14087],"cam_id":9490,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-95 @ Callowhil St","loc":[39.958012,-75.141354],"cam_id":9491,"description":"Traffic closest to camera is traveling South"}
+{"name":"US-1 Btwn Henry Ave &amp; Scotts Ln","loc":[40.010251,-75.184872],"cam_id":9492,"description":"Traffic closest to camera is traveling North"}
+{"name":"US-1 @ Fox St","loc":[40.01404,-75.17919],"cam_id":9493,"description":"Traffic closest to camera is traveling South"}
+{"name":"US-1 @ Wissahickon Ave","loc":[40.017707,-75.172798],"cam_id":9494,"description":"Traffic closest to camera is traveling South"}
+{"name":"US-1 @ Roberts Ave","loc":[40.018437,-75.166775],"cam_id":9495,"description":"Traffic closest to camera is traveling North"}
+{"name":"US-1 @ 17th St","loc":[40.020304,-75.153978],"cam_id":9496,"description":"Traffic closest to camera is traveling East"}
+{"name":"US-1 @ Broad St","loc":[40.019815,-75.148496],"cam_id":9497,"description":"Traffic closest to camera is traveling West"}
+{"name":"US-1 @ 9th St","loc":[40.020156,-75.142234],"cam_id":9498,"description":"Camera located Median"}
+{"name":"US-1 NB @ Creek Rd","loc":[39.871861,-75.591513],"cam_id":9499,"description":"Traffic closest to camera is traveling East"}
+{"name":"RT-100 @ Phoenixville Pike","loc":[39.996233,-75.593971],"cam_id":9500,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-100 Bef Kirkland","loc":[40.002929,-75.599581],"cam_id":9501,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-100 Aft Boot Rd","loc":[40.007684,-75.612882],"cam_id":9502,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-100 &amp; Pottstown Pike","loc":[40.012512,-75.616486],"cam_id":9503,"description":"Camera located Median"}
+{"name":"RT-100 @ Mtn View Dr","loc":[40.01719,-75.621372],"cam_id":9504,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-100 @ SR-30","loc":[40.027992,-75.627822],"cam_id":9505,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-100 @ Sunrise Blvd","loc":[40.038478,-75.631981],"cam_id":9506,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-100 s/o Ship Rd","loc":[40.046488,-75.633459],"cam_id":9507,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-100 @ Worthington Rd","loc":[40.055021,-75.641295],"cam_id":9508,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-202 @ Town Ctr Rd","loc":[40.093325,-75.367394],"cam_id":9511,"description":"Camera located Median"}
+{"name":"RT-202 @ Allendale Rd","loc":[40.087684,-75.383453],"cam_id":9512,"description":"Camera located Median"}
+{"name":"RT-202 @ US-202 &amp; I-76","loc":[40.083205,-75.394341],"cam_id":9513,"description":"Traffic closest to camera is traveling East"}
+{"name":"RT-202 @ US-202 &amp; PA-422","loc":[40.080145,-75.406981],"cam_id":9514,"description":"Traffic closest to camera is traveling West"}
+{"name":"RT-202 @ Valley Rd","loc":[40.073279,-75.427095],"cam_id":9515,"description":"Traffic closest to camera is traveling East"}
+{"name":"RT-202 @ RT-252","loc":[40.071801,-75.441375],"cam_id":9516,"description":"Traffic closest to camera is traveling West"}
+{"name":"RT-202 @ RT-252","loc":[40.067764,-75.452075],"cam_id":9517,"description":"Traffic closest to camera is traveling West"}
+{"name":"RT-202 @ Chestbrook Blvd","loc":[40.065417,-75.4603],"cam_id":9518,"description":"Traffic closest to camera is traveling East"}
+{"name":"RT-202 @ Howellvllle Rd","loc":[40.064198,-75.472478],"cam_id":9519,"description":"Traffic closest to camera is traveling West"}
+{"name":"RT-202 &amp; Valley Rd","loc":[40.057932,-75.486049],"cam_id":9520,"description":"Traffic closest to camera is traveling East"}
+{"name":"RT-202 @ Cedar Hollow Rd","loc":[40.056071,-75.500422],"cam_id":9521,"description":"Traffic closest to camera is traveling West"}
+{"name":"RT-202 @ PA-29","loc":[40.051502,-75.533384],"cam_id":9522,"description":"Traffic closest to camera is traveling East"}
+{"name":"RT-202 @ Mill Lane","loc":[40.050795,-75.54685],"cam_id":9523,"description":"Traffic closest to camera is traveling East"}
+{"name":"RT-202 @ Church Rd","loc":[40.0518,-75.561478],"cam_id":9524,"description":"Traffic closest to camera is traveling South"}
+{"name":"RT-202 @ PA-401","loc":[40.043094,-75.570364],"cam_id":9525,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-202 @ RT-30","loc":[40.034072,-75.583724],"cam_id":9526,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-202 @ King Rd","loc":[40.021834,-75.587664],"cam_id":9527,"description":"Traffic closest to camera is traveling South"}
+{"name":"RT-202 @ Morstein Rd","loc":[40.011358,-75.581101],"cam_id":9528,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-202 @ Boot Rd","loc":[40.00527,-75.582383],"cam_id":9529,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-202 @ SR-100","loc":[39.991901,-75.588952],"cam_id":9530,"description":"Traffic closest to camera is traveling South"}
+{"name":"RT-202 @ SR-322","loc":[39.981112,-75.588848],"cam_id":9531,"description":"Traffic closest to camera is traveling South"}
+{"name":"RT-202 @ Paoli Pike","loc":[39.972792,-75.583476],"cam_id":9532,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-202 @ Chester Pike","loc":[39.967216,-75.581489],"cam_id":9533,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-202 &amp; Westtown Rd","loc":[39.95938,-75.579706],"cam_id":9534,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-202 &amp; Bolmar St","loc":[39.950463,-75.58186],"cam_id":9535,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-202 @ PA-322","loc":[39.939962,-75.59088],"cam_id":9536,"description":"Traffic closest to camera is traveling South"}
+{"name":"RT-202 @ Skiles Blvd","loc":[39.930374,-75.585545],"cam_id":9537,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-202 @ PA-926","loc":[39.91955,-75.576952],"cam_id":9538,"description":"Traffic closest to camera is traveling South"}
+{"name":"RT-202 @ Green Tree Dr","loc":[39.911253,-75.571124],"cam_id":9539,"description":"Traffic closest to camera is traveling South"}
+{"name":"RT-202 @ Watkins","loc":[39.891427,-75.555418],"cam_id":9540,"description":"Traffic closest to camera is traveling South"}
+{"name":"RT-202 @ RT-1","loc":[39.881181,-75.547159],"cam_id":9541,"description":"Traffic closest to camera is traveling South"}
+{"name":"RT-202 Ramp L","loc":[40.078518,-75.405679],"cam_id":9542,"description":"Traffic closest to camera is traveling East"}
+{"name":"RT-202 @ Continental Dr","loc":[40.080357,-75.398429],"cam_id":9543,"description":"Traffic closest to camera is traveling East"}
+{"name":"RT-202 @ I-76","loc":[40.081386,-75.391506],"cam_id":9544,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 @ RT-202 &amp; RT-422","loc":[40.083155,-75.397335],"cam_id":9545,"description":"Traffic closest to camera is traveling West"}
+{"name":"RT-30 @ RT-100","loc":[40.020545,-75.624261],"cam_id":9546,"description":"Traffic closest to camera is traveling East"}
+{"name":"RT-422 @ PA-Tnpk","loc":[40.090324,-75.415266],"cam_id":9553,"description":"Traffic closest to camera is traveling South"}
+{"name":"RT-422 @ PA-23","loc":[40.101426,-75.41845],"cam_id":9554,"description":"Traffic closest to camera is traveling West"}
+{"name":"RT-422 @ PA-363","loc":[40.113103,-75.420018],"cam_id":9555,"description":"Traffic closest to camera is traveling West"}
+{"name":"RT-422 @ PA-363","loc":[40.115942,-75.431126],"cam_id":9556,"description":"Traffic closest to camera is traveling West"}
+{"name":"Rt-422 @ Pawlngs Rd","loc":[40.114187,-75.454858],"cam_id":9557,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-476 @ Reed Rd","loc":[39.953802,-75.337619],"cam_id":8635,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 n/o Reed Rd","loc":[39.96297,-75.333733],"cam_id":8636,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 @ Lawrence Rd","loc":[39.972806,-75.339588],"cam_id":8637,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-422 Btwn Pawlings Rd &amp; Eygpt Rd","loc":[40.124303,-75.451094],"cam_id":9558,"description":"Traffic closest to camera is traveling South"}
+{"name":"Rt422 @ Egypt Rd","loc":[40.134715,-75.446785],"cam_id":9559,"description":"Traffic closest to camera is traveling West"}
+{"name":"RT-422 w/o Indian Head Rd","loc":[40.147784,-75.460309],"cam_id":9560,"description":"Traffic closest to camera is traveling East"}
+{"name":"RT-422 @ Cider Mil Rd","loc":[40.1505,-75.459886],"cam_id":9561,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-422 @ PA-29","loc":[40.156804,-75.46998],"cam_id":9562,"description":"Traffic closest to camera is traveling West"}
+{"name":"RT-63 @ Millbrook Rd","loc":[40.080925,-74.965648],"cam_id":9563,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-676 @ 24th St","loc":[39.960049,-75.178635],"cam_id":9564,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-676 @ Ben Franklin Pkwy","loc":[39.959,-75.1724],"cam_id":9565,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-676 @ 20th St","loc":[39.958798,-75.17066],"cam_id":9566,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-676 @ 18th St","loc":[39.9587,-75.1687],"cam_id":9567,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-676 @ 16th St","loc":[39.958153,-75.165364],"cam_id":9568,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-676 @ Broad St","loc":[39.957756,-75.162034],"cam_id":9569,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-676 @ 11th St","loc":[39.957116,-75.157304],"cam_id":9570,"description":"Traffic closest to camera is traveling East"}
+{"name":"Harbison Ave @ Sanger St","loc":[40.016847,-75.066832],"cam_id":11913,"description":"Traffic closest to camera is traveling South"}
+{"name":"PA-23 @ Fayette St","loc":[40.068957,-75.311242],"cam_id":11914,"description":"Traffic closest to camera is traveling East"}
+{"name":"PA-23 @ Hollow Rd","loc":[40.030956,-75.263107],"cam_id":11915,"description":"Traffic closest to camera is traveling West"}
+{"name":"US-1 @ PA-23","loc":[40.001264,-75.226194],"cam_id":11916,"description":"Traffic closest to camera is traveling East"}
+{"name":"PA-309 s/o Papermill Rd","loc":[40.10024,-75.185239],"cam_id":11918,"description":"Traffic closest to camera is traveling North"}
+{"name":"PA-309 @ Papermill Rd","loc":[40.102046,-75.194376],"cam_id":11919,"description":"Traffic closest to camera is traveling South"}
+{"name":"PA-309 @ PA-73 (Church Rd)","loc":[40.113005,-75.2012],"cam_id":11920,"description":"Traffic closest to camera is traveling South"}
+{"name":"PA-309 s/o I-276 (PA Tnpk)","loc":[40.125332,-75.204116],"cam_id":11921,"description":"Traffic closest to camera is traveling South"}
+{"name":"PA-309 n/o I-276 (PA Tnpk)","loc":[40.140091,-75.201563],"cam_id":11922,"description":"Traffic closest to camera is traveling North"}
+{"name":"PA-309 n/o PA-63 (English Village)","loc":[40.208961,-75.225032],"cam_id":11923,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 n/o Bullens Ln","loc":[39.883257,-75.352293],"cam_id":11929,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 n/o PA-320","loc":[39.891585,-75.359409],"cam_id":11930,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 @ SEPTA Overpass","loc":[39.902923,-75.364082],"cam_id":11931,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 s/o Plush Mill Rd","loc":[39.908106,-75.362036],"cam_id":11932,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 n/o Beatty Rd","loc":[39.929743,-75.362529],"cam_id":11933,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 @ PA-3 (W Chester Pike)","loc":[39.977936,-75.34082],"cam_id":11934,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 n/o PA-3 (W Chester Pike)","loc":[39.983941,-75.338299],"cam_id":11935,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 s/o Marple Rd","loc":[39.988443,-75.343379],"cam_id":11936,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 s/o Darby Rd","loc":[39.995837,-75.347753],"cam_id":11937,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 s/o Bryn Mawr Ave","loc":[40.006628,-75.354561],"cam_id":11938,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 @ Clyde Rd","loc":[40.015646,-75.357376],"cam_id":11939,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 n/o US-30 (Exit 13)","loc":[40.038689,-75.353366],"cam_id":8639,"description":"Traffic closest to camera is traveling South"}
+{"name":"Torresdale Ave @ Harbison Ave","loc":[40.013394,-75.06848],"cam_id":11902,"description":"Traffic closest to camera is traveling East"}
+{"name":"Torresdale Ave @ Robbins St","loc":[40.020535,-75.05352],"cam_id":11903,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-476 @ Conestoga Rd","loc":[40.028747,-75.3637],"cam_id":11940,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 @ Ridge Pike","loc":[40.098534,-75.300033],"cam_id":11941,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 @ Germantown Pike Ramp","loc":[40.107476,-75.288272],"cam_id":11942,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-676 @ 8th St","loc":[39.956885,-75.152458],"cam_id":9571,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-676 @ 3rd St","loc":[39.95709,-75.144664],"cam_id":9572,"description":"Camera located Median"}
+{"name":"I-76 @ Croton Rd","loc":[40.079081,-75.378339],"cam_id":9573,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 @ Weadley Rd","loc":[40.075854,-75.361414],"cam_id":9574,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 @ Gypsy Rd","loc":[40.073258,-75.347398],"cam_id":9575,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 @ Gulph Mills ","loc":[40.069341,-75.343037],"cam_id":9576,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-76 @ MM 330.6","loc":[40.067532,-75.337332],"cam_id":9577,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 @ Matsonford Rd","loc":[40.064201,-75.329595],"cam_id":9578,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 @ I-476 Interchng","loc":[40.065429,-75.319932],"cam_id":9579,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 @ MM 332","loc":[40.066599,-75.312504],"cam_id":9580,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 @ MM 332.6","loc":[40.067961,-75.301245],"cam_id":9581,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 @ Conshohocken Curve N","loc":[40.071793,-75.2011242],"cam_id":9582,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 @ Conshohocken Curve S","loc":[40.067973,-75.278682],"cam_id":9583,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-76 w/o Waverly Rd","loc":[40.063783,-75.276152],"cam_id":9584,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 e/o Waverly Rd","loc":[40.053328,-75.266267],"cam_id":9585,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 w/o Gladwyne","loc":[40.044433,-75.256645],"cam_id":9586,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 @ Gladwyne","loc":[40.038435,-75.248517],"cam_id":9587,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 e/o Gladwyne","loc":[40.037203,-75.246649],"cam_id":9588,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 w/o Belmont Ave","loc":[40.031681,-75.2388],"cam_id":9589,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 @ Belmont Ave","loc":[40.025108,-75.228989],"cam_id":9590,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 e/o Belmont Ave","loc":[40.019287,-75.218236],"cam_id":9591,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-76 WB @ City Ave","loc":[40.011294,-75.20849],"cam_id":9592,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 Aft City Ave","loc":[40.009588,-75.207656],"cam_id":9593,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 E @ US1","loc":[40.006554,-75.199163],"cam_id":9594,"description":"Traffic closest to camera is traveling East"}
+{"name":"US-1 @ I-76","loc":[40.004985,-75.194563],"cam_id":9595,"description":"Camera located Median"}
+{"name":"I-76 w/o Montgomery Dr","loc":[39.994843,-75.197918],"cam_id":9596,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 @ Montgomery Dr","loc":[39.98709,-75.208017],"cam_id":9597,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 e/o Montgomery Dr","loc":[39.982881,-75.20821],"cam_id":9598,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 w/o Girard Ave","loc":[39.978151,-75.202341],"cam_id":9599,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 @ Girard Ave","loc":[39.976595,-75.197227],"cam_id":9600,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 e/o Girard Ave","loc":[39.974199,-75.193929],"cam_id":9601,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 w/o Spring Garden St","loc":[39.969199,-75.192234],"cam_id":9602,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 @ Spring Garden St","loc":[39.964045,-75.184147],"cam_id":9603,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-76 @ I-676","loc":[39.960271,-75.181489],"cam_id":9604,"description":"Camera located Median"}
+{"name":"I-76 e/o I-676","loc":[39.9557,-75.1806],"cam_id":9605,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 @ 30th Street","loc":[39.9536,-75.1815],"cam_id":9606,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 w/o South St","loc":[39.948823,-75.185161],"cam_id":9607,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-76 e/o South St","loc":[39.945013,-75.191216],"cam_id":9608,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 @ University Ave","loc":[39.943335,-75.19304],"cam_id":9609,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 @ Grays Ferry","loc":[39.934827,-75.200018],"cam_id":9610,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 @ Vare Ave","loc":[39.929042,-75.197317],"cam_id":9611,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-76 &amp; Passyunk Ave","loc":[39.92273,-75.191678],"cam_id":9612,"description":"Traffic closest to camera is traveling East"}
+{"name":"26th Street @ I-76 ","loc":[39.9216,-75.1906],"cam_id":9613,"description":"Traffic closest to camera is traveling East"}
+{"name":"I-95 @ Indiana St","loc":[39.979865,-75.105587],"cam_id":9615,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-95 @ Castor Ave","loc":[39.988474,-75.088116],"cam_id":9616,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-95 @ Betsy Ross","loc":[39.997474,-75.082157],"cam_id":9617,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-95 @ Wakeling St","loc":[40.007602,-75.072676],"cam_id":9618,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-95 @ Van Kirk St","loc":[40.012461,-75.058764],"cam_id":9619,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-95 @ Amtrk","loc":[40.04104,-75.004579],"cam_id":9620,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-95 @ Academy Rd","loc":[40.048087,-74.999732],"cam_id":9621,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-95 @ Convent Lane","loc":[40.051024,-74.989336],"cam_id":9622,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-95 @ Mill Rd","loc":[40.058591,-74.98158],"cam_id":9623,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-95 @ Tennis Ave","loc":[40.063657,-74.970704],"cam_id":9624,"description":"Traffic closest to camera is traveling North"}
+{"name":"RAMP: I-95 to PA-63W","loc":[40.068009,-74.961042],"cam_id":9625,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-95 @ Woodhaven Dr","loc":[40.070602,-74.961126],"cam_id":9626,"description":"Traffic closest to camera is traveling West"}
+{"name":"I-95 @ Station Ave","loc":[40.074024,-74.948979],"cam_id":9627,"description":"Traffic closest to camera is traveling North"}
+{"name":"PA-291 s/o I-76","loc":[39.916392,-75.191475],"cam_id":9628,"description":"Traffic closest to camera is traveling North"}
+{"name":"26th St @ Penrose Ave","loc":[39.906196,-75.193563],"cam_id":9629,"description":"Traffic closest to camera is traveling North"}
+{"name":"Platt Bridge Midspan","loc":[39.897999,-75.210979],"cam_id":9630,"description":"Traffic closest to camera is traveling South"}
+{"name":"Platt Bridge @ I-95","loc":[39.892626,-75.223462],"cam_id":9631,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-309 @ Easton Rd","loc":[40.08789,-75.166087],"cam_id":9632,"description":"Traffic closest to camera is traveling South"}
+{"name":"RT-309 n/o PA-Trnpk","loc":[40.1334,-75.2011],"cam_id":9633,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-309 @ Susquehana","loc":[40.160967,-75.201122],"cam_id":9634,"description":"Traffic closest to camera is traveling North"}
+{"name":"RT-309 @ Beth Pk Mrg","loc":[40.195359,-75.222847],"cam_id":9635,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 &amp; McDade Blvd","loc":[39.875729,-75.348688],"cam_id":9636,"description":"Traffic closest to camera is traveling North"}
+{"name":"I-476 @ McDade Blvd","loc":[39.876811,-75.351744],"cam_id":9637,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 @ Baltimore Pike","loc":[39.912593,-75.362486],"cam_id":9638,"description":"Traffic closest to camera is traveling South"}
+{"name":"I-476 @ RT-1","loc":[39.936081,-75.364619],"cam_id":9639,"description":"Traffic closest to camera is traveling South"}
+{"name":"Torresdale Ave @ Levick St","loc":[40.021556,-75.051592],"cam_id":11904,"description":"Traffic closest to camera is traveling East"}
+{"name":"Torresdale Ave @ Princeton Ave","loc":[40.028194,-75.038753],"cam_id":11905,"description":"Traffic closest to camera is traveling East"}
+{"name":"Torresdale Ave @ Cottman Ave","loc":[40.030124,-75.03503],"cam_id":11906,"description":"Traffic closest to camera is traveling East"}
+{"name":"Torresdale Ave @ Rhawn St","loc":[40.03527,-75.025055],"cam_id":11907,"description":"Traffic closest to camera is traveling East"}
+{"name":"Torresdale Ave @ Ashburner St","loc":[40.040348,-75.015231],"cam_id":11908,"description":"Traffic closest to camera is traveling East"}
+{"name":"Torresdale Ave @ Linden Ave","loc":[40.050419,-74.999684],"cam_id":11909,"description":"Traffic closest to camera is traveling East"}
+{"name":"State Rd @ Princeton Ave","loc":[40.023963,-75.035242],"cam_id":11910,"description":"&amp;#32"}
+{"name":"State Rd @ Cottman Ave","loc":[40.02568,-75.031477],"cam_id":11911,"description":"Traffic closest to camera is traveling East"}
+{"name":"Aramingo Ave @ Tacony St","loc":[40.008064,-75.072405],"cam_id":11912,"description":"Traffic closest to camera is traveling East"}
