@@ -1,2224 +1,1785 @@
 {"cctvs":[
     {
         "cctv_name":"I-95 @ Disston St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.022241,
         "longitude":-75.038786,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8615,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-95 n/o Cottman Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.029495,
         "longitude":-75.022104,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8616,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-95 s/o Pennypack St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.035241,
         "longitude":-75.018385,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8617,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-95 @ Broad St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.899367,
         "longitude":-75.175699,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8626,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-95 @ Walt Whitman Bridge",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.907123,
         "longitude":-75.149381,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8627,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-95 @ I-476",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.867107,
         "longitude":-75.343658,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8633,
-        "description":"Camera located Median",
-        "org_id":"null"
+        "description":"Camera located Median"
     },
     {
         "cctv_name":"I-95 @ Island Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.893144,
         "longitude":-75.234534,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8624,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-95 @ Enterprise Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.887177,
         "longitude":-75.214916,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8625,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-95 @ Front St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.910221,
         "longitude":-75.149388,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8628,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-95 @ Tasker St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.927897,
         "longitude":-75.146736,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8629,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-95 @ Columbus Blvd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.938433,
         "longitude":-75.143736,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8630,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-95 @ Frankford Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.967112,
         "longitude":-75.134177,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8631,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-95 @ Girard Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.973515,
         "longitude":-75.120399,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8632,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ RT-320",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.945169,
         "longitude":-75.348552,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8634,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 n/o County Line Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.051814,
         "longitude":-75.344397,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8641,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 e/o Old Gulph Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.057296,
         "longitude":-75.331224,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8642,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-476 @ I-76",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.063823,
         "longitude":-75.321393,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8643,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 s/o Front St &amp; Brdg",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.074794,
         "longitude":-75.32235,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8644,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ Access Rd Brdg",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.083,
         "longitude":-75.3111,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8645,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 s/o Ridge Pk",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.094607,
         "longitude":-75.30484,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8646,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 n/o Ridge Pk",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.1001,
         "longitude":-75.2916,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8647,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-95 @ Vine Exp &amp; BF Bridge",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.952847,
         "longitude":-75.141122,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9489,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-95 @ Race St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.955904,
         "longitude":-75.14087,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9490,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-95 @ Callowhil St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.958012,
         "longitude":-75.141354,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9491,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"US-1 Btwn Henry Ave &amp; Scotts Ln",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.010251,
         "longitude":-75.184872,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9492,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"US-1 @ Fox St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.01404,
         "longitude":-75.17919,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9493,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"US-1 @ Wissahickon Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.017707,
         "longitude":-75.172798,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9494,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"US-1 @ Roberts Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.018437,
         "longitude":-75.166775,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9495,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"US-1 @ 17th St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.020304,
         "longitude":-75.153978,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9496,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"US-1 @ Broad St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.019815,
         "longitude":-75.148496,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9497,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"US-1 @ 9th St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.020156,
         "longitude":-75.142234,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9498,
-        "description":"Camera located Median",
-        "org_id":"null"
+        "description":"Camera located Median"
     },
     {
         "cctv_name":"US-1 NB @ Creek Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.871861,
         "longitude":-75.591513,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9499,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"RT-100 @ Phoenixville Pike",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.996233,
         "longitude":-75.593971,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9500,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-100 Bef Kirkland",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.002929,
         "longitude":-75.599581,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9501,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-100 Aft Boot Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.007684,
         "longitude":-75.612882,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9502,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-100 &amp; Pottstown Pike",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.012512,
         "longitude":-75.616486,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9503,
-        "description":"Camera located Median",
-        "org_id":"null"
+        "description":"Camera located Median"
     },
     {
         "cctv_name":"RT-100 @ Mtn View Dr",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.01719,
         "longitude":-75.621372,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9504,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-100 @ SR-30",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.027992,
         "longitude":-75.627822,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9505,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-100 @ Sunrise Blvd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.038478,
         "longitude":-75.631981,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9506,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-100 s/o Ship Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.046488,
         "longitude":-75.633459,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9507,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-100 @ Worthington Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.055021,
         "longitude":-75.641295,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9508,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-202 @ Town Ctr Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.093325,
         "longitude":-75.367394,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9511,
-        "description":"Camera located Median",
-        "org_id":"null"
+        "description":"Camera located Median"
     },
     {
         "cctv_name":"RT-202 @ Allendale Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.087684,
         "longitude":-75.383453,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9512,
-        "description":"Camera located Median",
-        "org_id":"null"
+        "description":"Camera located Median"
     },
     {
         "cctv_name":"RT-202 @ US-202 &amp; I-76",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.083205,
         "longitude":-75.394341,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9513,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"RT-202 @ US-202 &amp; PA-422",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.080145,
         "longitude":-75.406981,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9514,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"RT-202 @ Valley Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.073279,
         "longitude":-75.427095,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9515,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"RT-202 @ RT-252",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.071801,
         "longitude":-75.441375,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9516,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"RT-202 @ RT-252",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.067764,
         "longitude":-75.452075,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9517,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"RT-202 @ Chestbrook Blvd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.065417,
         "longitude":-75.4603,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9518,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"RT-202 @ Howellvllle Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.064198,
         "longitude":-75.472478,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9519,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"RT-202 &amp; Valley Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.057932,
         "longitude":-75.486049,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9520,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"RT-202 @ Cedar Hollow Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.056071,
         "longitude":-75.500422,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9521,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"RT-202 @ PA-29",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.051502,
         "longitude":-75.533384,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9522,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"RT-202 @ Mill Lane",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.050795,
         "longitude":-75.54685,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9523,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"RT-202 @ Church Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.0518,
         "longitude":-75.561478,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9524,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"RT-202 @ PA-401",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.043094,
         "longitude":-75.570364,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9525,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-202 @ RT-30",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.034072,
         "longitude":-75.583724,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9526,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-202 @ King Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.021834,
         "longitude":-75.587664,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9527,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"RT-202 @ Morstein Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.011358,
         "longitude":-75.581101,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9528,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-202 @ Boot Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.00527,
         "longitude":-75.582383,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9529,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-202 @ SR-100",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.991901,
         "longitude":-75.588952,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9530,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"RT-202 @ SR-322",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.981112,
         "longitude":-75.588848,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9531,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"RT-202 @ Paoli Pike",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.972792,
         "longitude":-75.583476,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9532,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-202 @ Chester Pike",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.967216,
         "longitude":-75.581489,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9533,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-202 &amp; Westtown Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.95938,
         "longitude":-75.579706,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9534,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-202 &amp; Bolmar St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.950463,
         "longitude":-75.58186,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9535,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-202 @ PA-322",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.939962,
         "longitude":-75.59088,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9536,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"RT-202 @ Skiles Blvd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.930374,
         "longitude":-75.585545,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9537,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-202 @ PA-926",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.91955,
         "longitude":-75.576952,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9538,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"RT-202 @ Green Tree Dr",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.911253,
         "longitude":-75.571124,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9539,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"RT-202 @ Watkins",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.891427,
         "longitude":-75.555418,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9540,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"RT-202 @ RT-1",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.881181,
         "longitude":-75.547159,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9541,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"RT-202 Ramp L",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.078518,
         "longitude":-75.405679,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9542,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"RT-202 @ Continental Dr",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.080357,
         "longitude":-75.398429,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9543,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"RT-202 @ I-76",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.081386,
         "longitude":-75.391506,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9544,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 @ RT-202 &amp; RT-422",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.083155,
         "longitude":-75.397335,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9545,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"RT-30 @ RT-100",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.020545,
         "longitude":-75.624261,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9546,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"RT-422 @ PA-Tnpk",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.090324,
         "longitude":-75.415266,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9553,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"RT-422 @ PA-23",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.101426,
         "longitude":-75.41845,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9554,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"RT-422 @ PA-363",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.113103,
         "longitude":-75.420018,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9555,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"RT-422 @ PA-363",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.115942,
         "longitude":-75.431126,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9556,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"Rt-422 @ Pawlngs Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.114187,
         "longitude":-75.454858,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9557,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-476 @ Reed Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.953802,
         "longitude":-75.337619,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8635,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 n/o Reed Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.96297,
         "longitude":-75.333733,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8636,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 @ Lawrence Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.972806,
         "longitude":-75.339588,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8637,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-422 Btwn Pawlings Rd &amp; Eygpt Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.124303,
         "longitude":-75.451094,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9558,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"Rt422 @ Egypt Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.134715,
         "longitude":-75.446785,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9559,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"RT-422 w/o Indian Head Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.147784,
         "longitude":-75.460309,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9560,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"RT-422 @ Cider Mil Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.1505,
         "longitude":-75.459886,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9561,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-422 @ PA-29",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.156804,
         "longitude":-75.46998,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9562,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"RT-63 @ Millbrook Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.080925,
         "longitude":-74.965648,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9563,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-676 @ 24th St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.960049,
         "longitude":-75.178635,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9564,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-676 @ Ben Franklin Pkwy",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.959,
         "longitude":-75.1724,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9565,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-676 @ 20th St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.958798,
         "longitude":-75.17066,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9566,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-676 @ 18th St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.9587,
         "longitude":-75.1687,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9567,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-676 @ 16th St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.958153,
         "longitude":-75.165364,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9568,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-676 @ Broad St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.957756,
         "longitude":-75.162034,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9569,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-676 @ 11th St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.957116,
         "longitude":-75.157304,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9570,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Harbison Ave @ Sanger St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.016847,
         "longitude":-75.066832,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11913,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"PA-23 @ Fayette St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.068957,
         "longitude":-75.311242,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11914,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"PA-23 @ Hollow Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.030956,
         "longitude":-75.263107,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11915,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"US-1 @ PA-23",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.001264,
         "longitude":-75.226194,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11916,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"PA-309 s/o Papermill Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.10024,
         "longitude":-75.185239,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11918,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"PA-309 @ Papermill Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.102046,
         "longitude":-75.194376,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11919,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"PA-309 @ PA-73 (Church Rd)",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.113005,
         "longitude":-75.2012,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11920,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"PA-309 s/o I-276 (PA Tnpk)",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.125332,
         "longitude":-75.204116,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11921,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"PA-309 n/o I-276 (PA Tnpk)",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.140091,
         "longitude":-75.201563,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11922,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"PA-309 n/o PA-63 (English Village)",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.208961,
         "longitude":-75.225032,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11923,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 n/o Bullens Ln",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.883257,
         "longitude":-75.352293,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11929,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 n/o PA-320",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.891585,
         "longitude":-75.359409,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11930,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ SEPTA Overpass",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.902923,
         "longitude":-75.364082,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11931,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 s/o Plush Mill Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.908106,
         "longitude":-75.362036,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11932,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 n/o Beatty Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.929743,
         "longitude":-75.362529,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11933,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 @ PA-3 (W Chester Pike)",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.977936,
         "longitude":-75.34082,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11934,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 n/o PA-3 (W Chester Pike)",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.983941,
         "longitude":-75.338299,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11935,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 s/o Marple Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.988443,
         "longitude":-75.343379,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11936,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 s/o Darby Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.995837,
         "longitude":-75.347753,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11937,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 s/o Bryn Mawr Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.006628,
         "longitude":-75.354561,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11938,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ Clyde Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.015646,
         "longitude":-75.357376,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11939,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 n/o US-30 (Exit 13)",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.038689,
         "longitude":-75.353366,
         "lastupdated":"4/12/2011 11:36:38 AM",
         "cctv_id":8639,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"Torresdale Ave @ Harbison Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.013394,
         "longitude":-75.06848,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11902,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Robbins St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.020535,
         "longitude":-75.05352,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11903,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-476 @ Conestoga Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.028747,
         "longitude":-75.3637,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11940,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ Ridge Pike",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.098534,
         "longitude":-75.300033,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11941,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ Germantown Pike Ramp",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.107476,
         "longitude":-75.288272,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11942,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-676 @ 8th St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.956885,
         "longitude":-75.152458,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9571,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-676 @ 3rd St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.95709,
         "longitude":-75.144664,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9572,
-        "description":"Camera located Median",
-        "org_id":"null"
+        "description":"Camera located Median"
     },
     {
         "cctv_name":"I-76 @ Croton Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.079081,
         "longitude":-75.378339,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9573,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 @ Weadley Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.075854,
         "longitude":-75.361414,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9574,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 @ Gypsy Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.073258,
         "longitude":-75.347398,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9575,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 @ Gulph Mills ",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.069341,
         "longitude":-75.343037,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9576,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-76 @ MM 330.6",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.067532,
         "longitude":-75.337332,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9577,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 @ Matsonford Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.064201,
         "longitude":-75.329595,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9578,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 @ I-476 Interchng",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.065429,
         "longitude":-75.319932,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9579,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 @ MM 332",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.066599,
         "longitude":-75.312504,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9580,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 @ MM 332.6",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.067961,
         "longitude":-75.301245,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9581,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 @ Conshohocken Curve N",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.071793,
         "longitude":-75.2011242,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9582,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 @ Conshohocken Curve S",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.067973,
         "longitude":-75.278682,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9583,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-76 w/o Waverly Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.063783,
         "longitude":-75.276152,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9584,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 e/o Waverly Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.053328,
         "longitude":-75.266267,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9585,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 w/o Gladwyne",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.044433,
         "longitude":-75.256645,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9586,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 @ Gladwyne",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.038435,
         "longitude":-75.248517,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9587,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 e/o Gladwyne",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.037203,
         "longitude":-75.246649,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9588,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 w/o Belmont Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.031681,
         "longitude":-75.2388,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9589,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 @ Belmont Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.025108,
         "longitude":-75.228989,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9590,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 e/o Belmont Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.019287,
         "longitude":-75.218236,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9591,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-76 WB @ City Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.011294,
         "longitude":-75.20849,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9592,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 Aft City Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.009588,
         "longitude":-75.207656,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9593,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 E @ US1",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.006554,
         "longitude":-75.199163,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9594,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"US-1 @ I-76",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.004985,
         "longitude":-75.194563,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9595,
-        "description":"Camera located Median",
-        "org_id":"null"
+        "description":"Camera located Median"
     },
     {
         "cctv_name":"I-76 w/o Montgomery Dr",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.994843,
         "longitude":-75.197918,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9596,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 @ Montgomery Dr",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.98709,
         "longitude":-75.208017,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9597,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 e/o Montgomery Dr",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.982881,
         "longitude":-75.20821,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9598,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 w/o Girard Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.978151,
         "longitude":-75.202341,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9599,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 @ Girard Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.976595,
         "longitude":-75.197227,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9600,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 e/o Girard Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.974199,
         "longitude":-75.193929,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9601,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 w/o Spring Garden St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.969199,
         "longitude":-75.192234,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9602,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 @ Spring Garden St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.964045,
         "longitude":-75.184147,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9603,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-76 @ I-676",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.960271,
         "longitude":-75.181489,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9604,
-        "description":"Camera located Median",
-        "org_id":"null"
+        "description":"Camera located Median"
     },
     {
         "cctv_name":"I-76 e/o I-676",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.9557,
         "longitude":-75.1806,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9605,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 @ 30th Street",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.9536,
         "longitude":-75.1815,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9606,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 w/o South St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.948823,
         "longitude":-75.185161,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9607,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-76 e/o South St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.945013,
         "longitude":-75.191216,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9608,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 @ University Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.943335,
         "longitude":-75.19304,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9609,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 @ Grays Ferry",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.934827,
         "longitude":-75.200018,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9610,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 @ Vare Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.929042,
         "longitude":-75.197317,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9611,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-76 &amp; Passyunk Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.92273,
         "longitude":-75.191678,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9612,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"26th Street @ I-76 ",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.9216,
         "longitude":-75.1906,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9613,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-95 @ Indiana St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.979865,
         "longitude":-75.105587,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9615,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-95 @ Castor Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.988474,
         "longitude":-75.088116,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9616,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-95 @ Betsy Ross",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.997474,
         "longitude":-75.082157,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9617,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-95 @ Wakeling St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.007602,
         "longitude":-75.072676,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9618,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-95 @ Van Kirk St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.012461,
         "longitude":-75.058764,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9619,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-95 @ Amtrk",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.04104,
         "longitude":-75.004579,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9620,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-95 @ Academy Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.048087,
         "longitude":-74.999732,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9621,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-95 @ Convent Lane",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.051024,
         "longitude":-74.989336,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9622,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-95 @ Mill Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.058591,
         "longitude":-74.98158,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9623,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-95 @ Tennis Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.063657,
         "longitude":-74.970704,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9624,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RAMP: I-95 to PA-63W",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.068009,
         "longitude":-74.961042,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9625,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-95 @ Woodhaven Dr",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.070602,
         "longitude":-74.961126,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9626,
-        "description":"Traffic closest to camera is traveling West",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"I-95 @ Station Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.074024,
         "longitude":-74.948979,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9627,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"PA-291 s/o I-76",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.916392,
         "longitude":-75.191475,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9628,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"26th St @ Penrose Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.906196,
         "longitude":-75.193563,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9629,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"Platt Bridge Midspan",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.897999,
         "longitude":-75.210979,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9630,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"Platt Bridge @ I-95",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.892626,
         "longitude":-75.223462,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9631,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-309 @ Easton Rd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.08789,
         "longitude":-75.166087,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9632,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"RT-309 n/o PA-Trnpk",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.1334,
         "longitude":-75.2011,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9633,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-309 @ Susquehana",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.160967,
         "longitude":-75.201122,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9634,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"RT-309 @ Beth Pk Mrg",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.195359,
         "longitude":-75.222847,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9635,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 &amp; McDade Blvd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.875729,
         "longitude":-75.348688,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9636,
-        "description":"Traffic closest to camera is traveling North",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 @ McDade Blvd",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.876811,
         "longitude":-75.351744,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9637,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ Baltimore Pike",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.912593,
         "longitude":-75.362486,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9638,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ RT-1",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":39.936081,
         "longitude":-75.364619,
         "lastupdated":"4/12/2011 11:36:39 AM",
         "cctv_id":9639,
-        "description":"Traffic closest to camera is traveling South",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"Torresdale Ave @ Levick St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.021556,
         "longitude":-75.051592,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11904,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Princeton Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.028194,
         "longitude":-75.038753,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11905,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Cottman Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.030124,
         "longitude":-75.03503,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11906,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Rhawn St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.03527,
         "longitude":-75.025055,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11907,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Ashburner St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.040348,
         "longitude":-75.015231,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11908,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Linden Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.050419,
         "longitude":-74.999684,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11909,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"State Rd @ Princeton Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.023963,
         "longitude":-75.035242,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11910,
-        "description":"&amp;#32",
-        "org_id":"null"
+        "description":"&amp;#32"
     },
     {
         "cctv_name":"State Rd @ Cottman Ave",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.02568,
         "longitude":-75.031477,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11911,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Aramingo Ave @ Tacony St",
-        "owner_name":"PennDOT",
         "location":"Philadelphia, PA",
         "latitude":40.008064,
         "longitude":-75.072405,
-        "lastupdated":"4/12/2011 11:36:40 AM",
         "cctv_id":11912,
-        "description":"Traffic closest to camera is traveling East",
-        "org_id":"null"
+        "description":"Traffic closest to camera is traveling East"
     }
 ]}
