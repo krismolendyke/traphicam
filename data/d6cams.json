@@ -688,147 +688,147 @@
     {
         "cctv_name":"Harbison Ave @ Sanger St",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.016847, "lng":-75.066832,
+        "loc":{"lat":40.016847, "lng":-75.066832},
         "cctv_id":11913,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"PA-23 @ Fayette St",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.068957, "lng":-75.311242,
+        "loc":{"lat":40.068957, "lng":-75.311242},
         "cctv_id":11914,
         "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"PA-23 @ Hollow Rd",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.030956, "lng":-75.263107,
+        "loc":{"lat":40.030956, "lng":-75.263107},
         "cctv_id":11915,
         "description":"Traffic closest to camera is traveling West"
     },
     {
         "cctv_name":"US-1 @ PA-23",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.001264, "lng":-75.226194,
+        "loc":{"lat":40.001264, "lng":-75.226194},
         "cctv_id":11916,
         "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"PA-309 s/o Papermill Rd",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.10024, "lng":-75.185239,
+        "loc":{"lat":40.10024, "lng":-75.185239},
         "cctv_id":11918,
         "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"PA-309 @ Papermill Rd",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.102046, "lng":-75.194376,
+        "loc":{"lat":40.102046, "lng":-75.194376},
         "cctv_id":11919,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"PA-309 @ PA-73 (Church Rd)",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.113005, "lng":-75.2012,
+        "loc":{"lat":40.113005, "lng":-75.2012},
         "cctv_id":11920,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"PA-309 s/o I-276 (PA Tnpk)",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.125332, "lng":-75.204116,
+        "loc":{"lat":40.125332, "lng":-75.204116},
         "cctv_id":11921,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"PA-309 n/o I-276 (PA Tnpk)",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.140091, "lng":-75.201563,
+        "loc":{"lat":40.140091, "lng":-75.201563},
         "cctv_id":11922,
         "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"PA-309 n/o PA-63 (English Village)",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.208961, "lng":-75.225032,
+        "loc":{"lat":40.208961, "lng":-75.225032},
         "cctv_id":11923,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 n/o Bullens Ln",
         "location":"Philadelphia, PA",
-        "loc":{"lat":39.883257, "lng":-75.352293,
+        "loc":{"lat":39.883257, "lng":-75.352293},
         "cctv_id":11929,
         "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 n/o PA-320",
         "location":"Philadelphia, PA",
-        "loc":{"lat":39.891585, "lng":-75.359409,
+        "loc":{"lat":39.891585, "lng":-75.359409},
         "cctv_id":11930,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ SEPTA Overpass",
         "location":"Philadelphia, PA",
-        "loc":{"lat":39.902923, "lng":-75.364082,
+        "loc":{"lat":39.902923, "lng":-75.364082},
         "cctv_id":11931,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 s/o Plush Mill Rd",
         "location":"Philadelphia, PA",
-        "loc":{"lat":39.908106, "lng":-75.362036,
+        "loc":{"lat":39.908106, "lng":-75.362036},
         "cctv_id":11932,
         "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 n/o Beatty Rd",
         "location":"Philadelphia, PA",
-        "loc":{"lat":39.929743, "lng":-75.362529,
+        "loc":{"lat":39.929743, "lng":-75.362529},
         "cctv_id":11933,
         "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 @ PA-3 (W Chester Pike)",
         "location":"Philadelphia, PA",
-        "loc":{"lat":39.977936, "lng":-75.34082,
+        "loc":{"lat":39.977936, "lng":-75.34082},
         "cctv_id":11934,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 n/o PA-3 (W Chester Pike)",
         "location":"Philadelphia, PA",
-        "loc":{"lat":39.983941, "lng":-75.338299,
+        "loc":{"lat":39.983941, "lng":-75.338299},
         "cctv_id":11935,
         "description":"Traffic closest to camera is traveling North"
     },
     {
         "cctv_name":"I-476 s/o Marple Rd",
         "location":"Philadelphia, PA",
-        "loc":{"lat":39.988443, "lng":-75.343379,
+        "loc":{"lat":39.988443, "lng":-75.343379},
         "cctv_id":11936,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 s/o Darby Rd",
         "location":"Philadelphia, PA",
-        "loc":{"lat":39.995837, "lng":-75.347753,
+        "loc":{"lat":39.995837, "lng":-75.347753},
         "cctv_id":11937,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 s/o Bryn Mawr Ave",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.006628, "lng":-75.354561,
+        "loc":{"lat":40.006628, "lng":-75.354561},
         "cctv_id":11938,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ Clyde Rd",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.015646, "lng":-75.357376,
+        "loc":{"lat":40.015646, "lng":-75.357376},
         "cctv_id":11939,
         "description":"Traffic closest to camera is traveling North"
     },
@@ -842,35 +842,35 @@
     {
         "cctv_name":"Torresdale Ave @ Harbison Ave",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.013394, "lng":-75.06848,
+        "loc":{"lat":40.013394, "lng":-75.06848},
         "cctv_id":11902,
         "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Robbins St",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.020535, "lng":-75.05352,
+        "loc":{"lat":40.020535, "lng":-75.05352},
         "cctv_id":11903,
         "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"I-476 @ Conestoga Rd",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.028747, "lng":-75.3637,
+        "loc":{"lat":40.028747, "lng":-75.3637},
         "cctv_id":11940,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ Ridge Pike",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.098534, "lng":-75.300033,
+        "loc":{"lat":40.098534, "lng":-75.300033},
         "cctv_id":11941,
         "description":"Traffic closest to camera is traveling South"
     },
     {
         "cctv_name":"I-476 @ Germantown Pike Ramp",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.107476, "lng":-75.288272,
+        "loc":{"lat":40.107476, "lng":-75.288272},
         "cctv_id":11942,
         "description":"Traffic closest to camera is traveling South"
     },
@@ -1353,63 +1353,63 @@
     {
         "cctv_name":"Torresdale Ave @ Levick St",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.021556, "lng":-75.051592,
+        "loc":{"lat":40.021556, "lng":-75.051592},
         "cctv_id":11904,
         "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Princeton Ave",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.028194, "lng":-75.038753,
+        "loc":{"lat":40.028194, "lng":-75.038753},
         "cctv_id":11905,
         "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Cottman Ave",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.030124, "lng":-75.03503,
+        "loc":{"lat":40.030124, "lng":-75.03503},
         "cctv_id":11906,
         "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Rhawn St",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.03527, "lng":-75.025055,
+        "loc":{"lat":40.03527, "lng":-75.025055},
         "cctv_id":11907,
         "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Ashburner St",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.040348, "lng":-75.015231,
+        "loc":{"lat":40.040348, "lng":-75.015231},
         "cctv_id":11908,
         "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Torresdale Ave @ Linden Ave",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.050419, "lng":-74.999684,
+        "loc":{"lat":40.050419, "lng":-74.999684},
         "cctv_id":11909,
         "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"State Rd @ Princeton Ave",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.023963, "lng":-75.035242,
+        "loc":{"lat":40.023963, "lng":-75.035242},
         "cctv_id":11910,
         "description":"&amp;#32"
     },
     {
         "cctv_name":"State Rd @ Cottman Ave",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.02568, "lng":-75.031477,
+        "loc":{"lat":40.02568, "lng":-75.031477},
         "cctv_id":11911,
         "description":"Traffic closest to camera is traveling East"
     },
     {
         "cctv_name":"Aramingo Ave @ Tacony St",
         "location":"Philadelphia, PA",
-        "loc":{"lat":40.008064, "lng":-75.072405,
+        "loc":{"lat":40.008064, "lng":-75.072405},
         "cctv_id":11912,
         "description":"Traffic closest to camera is traveling East"
     }
