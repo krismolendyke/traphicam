@@ -1,0 +1,283 @@
+Interstate 76
+93  I-76 EB W of Croton
+94  I-76 EB Weadley Rd
+95  I-76 WB W of Gypsy Rd
+96  I-76 EB @ Gulph Mills
+97  I-76 WB @ MM
+98  I-76 EB W of Matsnfrd
+99  I-76 WB @ MM 332
+100 I-76 EB@MM 332.6
+101 I-76 WB Consh Crve
+74  I-76 EB Ramp to US 202/422
+126 I-76 EB West of Gladwyne
+127 I-76 WB West of Gladwyne
+128 I-76 WB East of Gladwyne
+129 I-76 WB West of Belmont
+130 I-76 EB @ Belmont
+131 I-76 WB East of Belmonte
+132 I-76 WB @ City Ave
+133 I-76 EB @ City Ave
+134 I-76 EB @ US1
+135 I-76 EB Ramp to US1 N
+136 I-76 WB West of Montgomery Dr
+137 I-76 EB @ Montgomery
+138 I-76 EB East of Montgomery
+139 I-76 EB West of Girard
+140 I-76 EB @ Girard
+141 I-76 WB East of Girard
+142 I-76 EB West of Spring Garden
+143 I-76 WB Spring Garden
+144 I-76 EB @ I-676
+145 I-76 WB East of I-676
+146 I-76 WB @ 30th St
+147 I-76 WB West of South Street
+148 I-76 EB East of South Street
+149 I-76 EB @ University Ave
+150 I-76 EB East of Grays Ferry
+151 I-76 EB @ Vare Ave
+152 I-76 EB Ramp to Passyunk Ave
+154 I-76 EB to 26th Street
+166 I-76 WB @ I476 Interchange
+167 I-76 WB @ Conshohocken Curve
+168 I-76 EB West of Waverly
+169 I-76 EB East of Waverly
+
+Interstate 95
+102  I-95 NB-95 Indiana St
+103  I-95 NB-95 Castor Ave
+104  I-95 SB-95 Betsy Ross
+105  I-95 SB-95 Wakelng St
+106  I-95 NB-95 Vankirk
+107  I-95 SB-95 Disston St
+108  I-95 NB-95 N of COTMN
+109  I-95 SB-95 Penny Pack
+110  I-95 NB-95 S of Amtrak
+111  I -95 SB-95 Academy Rd
+112  I-95 NB-95 Convent Av
+113  I-95 SB-95 Mil Rd
+114  I-95- 895 Tennis Ave
+115  I-95 NB-Ramp to PA 63
+116  I-95 SB- 95 Woodhaven
+117  I-95 NB-95 Station Av
+1    I-95 SB Island Airport
+2    I-95 SB-EnterPR/Bart
+3    I-95 SB-Broad St.
+4    I-95 NB /WWB Packer
+5    I-95 SB-Packer/Front
+6    I-95 SB-Tasker/Reed
+7    I-95 Wash/Columbus
+8    I-95 SB-Girard Ave
+1113 I-95 @ Girard Ave Exit
+9    I-95 SB-Aramingo/Gir
+10   I-95 NB Ramp to I-76 North
+93   I-95 NB 95@Vine Exp/BF Bridge
+26   I-95 NB 95@Race St.
+27   I-95 SB @Vine/Callowhill
+9521 I-95 SB north of Broad Street
+9522 I-95 NB @ Pattison Avenue
+9525 I-95 NB at Wolf Street
+9528 I-95 SB in Penn's Landing Tunnels
+9529 I-95 NB in Penn's Landing Tunnels
+9553 I-95 NB at Street Road
+9554 I-95 SB after US 13/Bristol Pk.
+9555 I-95 SB North of Street Road
+9556 I-95 SB south of Newportville Pike
+9557 I-95 NB @ PA 413
+9558 I-95 median north of Ford Road overpass
+9559 I-95 @ PA Turnpike overpass
+9560 I-95 @ Trenton Road overpass
+9561 I-95 SB at East Lincoln Highway
+9562 I-95 SB south of PA 213/Old Lincoln Highway
+9563 I-95 NB South of US 1
+9564 I-95 NB at US 1
+9501 I-95 SB before Naaman's Road
+9502 I-95 @ PA 452
+9503 I-95 NB @ US 322 EB
+9504 I-95 SB at US 322
+9505 I-95 NB at ramps to Commodore Barry Bridge
+9506 I-95 NB at Upland Street
+9507 I-95 NB at Melrose Avenue
+9508 I-95 NB north of I-476
+9509 I-95 SB at Stewart Avenue
+9510 I-95 NB before PA 420
+9511 I-95 NB at PA 420
+9512 I-95 SB before PA 420
+9513 I-95 NB approaching Philadelphia Int'l Airport
+9514 I-95 NB at Philadelphia International Airport
+9517 I-95 NB on upstroke of Girard Point Bridge
+9518 I-95 SB on midspan of Girard Point Bridge
+
+Interstate 476
+11    I-476 NB-North of US 1
+12    I-476 NB-Reed Rd
+13    I-476 NB-Blue Rt :7.4
+14    I-476 NB- Lawrence Rd:8.1
+15    I-476 SB-US 30 RMP:13
+16    I-476-US 30/Exit #13
+17    I-476 SB CNTY Ln:13.9
+18    I-476 SB No of Cnty LN
+19    I-476 NB Blue Rt:15.1
+20    I-476 NB @ I-76/Exit 16B
+21    I-476 SB SCHKL R BRDG
+22    I-476 NB Access Rd BRDG
+23    I-476 SB S of Ridge PK
+24    I-476 NB N of Ridge PK
+122   I-476 McDade on Ramp
+123   I-476 SB @ Mcdade Blvd/Exit 1
+124   I-476 SB @Balt Pike
+125   I-476 SB @ US1
+4703  I-476 NB N of Bullend Ln
+4704  I-476 SB N of PA320
+4705  I-476 SB@SEPTA Overpass
+4706  I-476 NB S of Plush Mill Rd
+4708  I-476 NB N of Beatty Rd
+4714  I-476 SB S of West Chester Pike
+4715  I-476 NB N of West Chester Pike
+4716  I-476 SB S of Marple Rd
+4717  I-476 NB S of Darby Rd
+4718  I-476 SB S of Bryn Mawr Ave
+4719  I-476 SB@Clyde Rd
+4720  I-476 SB @ Conestoge Rd
+4730  I-476 SB @ Ridge Pike
+4732  I-476 Ramp from Germantown Pike
+
+PA Route 100
+28 PA 100 NB @ Phoenixville
+29 PA 100 NB BEF Kirkland
+30 PA 100 SB AFT BOOT RD
+31 PA 100 SB AFT Pottstown
+32 PA 100 NB BEF MTN View
+33 P A 100 NB @ SR3070
+34 PA 100 NB @Sunrise BLVD
+35 PA 100 NB BEF SHIP RD
+36 PA 100 NB @Worthington
+37 PA 100 SB AFT PA 113
+39 PA 100 NB @PA Turnpike
+
+PA Route 291
+155 PA 291 WB E of I-76
+
+PA Route 309
+118  PA 309 SB @ Easton Rd
+120  PA 309 NB @Susquehanna
+121  PA 309 NB @ Beth PK Mrg
+119  Rt 309NB@PA Turnpike
+3902 RT309 NB @ Waverly Rd
+3903 RT309 NB S of Papermill Rd
+3904 RT309 SB @ Papermill Rd
+3905 RT309 SB @ Church Rd
+3906 RT309 SB S of Turnpike
+3908 RT309 NB N of Turnpike
+3916 RT309 SB @ English Village
+3917 RT309 SB N of Hartman Rd
+3918 RT309 NB @ Stump Rd
+3919 RT309 NB @ US 202
+3920 RT309 SB @ North Wales Rd
+3921 RT309 NB @ Five Points
+
+PA Route 676
+671 I-676WB 676@24th St
+672 I-676EB 676@Ben Franklin Pkwy
+673 I-676WB 676@20th St
+674 I-676WB 676@18th St
+675 I-676EB 676@16th St
+676 I-676WB 676@Broad St
+677 I-676WB 676@11th St
+678 I-676EB 676@8th St
+679 I-676EB 676@3rd St
+
+US Route 1
+159 US 1 NB South of Henry
+160 US 1 SB @ Fox Street
+161 US 1 SB @ Wissahickon
+162 US 1 NB @ Roberts/Berkley
+163 US 1 NB @ 17th Street
+164 US 1 SB @ Broad Street
+165 US 1 @ 9th Street
+
+US Route 23
+2301 RT23 EB @ Fayette St
+2302 RT23 WB @ Hollow Rd
+2303 RT23 WB @ City Line Ave
+
+US Route 30
+75 US 30 EB @ PA 100
+76 US 30 EB before PA 100
+77 US 30 WB@BUS 230 Ramp
+78 US 30 WB before PA 113
+79 US 30 WB before PA 282
+80 US 30 WB @ PA 322
+81 US 30 EB after PA 340
+
+US Route 63
+92 US 63 WB @ Millbrk Rd
+
+US Route 202
+40 US 202 @Town CTR RD
+41 US 202 @ Allendale
+42 US 202 NB US 202/I/76
+43 US 202 SB US 202/PA 422
+44 US 202 NB @ W Valley Rd
+45 US 202 SB @ US 252
+46 US 202 N of US 252
+47 US 202 NB N of Chesterbrk
+48 US 202 SB @ Howelvl Rd
+49 US 202 NB N of N Valley
+50 US 202 SB N of Cedar Hollow Rd
+51 US 202 SB @ PA 29
+52 US 202 NB N of Mill Lane
+53 US 202 SB @ Church Rd
+54 US 202 NB S of PA 401
+55 US 202 SB @ US 30
+56 US 202 SB S of King Rd
+57 US 202 NB@Morstein Rd
+58 US 202 NB@Boot Rd
+59 US 202 SB@ PA 100
+60 US 202 SB @PA 322
+61 US 202 NB N or Paoli
+62 US 202 NB@W Chester P
+63 US 202 NB N of Westtn R
+64 US 202 NB S of Bolmar S
+65 US 202 NB@PA 322
+66 US 202 NB N of Skiles Blvd
+67 US 202 SB @ PA 926
+68 US 202 SB S of Green Tr Dr
+69 US 202 SB@Watkins
+70 US 202 SB @ US1
+71 US 202 Ramp L @ Ramp O
+72 US 202 Ramp L @ Cont BL
+73 US 202 Ramp L @ 76
+
+US Route 422
+82 US 422 EB-422 @ PA Turnpike
+83 US 422 WB-422@PA 23
+84 US 422 WB-422 @ PA 363
+85 US 422 WB-422 W of PA 363
+86 US 422 EB- 422 PWLNGS RD
+87 US 422 EB- 422 W of Perk
+88 US 422 WB-422 Egypt Rd
+89 US 422 EB-422 Indn Head
+90 US 422 WB-422 Cider Mil
+91 US 422 WB-422 E of PA 29
+
+Platt Bridge
+157 WB Platt Bridge Midspan
+158 WB Platt Bridge
+
+26th Street
+153 26th Street to 76 WB
+156 26th Street &amp; Penrose Ave
+
+Other Locations
+1101 Torresdale @ Harbison Ave
+1102 Torresdale @ Robbins Ave
+1103 Torresdale @  Levick St
+1104 Torresdale @ Princeton Ave
+1105 Torresdale @ Cottman Ave
+1106 Torresdale @ Rhawn St
+1107 Torresdale @ Ashburner St
+1108 Torresdale @ Linden St
+1109 State Rd @ Princeton Ave
+1110 State Rd @ Cottman Ave
+1111 Aramingo Ave @ Tacony St
+1112 Harbison Ave @ Sanger St
