@@ -1,4 +1,3 @@
-Interstate 76
 93  I-76 EB W of Croton
 94  I-76 EB Weadley Rd
 95  I-76 WB W of Gypsy Rd
@@ -41,8 +40,6 @@ Interstate 76
 167 I-76 WB @ Conshohocken Curve
 168 I-76 EB West of Waverly
 169 I-76 EB East of Waverly
-
-Interstate 95
 102  I-95 NB-95 Indiana St
 103  I-95 NB-95 Castor Ave
 104  I-95 SB-95 Betsy Ross
@@ -52,7 +49,7 @@ Interstate 95
 108  I-95 NB-95 N of COTMN
 109  I-95 SB-95 Penny Pack
 110  I-95 NB-95 S of Amtrak
-111  I -95 SB-95 Academy Rd
+111  I-95 SB-95 Academy Rd
 112  I-95 NB-95 Convent Av
 113  I-95 SB-95 Mil Rd
 114  I-95- 895 Tennis Ave
@@ -106,8 +103,6 @@ Interstate 95
 9514 I-95 NB at Philadelphia International Airport
 9517 I-95 NB on upstroke of Girard Point Bridge
 9518 I-95 SB on midspan of Girard Point Bridge
-
-Interstate 476
 11    I-476 NB-North of US 1
 12    I-476 NB-Reed Rd
 13    I-476 NB-Blue Rt :7.4
@@ -140,8 +135,6 @@ Interstate 476
 4720  I-476 SB @ Conestoge Rd
 4730  I-476 SB @ Ridge Pike
 4732  I-476 Ramp from Germantown Pike
-
-PA Route 100
 28 PA 100 NB @ Phoenixville
 29 PA 100 NB BEF Kirkland
 30 PA 100 SB AFT BOOT RD
@@ -153,15 +146,11 @@ PA Route 100
 36 PA 100 NB @Worthington
 37 PA 100 SB AFT PA 113
 39 PA 100 NB @PA Turnpike
-
-PA Route 291
 155 PA 291 WB E of I-76
-
-PA Route 309
 118  PA 309 SB @ Easton Rd
 120  PA 309 NB @Susquehanna
 121  PA 309 NB @ Beth PK Mrg
-119  Rt 309NB@PA Turnpike
+119  Rt 309 NB@PA Turnpike
 3902 RT309 NB @ Waverly Rd
 3903 RT309 NB S of Papermill Rd
 3904 RT309 SB @ Papermill Rd
@@ -174,8 +163,6 @@ PA Route 309
 3919 RT309 NB @ US 202
 3920 RT309 SB @ North Wales Rd
 3921 RT309 NB @ Five Points
-
-PA Route 676
 671 I-676WB 676@24th St
 672 I-676EB 676@Ben Franklin Pkwy
 673 I-676WB 676@20th St
@@ -185,8 +172,6 @@ PA Route 676
 677 I-676WB 676@11th St
 678 I-676EB 676@8th St
 679 I-676EB 676@3rd St
-
-US Route 1
 159 US 1 NB South of Henry
 160 US 1 SB @ Fox Street
 161 US 1 SB @ Wissahickon
@@ -194,13 +179,9 @@ US Route 1
 163 US 1 NB @ 17th Street
 164 US 1 SB @ Broad Street
 165 US 1 @ 9th Street
-
-US Route 23
 2301 RT23 EB @ Fayette St
 2302 RT23 WB @ Hollow Rd
 2303 RT23 WB @ City Line Ave
-
-US Route 30
 75 US 30 EB @ PA 100
 76 US 30 EB before PA 100
 77 US 30 WB@BUS 230 Ramp
@@ -208,11 +189,7 @@ US Route 30
 79 US 30 WB before PA 282
 80 US 30 WB @ PA 322
 81 US 30 EB after PA 340
-
-US Route 63
 92 US 63 WB @ Millbrk Rd
-
-US Route 202
 40 US 202 @Town CTR RD
 41 US 202 @ Allendale
 42 US 202 NB US 202/I/76
@@ -247,8 +224,6 @@ US Route 202
 71 US 202 Ramp L @ Ramp O
 72 US 202 Ramp L @ Cont BL
 73 US 202 Ramp L @ 76
-
-US Route 422
 82 US 422 EB-422 @ PA Turnpike
 83 US 422 WB-422@PA 23
 84 US 422 WB-422 @ PA 363
@@ -259,16 +234,10 @@ US Route 422
 89 US 422 EB-422 Indn Head
 90 US 422 WB-422 Cider Mil
 91 US 422 WB-422 E of PA 29
-
-Platt Bridge
 157 WB Platt Bridge Midspan
 158 WB Platt Bridge
-
-26th Street
 153 26th Street to 76 WB
 156 26th Street &amp; Penrose Ave
-
-Other Locations
 1101 Torresdale @ Harbison Ave
 1102 Torresdale @ Robbins Ave
 1103 Torresdale @  Levick St
