@@ -1,13 +1,13 @@
-93  I-76 EB W of Croton
-94  I-76 EB Weadley Rd
-95  I-76 WB W of Gypsy Rd
-96  I-76 EB @ Gulph Mills
-97  I-76 WB @ MM
-98  I-76 EB W of Matsnfrd
-99  I-76 WB @ MM 332
+93 I-76 EB W of Croton
+94 I-76 EB Weadley Rd
+95 I-76 WB W of Gypsy Rd
+96 I-76 EB @ Gulph Mills
+97 I-76 WB @ MM
+98 I-76 EB W of Matsnfrd
+99 I-76 WB @ MM 332
 100 I-76 EB@MM 332.6
 101 I-76 WB Consh Crve
-74  I-76 EB Ramp to US 202/422
+74 I-76 EB Ramp to US 202/422
 126 I-76 EB West of Gladwyne
 127 I-76 WB West of Gladwyne
 128 I-76 WB East of Gladwyne
@@ -40,36 +40,36 @@
 167 I-76 WB @ Conshohocken Curve
 168 I-76 EB West of Waverly
 169 I-76 EB East of Waverly
-102  I-95 NB-95 Indiana St
-103  I-95 NB-95 Castor Ave
-104  I-95 SB-95 Betsy Ross
-105  I-95 SB-95 Wakelng St
-106  I-95 NB-95 Vankirk
-107  I-95 SB-95 Disston St
-108  I-95 NB-95 N of COTMN
-109  I-95 SB-95 Penny Pack
-110  I-95 NB-95 S of Amtrak
-111  I-95 SB-95 Academy Rd
-112  I-95 NB-95 Convent Av
-113  I-95 SB-95 Mil Rd
-114  I-95- 895 Tennis Ave
-115  I-95 NB-Ramp to PA 63
-116  I-95 SB- 95 Woodhaven
-117  I-95 NB-95 Station Av
-1    I-95 SB Island Airport
-2    I-95 SB-EnterPR/Bart
-3    I-95 SB-Broad St.
-4    I-95 NB /WWB Packer
-5    I-95 SB-Packer/Front
-6    I-95 SB-Tasker/Reed
-7    I-95 Wash/Columbus
-8    I-95 SB-Girard Ave
+102 I-95 NB-95 Indiana St
+103 I-95 NB-95 Castor Ave
+104 I-95 SB-95 Betsy Ross
+105 I-95 SB-95 Wakelng St
+106 I-95 NB-95 Vankirk
+107 I-95 SB-95 Disston St
+108 I-95 NB-95 N of COTMN
+109 I-95 SB-95 Penny Pack
+110 I-95 NB-95 S of Amtrak
+111 I-95 SB-95 Academy Rd
+112 I-95 NB-95 Convent Av
+113 I-95 SB-95 Mil Rd
+114 I-95- 895 Tennis Ave
+115 I-95 NB-Ramp to PA 63
+116 I-95 SB- 95 Woodhaven
+117 I-95 NB-95 Station Av
+1 I-95 SB Island Airport
+2 I-95 SB-EnterPR/Bart
+3 I-95 SB-Broad St.
+4 I-95 NB /WWB Packer
+5 I-95 SB-Packer/Front
+6 I-95 SB-Tasker/Reed
+7 I-95 Wash/Columbus
+8 I-95 SB-Girard Ave
 1113 I-95 @ Girard Ave Exit
-9    I-95 SB-Aramingo/Gir
-10   I-95 NB Ramp to I-76 North
-93   I-95 NB 95@Vine Exp/BF Bridge
-26   I-95 NB 95@Race St.
-27   I-95 SB @Vine/Callowhill
+9 I-95 SB-Aramingo/Gir
+10 I-95 NB Ramp to I-76 North
+93 I-95 NB 95@Vine Exp/BF Bridge
+26 I-95 NB 95@Race St.
+27 I-95 SB @Vine/Callowhill
 9521 I-95 SB north of Broad Street
 9522 I-95 NB @ Pattison Avenue
 9525 I-95 NB at Wolf Street
@@ -103,38 +103,38 @@
 9514 I-95 NB at Philadelphia International Airport
 9517 I-95 NB on upstroke of Girard Point Bridge
 9518 I-95 SB on midspan of Girard Point Bridge
-11    I-476 NB-North of US 1
-12    I-476 NB-Reed Rd
-13    I-476 NB-Blue Rt :7.4
-14    I-476 NB- Lawrence Rd:8.1
-15    I-476 SB-US 30 RMP:13
-16    I-476-US 30/Exit #13
-17    I-476 SB CNTY Ln:13.9
-18    I-476 SB No of Cnty LN
-19    I-476 NB Blue Rt:15.1
-20    I-476 NB @ I-76/Exit 16B
-21    I-476 SB SCHKL R BRDG
-22    I-476 NB Access Rd BRDG
-23    I-476 SB S of Ridge PK
-24    I-476 NB N of Ridge PK
-122   I-476 McDade on Ramp
-123   I-476 SB @ Mcdade Blvd/Exit 1
-124   I-476 SB @Balt Pike
-125   I-476 SB @ US1
-4703  I-476 NB N of Bullend Ln
-4704  I-476 SB N of PA320
-4705  I-476 SB@SEPTA Overpass
-4706  I-476 NB S of Plush Mill Rd
-4708  I-476 NB N of Beatty Rd
-4714  I-476 SB S of West Chester Pike
-4715  I-476 NB N of West Chester Pike
-4716  I-476 SB S of Marple Rd
-4717  I-476 NB S of Darby Rd
-4718  I-476 SB S of Bryn Mawr Ave
-4719  I-476 SB@Clyde Rd
-4720  I-476 SB @ Conestoge Rd
-4730  I-476 SB @ Ridge Pike
-4732  I-476 Ramp from Germantown Pike
+11 I-476 NB-North of US 1
+12 I-476 NB-Reed Rd
+13 I-476 NB-Blue Rt :7.4
+14 I-476 NB- Lawrence Rd:8.1
+15 I-476 SB-US 30 RMP:13
+16 I-476-US 30/Exit #13
+17 I-476 SB CNTY Ln:13.9
+18 I-476 SB No of Cnty LN
+19 I-476 NB Blue Rt:15.1
+20 I-476 NB @ I-76/Exit 16B
+21 I-476 SB SCHKL R BRDG
+22 I-476 NB Access Rd BRDG
+23 I-476 SB S of Ridge PK
+24 I-476 NB N of Ridge PK
+122 I-476 McDade on Ramp
+123 I-476 SB @ Mcdade Blvd/Exit 1
+124 I-476 SB @Balt Pike
+125 I-476 SB @ US1
+4703 I-476 NB N of Bullend Ln
+4704 I-476 SB N of PA320
+4705 I-476 SB@SEPTA Overpass
+4706 I-476 NB S of Plush Mill Rd
+4708 I-476 NB N of Beatty Rd
+4714 I-476 SB S of West Chester Pike
+4715 I-476 NB N of West Chester Pike
+4716 I-476 SB S of Marple Rd
+4717 I-476 NB S of Darby Rd
+4718 I-476 SB S of Bryn Mawr Ave
+4719 I-476 SB@Clyde Rd
+4720 I-476 SB @ Conestoge Rd
+4730 I-476 SB @ Ridge Pike
+4732 I-476 Ramp from Germantown Pike
 28 PA 100 NB @ Phoenixville
 29 PA 100 NB BEF Kirkland
 30 PA 100 SB AFT BOOT RD
@@ -147,10 +147,10 @@
 37 PA 100 SB AFT PA 113
 39 PA 100 NB @PA Turnpike
 155 PA 291 WB E of I-76
-118  PA 309 SB @ Easton Rd
-120  PA 309 NB @Susquehanna
-121  PA 309 NB @ Beth PK Mrg
-119  Rt 309 NB@PA Turnpike
+118 PA 309 SB @ Easton Rd
+120 PA 309 NB @Susquehanna
+121 PA 309 NB @ Beth PK Mrg
+119 Rt 309 NB@PA Turnpike
 3902 RT309 NB @ Waverly Rd
 3903 RT309 NB S of Papermill Rd
 3904 RT309 SB @ Papermill Rd
@@ -237,10 +237,10 @@
 157 WB Platt Bridge Midspan
 158 WB Platt Bridge
 153 26th Street to 76 WB
-156 26th Street &amp; Penrose Ave
+156 26th Street & Penrose Ave
 1101 Torresdale @ Harbison Ave
 1102 Torresdale @ Robbins Ave
-1103 Torresdale @  Levick St
+1103 Torresdale @ Levick St
 1104 Torresdale @ Princeton Ave
 1105 Torresdale @ Cottman Ave
 1106 Torresdale @ Rhawn St
