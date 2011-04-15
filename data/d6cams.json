@@ -25,7 +25,7 @@
 {"road":1,"at":"roberts","loc":[40.018437,-75.166775],"cam_id":9495,"description":"traffic closest to camera is traveling north"}
 {"road":1,"at":"wissahickon","loc":[40.017707,-75.172798],"cam_id":9494,"description":"traffic closest to camera is traveling south"}
 {"road":100,"at":"30","loc":[40.027992,-75.627822],"cam_id":9505,"description":"traffic closest to camera is traveling north"}
-{"road":100,"at":"aft boot","loc":[40.007684,-75.612882],"cam_id":9502,"description":"traffic closest to camera is traveling north"}
+{"road":100,"at":"boot","loc":[40.007684,-75.612882],"cam_id":9502,"description":"traffic closest to camera is traveling north"}
 {"road":100,"at":"kirkland","loc":[40.002929,-75.599581],"cam_id":9501,"description":"traffic closest to camera is traveling north"}
 {"road":100,"at":"mtn view","loc":[40.01719,-75.621372],"cam_id":9504,"description":"traffic closest to camera is traveling north"}
 {"road":100,"at":"phoenixville","loc":[39.996233,-75.593971],"cam_id":9500,"description":"traffic closest to camera is traveling north"}

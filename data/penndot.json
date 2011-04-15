@@ -18,22 +18,24 @@
 {"road":1,"at":"9th","penndot_id":165}
 {"road":1,"at":"broad","penndot_id":164}
 {"road":1,"at":"fox","penndot_id":160}
-{"road":1,"at":"roberts/berkley","penndot_id":162}
 {"road":1,"at":"henry","penndot_id":159}
+{"road":1,"at":"roberts","penndot_id":162}
 {"road":1,"at":"wissahickon","penndot_id":161}
-{"road":100,"at":"aft 113","penndot_id":37}
-{"road":100,"at":"aft boot","penndot_id":30}
-{"road":100,"at":"aft pottstown","penndot_id":31}
-{"road":100,"at":"bef kirkland","penndot_id":29}
-{"road":100,"at":"bef mtn view","penndot_id":32}
-{"road":100,"at":"bef ship","penndot_id":35}
+{"road":100,"at":"113","penndot_id":37}
+{"road":100,"at":"boot","penndot_id":30}
+{"road":100,"at":"kirkland","penndot_id":29}
+{"road":100,"at":"mtn view","penndot_id":32}
 {"road":100,"at":"phoenixville","penndot_id":28}
+{"road":100,"at":"pottstown","penndot_id":31}
+{"road":100,"at":"ship","penndot_id":35}
 {"road":100,"at":"sr3070","penndot_id":33}
 {"road":100,"at":"sunrise blvd","penndot_id":34}
 {"road":100,"at":"turnpike","penndot_id":39}
 {"road":100,"at":"worthington","penndot_id":36}
+{"road":202,"at":"1","penndot_id":70}
 {"road":202,"at":"100","penndot_id":59}
 {"road":202,"at":"252","penndot_id":45}
+{"road":202,"at":"252","penndot_id":46}
 {"road":202,"at":"29","penndot_id":51}
 {"road":202,"at":"30","penndot_id":55}
 {"road":202,"at":"322","penndot_id":60}
@@ -43,29 +45,27 @@
 {"road":202,"at":"926","penndot_id":67}
 {"road":202,"at":"allendale","penndot_id":41}
 {"road":202,"at":"boot","penndot_id":58}
+{"road":202,"at":"cedar hollow","penndot_id":50}
+{"road":202,"at":"chesterbrk","penndot_id":47}
 {"road":202,"at":"church","penndot_id":53}
 {"road":202,"at":"howelvl","penndot_id":48}
+{"road":202,"at":"mill lane","penndot_id":52}
 {"road":202,"at":"morstein","penndot_id":57}
-{"road":202,"at":"n of 252","penndot_id":46}
-{"road":202,"at":"n of cedar hollow","penndot_id":50}
-{"road":202,"at":"n of chesterbrk","penndot_id":47}
-{"road":202,"at":"n of mill lane","penndot_id":52}
-{"road":202,"at":"n of n valley","penndot_id":49}
-{"road":202,"at":"n of skiles blvd","penndot_id":66}
-{"road":202,"at":"n of westtn r","penndot_id":63}
 {"road":202,"at":"n or paoli","penndot_id":61}
+{"road":202,"at":"n valley","penndot_id":49}
 {"road":202,"at":"ramp l 76","penndot_id":73}
 {"road":202,"at":"ramp l cont bl","penndot_id":72}
 {"road":202,"at":"ramp l ramp o","penndot_id":71}
-{"road":202,"at":"s of 401","penndot_id":54}
-{"road":202,"at":"s of bolmar s","penndot_id":64}
-{"road":202,"at":"s of green tr dr","penndot_id":68}
-{"road":202,"at":"s of king","penndot_id":56}
+{"road":202,"at":"401","penndot_id":54}
+{"road":202,"at":"bolmar s","penndot_id":64}
+{"road":202,"at":"green tr","penndot_id":68}
+{"road":202,"at":"king","penndot_id":56}
+{"road":202,"at":"skiles blvd","penndot_id":66}
 {"road":202,"at":"town ctr","penndot_id":40}
-{"road":202,"at":"1","penndot_id":70}
 {"road":202,"at":"w chester p","penndot_id":62}
 {"road":202,"at":"w valley","penndot_id":44}
 {"road":202,"at":"watkins","penndot_id":69}
+{"road":202,"at":"westtn r","penndot_id":63}
 {"road":23,"at":"city line","penndot_id":2303}
 {"road":23,"at":"fayette","penndot_id":2301}
 {"road":23,"at":"hollow","penndot_id":2302}
@@ -83,15 +83,15 @@
 {"road":309,"at":"easton","penndot_id":118}
 {"road":309,"at":"english village","penndot_id":3916}
 {"road":309,"at":"five points","penndot_id":3921}
-{"road":309,"at":"n of hartman","penndot_id":3917}
-{"road":309,"at":"n of turnpike","penndot_id":3908}
+{"road":309,"at":"hartman","penndot_id":3917}
 {"road":309,"at":"north wales","penndot_id":3920}
 {"road":309,"at":"papermill","penndot_id":3904}
-{"road":309,"at":"s of papermill","penndot_id":3903}
-{"road":309,"at":"s of turnpike","penndot_id":3906}
+{"road":309,"at":"papermill","penndot_id":3903}
+{"road":309,"at":"turnpike","penndot_id":3906}
 {"road":309,"at":"stump","penndot_id":3918}
 {"road":309,"at":"susquehanna","penndot_id":120}
 {"road":309,"at":"turnpike","penndot_id":119}
+{"road":309,"at":"turnpike","penndot_id":3908}
 {"road":309,"at":"waverly","penndot_id":3902}
 {"road":422,"at":"23","penndot_id":83}
 {"road":422,"at":"363","penndot_id":84}
@@ -101,40 +101,40 @@
 {"road":422,"at":"indn head","penndot_id":89}
 {"road":422,"at":"pwlngs","penndot_id":86}
 {"road":422,"at":"turnpike","penndot_id":82}
-{"road":422,"at":"w of 363","penndot_id":85}
-{"road":422,"at":"w of perk","penndot_id":87}
+{"road":422,"at":"363","penndot_id":85}
+{"road":422,"at":"perk","penndot_id":87}
+{"road":476,"at":"1","penndot_id":11}
+{"road":476,"at":"1","penndot_id":125}
 {"road":476,"at":"30 rmp:13","penndot_id":15}
 {"road":476,"at":"30/exit #13","penndot_id":16}
 {"road":476,"at":"76/exit 16b","penndot_id":20}
 {"road":476,"at":"access rd brdg","penndot_id":22}
 {"road":476,"at":"balt pike","penndot_id":124}
+{"road":476,"at":"beatty","penndot_id":4708}
 {"road":476,"at":"blue rt :7.4","penndot_id":13}
 {"road":476,"at":"blue rt:15.1","penndot_id":19}
+{"road":476,"at":"bullend ln","penndot_id":4703}
 {"road":476,"at":"clyde","penndot_id":4719}
 {"road":476,"at":"cnty ln:13.9","penndot_id":17}
 {"road":476,"at":"conestoge","penndot_id":4720}
 {"road":476,"at":"lawrence rd:8.1","penndot_id":14}
 {"road":476,"at":"mcdade blvd/exit 1","penndot_id":123}
 {"road":476,"at":"mcdade on ramp","penndot_id":122}
-{"road":476,"at":"n of beatty","penndot_id":4708}
-{"road":476,"at":"n of bullend ln","penndot_id":4703}
-{"road":476,"at":"n of pa320","penndot_id":4704}
-{"road":476,"at":"n of ridge pk","penndot_id":24}
-{"road":476,"at":"n of west chester pike","penndot_id":4715}
 {"road":476,"at":"no of cnty ln","penndot_id":18}
-{"road":476,"at":"1","penndot_id":11}
+{"road":476,"at":"pa320","penndot_id":4704}
 {"road":476,"at":"ramp from germantown pike","penndot_id":4732}
 {"road":476,"at":"reed","penndot_id":12}
 {"road":476,"at":"ridge pike","penndot_id":4730}
-{"road":476,"at":"s of bryn mawr","penndot_id":4718}
-{"road":476,"at":"s of darby","penndot_id":4717}
-{"road":476,"at":"s of marple","penndot_id":4716}
-{"road":476,"at":"s of plush mill","penndot_id":4706}
-{"road":476,"at":"s of ridge pk","penndot_id":23}
-{"road":476,"at":"s of west chester pike","penndot_id":4714}
+{"road":476,"at":"ridge pk","penndot_id":24}
+{"road":476,"at":"bryn mawr","penndot_id":4718}
+{"road":476,"at":"darby","penndot_id":4717}
+{"road":476,"at":"marple","penndot_id":4716}
+{"road":476,"at":"plush mill","penndot_id":4706}
+{"road":476,"at":"ridge pk","penndot_id":23}
+{"road":476,"at":"west chester pike","penndot_id":4714}
 {"road":476,"at":"schkl r brdg","penndot_id":21}
 {"road":476,"at":"septa overpass","penndot_id":4705}
-{"road":476,"at":"1","penndot_id":125}
+{"road":476,"at":"west chester pike","penndot_id":4715}
 {"road":63,"at":"millbrook","penndot_id":92}
 {"road":676,"at":"11th","penndot_id":677}
 {"road":676,"at":"16th","penndot_id":675}
@@ -145,6 +145,9 @@
 {"road":676,"at":"8th","penndot_id":678}
 {"road":676,"at":"ben franklin pkwy","penndot_id":672}
 {"road":676,"at":"broad","penndot_id":676}
+{"road":76,"at":"1","penndot_id":135}
+{"road":76,"at":"1","penndot_id":134}
+{"road":76,"at":"202/422","penndot_id":74}
 {"road":76,"at":"30th","penndot_id":146}
 {"road":76,"at":"676","penndot_id":144}
 {"road":76,"at":"belmont","penndot_id":130}
@@ -167,47 +170,50 @@
 {"road":76,"at":"mm 332.6","penndot_id":100}
 {"road":76,"at":"mm","penndot_id":97}
 {"road":76,"at":"montgomery","penndot_id":137}
-{"road":76,"at":"202/422","penndot_id":74}
 {"road":76,"at":"passyunk","penndot_id":152}
-{"road":76,"at":"1 n","penndot_id":135}
 {"road":76,"at":"spring garden","penndot_id":143}
-{"road":76,"at":"to 26th","penndot_id":154}
+{"road":76,"at":"26th","penndot_id":154}
 {"road":76,"at":"university","penndot_id":149}
-{"road":76,"at":"1","penndot_id":134}
 {"road":76,"at":"vare","penndot_id":151}
-{"road":76,"at":"w of croton","penndot_id":93}
-{"road":76,"at":"w of gypsy","penndot_id":95}
-{"road":76,"at":"w of matsnfrd","penndot_id":98}
+{"road":76,"at":"croton","penndot_id":93}
+{"road":76,"at":"gypsy","penndot_id":95}
+{"road":76,"at":"matsnfrd","penndot_id":98}
 {"road":76,"at":"weadley","penndot_id":94}
-{"road":76,"at":"west of belmont","penndot_id":129}
-{"road":76,"at":"west of girard","penndot_id":139}
-{"road":76,"at":"west of gladwyne","penndot_id":126}
-{"road":76,"at":"west of gladwyne","penndot_id":127}
-{"road":76,"at":"west of montgomery dr","penndot_id":136}
-{"road":76,"at":"west of south","penndot_id":147}
-{"road":76,"at":"west of spring garden","penndot_id":142}
-{"road":76,"at":"west of waverly","penndot_id":168}
-{"road":95,"at":"/w packer","penndot_id":4}
+{"road":76,"at":"belmont","penndot_id":129}
+{"road":76,"at":"girard","penndot_id":139}
+{"road":76,"at":"gladwyne","penndot_id":126}
+{"road":76,"at":"gladwyne","penndot_id":127}
+{"road":76,"at":"montgomery","penndot_id":136}
+{"road":76,"at":"south","penndot_id":147}
+{"road":76,"at":"spring garden","penndot_id":142}
+{"road":76,"at":"waverly","penndot_id":168}
+{"road":95,"at":"packer","penndot_id":4}
+{"road":95,"at":"1","penndot_id":9563}
 {"road":95,"at":"1","penndot_id":9564}
-{"road":95,"at":"13/bristol pk.","penndot_id":9554}
+{"road":95,"at":"13/bristol","penndot_id":9554}
+{"road":95,"at":"213/old lincoln highway","penndot_id":9562}
 {"road":95,"at":"322","penndot_id":9503}
 {"road":95,"at":"322","penndot_id":9504}
 {"road":95,"at":"413","penndot_id":9557}
 {"road":95,"at":"420","penndot_id":9511}
 {"road":95,"at":"452","penndot_id":9502}
+{"road":95,"at":"476","penndot_id":9508}
+{"road":95,"at":"63","penndot_id":115}
+{"road":95,"at":"76","penndot_id":10}
 {"road":95,"at":"895 tennis","penndot_id":114}
-{"road":95,"at":"95race st.","penndot_id":26}
-{"road":95,"at":"95vine exp/bf bridge","penndot_id":93}
 {"road":95,"at":"academy","penndot_id":111}
+{"road":95,"at":"amtrak","penndot_id":110}
 {"road":95,"at":"approaching philadelphia int'l airport","penndot_id":9513}
 {"road":95,"at":"aramingo/gir","penndot_id":9}
 {"road":95,"at":"before 420","penndot_id":9510}
 {"road":95,"at":"before 420","penndot_id":9512}
-{"road":95,"at":"before naaman's road","penndot_id":9501}
+{"road":95,"at":"before naaman's","penndot_id":9501}
 {"road":95,"at":"betsy ross","penndot_id":104}
-{"road":95,"at":"broad st.","penndot_id":3}
+{"road":95,"at":"broad","penndot_id":3}
+{"road":95,"at":"broad","penndot_id":9521}
 {"road":95,"at":"castor","penndot_id":103}
 {"road":95,"at":"convent","penndot_id":112}
+{"road":95,"at":"cotman","penndot_id":108}
 {"road":95,"at":"disston","penndot_id":107}
 {"road":95,"at":"east lincoln highway","penndot_id":9561}
 {"road":95,"at":"enterpr/bart","penndot_id":2}
@@ -220,31 +226,25 @@
 {"road":95,"at":"median ford road overpass","penndot_id":9558}
 {"road":95,"at":"melrose","penndot_id":9507}
 {"road":95,"at":"mil","penndot_id":113}
-{"road":95,"at":"n of cotman","penndot_id":108}
-{"road":95,"at":"476","penndot_id":9508}
-{"road":95,"at":"broad","penndot_id":9521}
-{"road":95,"at":"road","penndot_id":9555}
-{"road":95,"at":"on midspan of girard point bridge","penndot_id":9518}
-{"road":95,"at":"on upstroke of girard point bridge","penndot_id":9517}
+{"road":95,"at":"newportville pike","penndot_id":9556}
+{"road":95,"at":"midspan of girard point bridge","penndot_id":9518}
+{"road":95,"at":"upstroke of girard point bridge","penndot_id":9517}
 {"road":95,"at":"packer/front","penndot_id":5}
 {"road":95,"at":"pattison","penndot_id":9522}
 {"road":95,"at":"penny pack","penndot_id":109}
 {"road":95,"at":"philadelphia international airport","penndot_id":9514}
-{"road":95,"at":"63","penndot_id":115}
-{"road":95,"at":"76","penndot_id":10}
+{"road":95,"at":"race","penndot_id":26}
 {"road":95,"at":"ramps to commodore barry bridge","penndot_id":9505}
-{"road":95,"at":"amtrak","penndot_id":110}
-{"road":95,"at":"1","penndot_id":9563}
-{"road":95,"at":"213/old lincoln highway","penndot_id":9562}
-{"road":95,"at":"newportville pike","penndot_id":9556}
+{"road":95,"at":"road","penndot_id":9555}
 {"road":95,"at":"station","penndot_id":117}
 {"road":95,"at":"stewart","penndot_id":9509}
-{"road":95,"at":"street road","penndot_id":9553}
-{"road":95,"at":"tasker/reed","penndot_id":6}
+{"road":95,"at":"street","penndot_id":9553}
+{"road":95,"at":"tasker","penndot_id":6}
 {"road":95,"at":"trenton road overpass","penndot_id":9560}
 {"road":95,"at":"turnpike overpass","penndot_id":9559}
 {"road":95,"at":"upland","penndot_id":9506}
 {"road":95,"at":"vankirk","penndot_id":106}
+{"road":95,"at":"vine exp bf bridge","penndot_id":93}
 {"road":95,"at":"vine/callowhill","penndot_id":27}
 {"road":95,"at":"wakelng","penndot_id":105}
 {"road":95,"at":"wash/columbus","penndot_id":7}
