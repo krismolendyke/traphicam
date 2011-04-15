@@ -57,10 +57,10 @@
 {"road":202,"at":"green tree","loc":[39.911253,-75.571124],"cam_id":9539,"description":"traffic closest to camera is traveling south"}
 {"road":202,"at":"howellvllle","loc":[40.064198,-75.472478],"cam_id":9519,"description":"traffic closest to camera is traveling west"}
 {"road":202,"at":"king","loc":[40.021834,-75.587664],"cam_id":9527,"description":"traffic closest to camera is traveling south"}
-{"road":202,"at":"mill lane","loc":[40.050795,-75.54685],"cam_id":9523,"description":"traffic closest to camera is traveling east"}
+{"road":202,"at":"l","loc":[40.078518,-75.405679],"cam_id":9542,"description":"traffic closest to camera is traveling east"}
+{"road":202,"at":"mill","loc":[40.050795,-75.54685],"cam_id":9523,"description":"traffic closest to camera is traveling east"}
 {"road":202,"at":"morstein","loc":[40.011358,-75.581101],"cam_id":9528,"description":"traffic closest to camera is traveling north"}
 {"road":202,"at":"paoli","loc":[39.972792,-75.583476],"cam_id":9532,"description":"traffic closest to camera is traveling north"}
-{"road":202,"at":"ramp l","loc":[40.078518,-75.405679],"cam_id":9542,"description":"traffic closest to camera is traveling east"}
 {"road":202,"at":"skiles","loc":[39.930374,-75.585545],"cam_id":9537,"description":"traffic closest to camera is traveling north"}
 {"road":202,"at":"town ctr","loc":[40.093325,-75.367394],"cam_id":9511,"description":"camera located median"}
 {"road":202,"at":"valley","loc":[40.057932,-75.486049],"cam_id":9520,"description":"traffic closest to camera is traveling east"}
@@ -75,7 +75,7 @@
 {"road":309,"at":"276","loc":[40.140091,-75.201563],"cam_id":11922,"description":"traffic closest to camera is traveling north"}
 {"road":309,"at":"63","loc":[40.208961,-75.225032],"cam_id":11923,"description":"traffic closest to camera is traveling south"}
 {"road":309,"at":"73","loc":[40.113005,-75.2012],"cam_id":11920,"description":"traffic closest to camera is traveling south"}
-{"road":309,"at":"beth pk","loc":[40.195359,-75.222847],"cam_id":9635,"description":"traffic closest to camera is traveling north"}
+{"road":309,"at":"beth","loc":[40.195359,-75.222847],"cam_id":9635,"description":"traffic closest to camera is traveling north"}
 {"road":309,"at":"easton","loc":[40.08789,-75.166087],"cam_id":9632,"description":"traffic closest to camera is traveling south"}
 {"road":309,"at":"papermill","loc":[40.10024,-75.185239],"cam_id":11918,"description":"traffic closest to camera is traveling north"}
 {"road":309,"at":"papermill","loc":[40.102046,-75.194376],"cam_id":11919,"description":"traffic closest to camera is traveling south"}
@@ -98,7 +98,7 @@
 {"road":476,"at":"320","loc":[39.891585,-75.359409],"cam_id":11930,"description":"traffic closest to camera is traveling south"}
 {"road":476,"at":"320","loc":[39.945169,-75.348552],"cam_id":8634,"description":"traffic closest to camera is traveling north"}
 {"road":476,"at":"76","loc":[40.063823,-75.321393],"cam_id":8643,"description":"traffic closest to camera is traveling north"}
-{"road":476,"at":"access brdg","loc":[40.083,-75.3111],"cam_id":8645,"description":"traffic closest to camera is traveling north"}
+{"road":476,"at":"access","loc":[40.083,-75.3111],"cam_id":8645,"description":"traffic closest to camera is traveling north"}
 {"road":476,"at":"baltimore","loc":[39.912593,-75.362486],"cam_id":9638,"description":"traffic closest to camera is traveling south"}
 {"road":476,"at":"beatty","loc":[39.929743,-75.362529],"cam_id":11933,"description":"traffic closest to camera is traveling north"}
 {"road":476,"at":"bryn mawr","loc":[40.006628,-75.354561],"cam_id":11938,"description":"traffic closest to camera is traveling south"}
@@ -107,8 +107,8 @@
 {"road":476,"at":"conestoga","loc":[40.028747,-75.3637],"cam_id":11940,"description":"traffic closest to camera is traveling south"}
 {"road":476,"at":"county line","loc":[40.051814,-75.344397],"cam_id":8641,"description":"traffic closest to camera is traveling south"}
 {"road":476,"at":"darby","loc":[39.995837,-75.347753],"cam_id":11937,"description":"traffic closest to camera is traveling south"}
-{"road":476,"at":"front brdg","loc":[40.074794,-75.32235],"cam_id":8644,"description":"traffic closest to camera is traveling south"}
-{"road":476,"at":"germantown ramp","loc":[40.107476,-75.288272],"cam_id":11942,"description":"traffic closest to camera is traveling south"}
+{"road":476,"at":"front","loc":[40.074794,-75.32235],"cam_id":8644,"description":"traffic closest to camera is traveling south"}
+{"road":476,"at":"germantown","loc":[40.107476,-75.288272],"cam_id":11942,"description":"traffic closest to camera is traveling south"}
 {"road":476,"at":"lawrence","loc":[39.972806,-75.339588],"cam_id":8637,"description":"traffic closest to camera is traveling north"}
 {"road":476,"at":"marple","loc":[39.988443,-75.343379],"cam_id":11936,"description":"traffic closest to camera is traveling south"}
 {"road":476,"at":"mcdade","loc":[39.875729,-75.348688],"cam_id":9636,"description":"traffic closest to camera is traveling north"}
@@ -180,7 +180,7 @@
 {"road":95,"at":"callowhil","loc":[39.958012,-75.141354],"cam_id":9491,"description":"traffic closest to camera is traveling south"}
 {"road":95,"at":"castor","loc":[39.988474,-75.088116],"cam_id":9616,"description":"traffic closest to camera is traveling north"}
 {"road":95,"at":"columbus","loc":[39.938433,-75.143736],"cam_id":8630,"description":"traffic closest to camera is traveling north"}
-{"road":95,"at":"convent lane","loc":[40.051024,-74.989336],"cam_id":9622,"description":"traffic closest to camera is traveling north"}
+{"road":95,"at":"convent","loc":[40.051024,-74.989336],"cam_id":9622,"description":"traffic closest to camera is traveling north"}
 {"road":95,"at":"cottman","loc":[40.029495,-75.022104],"cam_id":8616,"description":"traffic closest to camera is traveling east"}
 {"road":95,"at":"disston","loc":[40.022241,-75.038786],"cam_id":8615,"description":"traffic closest to camera is traveling west"}
 {"road":95,"at":"enterprise","loc":[39.887177,-75.214916],"cam_id":8625,"description":"traffic closest to camera is traveling north"}
