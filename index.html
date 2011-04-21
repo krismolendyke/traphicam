@@ -25,7 +25,9 @@
                 <ul id="position-list" 
                     data-role="listview"
                     class="ui-listview"
-                    ></ul>
+                    >
+                    <li><a href="#test">fcktraffic!</a></li>
+                </ul>
 
                 <h2>Traffic Cams</h2>
                 <ul id="cam-list"
@@ -35,17 +37,28 @@
         	</div>
 
         	<div data-role="footer">
-        		<h4>Sweet!</h4>
+        		<h4>fcktraffic</h4>
         	</div>
+        </div>
+        
+        <div data-role="page" id="test">
+            <div data-role="header">
+                <h1>fcktraffic!</h1>
+            </div>
+            <div data-role="content">
+                FUCK IT!
+            </div>
         </div>
     </body>
     
 <script id="position-item" type="text/x-jquery-tmpl">
 <li class="ui-li ui-li-static ui-body-c">
-    <p class="ui-li-aside ui-li-desc">acc: <strong>${coords.accuracy.toFixed(0)}</strong>m</p>
     <h3 class="ui-li-heading">${coords.date}</h3>
-    <p class="ui-li-desc">(${coords.latitude.toFixed(4)}, ${coords.longitude.toFixed(4)})</p>
-    <p class="ui-li-desc">${coords.difference.toFixed(2)}</p>
+    <p class="ui-li-desc">(<strong>${coords.latitude.toFixed(4)}</strong>, <strong>${coords.longitude.toFixed(4)}</strong>)</p>
+    <p class="ui-li-desc"><strong>${coords.accuracy.toFixed(0)}</strong>m accuracy</p>
+    {{if coords.difference > 0}}
+        <p class="ui-li-desc">diff: <strong>${coords.difference.toFixed(2)}</strong></p>
+    {{/if}}
 </li>
 </script>
 </html>
