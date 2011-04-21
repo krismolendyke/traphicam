@@ -15,39 +15,31 @@
     <body>
         <div data-role="page">
         	<div data-role="header">
-        		<h1>Commute <span id="destination"></span></h1>
+        		<h1>I-76 <span id="destination"></span></h1>
         	</div>
 
         	<div data-role="content">	
-                <div id="distances"></div>
+                <!-- <div id="distances"></div>
                 
                 <h2>Positions</h2>
                 <ul id="position-list" 
                     data-role="listview"
                     class="ui-listview"
                     >
-                    <li><a href="#test">fcktraffic!</a></li>
-                </ul>
+                </ul> -->
 
-                <h2>Traffic Cams</h2>
                 <ul id="cam-list"
                     data-role="listview"
                     class="ui-listview"
                     ></ul>
         	</div>
-
-        	<div data-role="footer">
-        		<h4>fcktraffic</h4>
-        	</div>
         </div>
         
-        <div data-role="page" id="test">
+        <div data-role="page" id="cam-detail">
             <div data-role="header">
-                <h1>fcktraffic!</h1>
+                <h1 id="cam-detail-heading"></h1>
             </div>
-            <div data-role="content">
-                FUCK IT!
-            </div>
+            <div data-role="content"></div>
         </div>
     </body>
     
@@ -61,4 +53,24 @@
     {{/if}}
 </li>
 </script>
+
+<script id="cam-item" type="text/x-jquery-tmpl">
+<li class="ui-li-has-thumb ui-btn ui-btn-icon-right ui-li ui-btn-down-c ui-btn-up-c cam-li"
+    data-theme="c"
+    >
+    <div class="ui-btn-inner ui-li">
+        <div class="ui-btn-text">
+            <a href="#cam-detail" 
+               class="ui-link-inherit" 
+               >
+    			<img src="${url}" class="ui-li-thumb cam">
+    			<h3 class="ui-li-heading">PennDOT #${number}</h3>
+    			<p class="ui-li-desc">${date.toLocaleTimeString()}</p>
+    		</a>
+    	</div>
+    	<span class="ui-icon ui-icon-arrow-r"></span>
+	</div>
+</li>
+</script>
+
 </html>

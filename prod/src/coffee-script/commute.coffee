@@ -16,10 +16,29 @@ class Cams
         if navigator.geolocation
             @spinner.show()
             navigator.geolocation.getCurrentPosition @geoLocSuccess
-            navigator.geolocation.watchPosition @watchSuccess
+            # navigator.geolocation.watchPosition @watchSuccess
+                
+        $('ul#cam-list').delegate 'li.cam-li', 'click', (event) ->
+            headingText = $(event.currentTarget)
+                .find('.ui-li-heading')
+                .text()
         
-        $('button#reverse').click => @load()
+            cam = $(event.currentTarget)
+                .find('img.cam')
+                .clone()
+                .removeClass()
 
+            if $.mobile.media 'screen and (min-width: 350px)'
+                cam.attr 'width', 340
+
+            $('div#cam-detail')
+                .find('#cam-detail-heading')
+                    .text(headingText)
+                .end()
+                .find('div[data-role="content"]')
+                    .empty()
+                    .append(cam)
+            
     watchSuccess: (position) =>
         positionLatLng = new google.maps.LatLng position.coords.latitude
                                               , position.coords.longitude
@@ -34,7 +53,8 @@ class Cams
             position.coords.date = new Date().toLocaleTimeString()
             position.coords.difference = difference or 0
             @lastPositionLatLng = positionLatLng
-            @positionList.append $('script#position-item').tmpl position
+            @positionList
+                .append($('script#position-item').tmpl(position)).listview('refresh')
 
     geoLocSuccess: (position) =>
         @spinner.hide()
@@ -56,9 +76,26 @@ class Cams
 """
         $('span#destination').text "to #{destination}"
 
+        @loadThumbs destination
         # @load destination
 
     geoLocError: (error) -> console.log 'shit'
+
+    loadThumbs: (destination = 'work') ->
+        camNumbers = @toWork.slice 0
+        camNumbers.reverse() if destination is 'work'
+        @camList.empty()
+        date = new Date() # Let's not create a million date objects in-loop
+            
+        for number in camNumbers
+            do (number) =>
+                data = {
+                    number: number
+                    url: @getCamUrl number
+                    date: date
+                }
+                camItem = $('script#cam-item').tmpl data
+                @camList.append(camItem).listview('refresh')
             
     load: (destination = 'work') ->
         camNumbers = @toWork.slice 0
