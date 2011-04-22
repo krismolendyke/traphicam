@@ -21,6 +21,16 @@ prodCoffeeFiles = [
     'commute'
 ]
 
+distDir = "dist"
+distFiles = [
+    "index.html"
+    "css"
+    "img"
+    "js"
+]
+
+option '-d', '--dist [DIR]', 'set the distribution directory'
+
 task 'watch:all', 'Watch production and test CoffeeScript', ->
     invoke 'watch:test'
     invoke 'watch'
@@ -80,9 +90,16 @@ task 'uglify', 'Minify and obfuscate', ->
         final_code = pro.gen_code ast # compressed code here
     
         fs.writeFile prodTargetJsMinFile, final_code
+        fs.unlink prodTargetJsFile, (err) -> handleError(err) if err
         
         growl "Uglified #{prodTargetJsMinFile}"
 
+task 'dist', 'Prepare distribution for deployment', (options) ->
+    dir = options.dist or distDir
+    fs.mkdir dir, '755'
+    for file, index in distFiles then do (file, index) ->
+        fs.link file, "#{dir}/#{file}"
+    
 task 'watch:test', 'Watch test specs and build changes', ->
     invoke 'build:test'
     util.log "Watching for changes in #{testSrcCoffeeDir}"
