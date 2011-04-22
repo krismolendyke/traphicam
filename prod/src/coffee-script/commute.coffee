@@ -14,7 +14,6 @@ class Cams
         @positionList = $('ul#position-list')
 
         if navigator.geolocation
-            @spinner.show()
             navigator.geolocation.getCurrentPosition @geoLocSuccess
             # navigator.geolocation.watchPosition @watchSuccess
                 
@@ -96,6 +95,8 @@ class Cams
                 }
                 camItem = $('script#cam-item').tmpl data
                 @camList.append(camItem).listview('refresh')
+        
+        @spinner.hide()
             
     load: (destination = 'work') ->
         camNumbers = @toWork.slice 0
