@@ -25,7 +25,7 @@ class Cams
             cam = $(event.currentTarget)
                 .find('img.cam')
                 .clone()
-                .removeClass()
+                .removeClass() 
 
             if $.mobile.media 'screen and (min-width: 350px)'
                 cam.attr 'width', 340
