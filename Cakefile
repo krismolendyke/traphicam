@@ -5,20 +5,25 @@ uglify = require 'uglify-js'
 
 prodSrcCoffeeDir     = 'prod/src/coffee-script'
 testSrcCoffeeDir     = 'test/src/coffee-script'
+nodeSrcCoffeeDir     = "#{prodSrcCoffeeDir}/node"
 
 prodTargetJsDir      = 'js'
 testTargetJsDir      = 'test/src/js'
+nodeTargetJsDir      = 'node'
 
-prodTargetFileName   = 'cams'
+prodTargetFileName   = 'fcktrffc'
 prodTargetCoffeeFile = "#{prodSrcCoffeeDir}/#{prodTargetFileName}.coffee"
 prodTargetJsFile     = "#{prodTargetJsDir}/#{prodTargetFileName}.js"
 prodTargetJsMinFile  = "#{prodTargetJsDir}/#{prodTargetFileName}.min.js"
 
-prodCoffeeOpts = "--output #{prodTargetJsDir} --compile #{prodTargetCoffeeFile}"
+prodCoffeeOpts = "--bare --output #{prodTargetJsDir} --compile #{prodTargetCoffeeFile}"
 testCoffeeOpts = "--output #{testTargetJsDir}"
+nodeCoffeeOpts = "--bare --output #{nodeTargetJsDir}"
 
 prodCoffeeFiles = [
-    'commute'
+    'intro'
+    'core'
+    'outro'
 ]
 
 distDir = "dist"
@@ -33,11 +38,13 @@ option '-d', '--dist [DIR]', 'set the distribution directory'
 
 task 'watch:all', 'Watch production and test CoffeeScript', ->
     invoke 'watch:test'
+    invoke 'watch:node'
     invoke 'watch'
     
 task 'build:all', 'Build production and test CoffeeScript', ->
     invoke 'build:test'
-    invoke 'build'
+    invoke 'build:node'
+    invoke 'build'    
 
 task 'watch', 'Watch prod source files and build changes', ->
     invoke 'build'
@@ -76,7 +83,7 @@ task 'build', 'Build a single JavaScript file from prod files', ->
                 message = "Compiled #{prodTargetJsFile}"
                 util.log message
                 growl message
-                fs.unlink prodTargetCoffeeFile, (err) -> handleError(err) if err
+                # fs.unlink prodTargetCoffeeFile, (err) -> handleError(err) if err
                 invoke 'uglify'                
 
 task 'uglify', 'Minify and obfuscate', ->
@@ -90,7 +97,7 @@ task 'uglify', 'Minify and obfuscate', ->
         final_code = pro.gen_code ast # compressed code here
     
         fs.writeFile prodTargetJsMinFile, final_code
-        fs.unlink prodTargetJsFile, (err) -> handleError(err) if err
+        # fs.unlink prodTargetJsFile, (err) -> handleError(err) if err
         
         growl "Uglified #{prodTargetJsMinFile}"
 
@@ -117,6 +124,24 @@ task 'build:test', 'Build individual test specs', ->
         handleError(err) if err
         for file in files then do (file) -> 
             coffee testCoffeeOpts, "#{testSrcCoffeeDir}/#{file}"
+
+task 'watch:node', 'Watch node.js CoffeeScript', ->
+    util.log "Watching for changes in #{nodeSrcCoffeeDir}"
+    
+    fs.readdir nodeSrcCoffeeDir, (err, files) ->
+        handleError(err) if err
+        for file in files then do (file) ->
+            fs.watchFile "#{nodeSrcCoffeeDir}/#{file}", (curr, prev) ->
+                if +curr.mtime isnt +prev.mtime
+                    coffee nodeCoffeeOpts, "#{nodeSrcCoffeeDir}/#{file}"
+
+task 'build:node', 'Build node.js CoffeeScript', ->
+    util.log "Building node.js files"
+    
+    fs.readdir nodeSrcCoffeeDir, (err, files) ->
+        handleError(err) if err
+        for file in files then do (file) ->
+            coffee nodeCoffeeOpts, "#{nodeSrcCoffeeDir}/#{file}"
 
 coffee = (options = "", file) ->
     util.log "Compiling #{file}"

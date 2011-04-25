@@ -1,4 +1,4 @@
-class Cams
+@.fcktrfc.cams = class Cams
     baseUrl: 'http://164.156.16.43/public/Districts/District6/WebCams'
     toWork: [
         51, 50, 49, 48, 46, 45, 44, 71, 72, 73, 93, 94, 95, 96, 97, 98, 99,
@@ -120,5 +120,3 @@ class Cams
         else if number < 100 then number = "0#{number}"
         
         "#{@baseUrl}/D6Cam#{number}.jpg"
-
-$ -> new Cams()
