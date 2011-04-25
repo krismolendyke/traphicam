@@ -9,10 +9,12 @@ htmlparser = require 'htmlparser'
 # dominiq = require 'node-sizzle/lib/dominiq'
 
 pennDotHostName = 'www.dot.state.pa.us'
-
 camBaseUrl = 'http://www.dot35.state.pa.us/public/Districts/District6/WebCams/'
-imagePrefix = 'D6Cam'
-imageExtension = ".jpg"
+
+pennDotFiles = [
+    'data/raw/District6WebcamsList.html'
+    'data/raw/district5webcamslist.html'
+]
 
 handler = new htmlparser.DefaultHandler (error, dom) ->
     util.debug error if error
@@ -31,13 +33,12 @@ d5UrlProcessor = (u) ->
     _(u.pathname.split '/').last().substring 2
     
 d6UrlProcessor = (u) ->
+    imagePrefix = 'D6Cam'
+    imageExtension = ".jpg"
     _s.sprintf "#{imagePrefix}%03d#{imageExtension}"
         , parseInt _(u.pathname.split '/').last().substring(7), 10
 
-fs.readFile 'data/raw/District6WebcamsList.html', 'utf-8', (err, contents) ->
-    parser = new htmlparser.Parser handler
-    parser.parseComplete contents
-
-fs.readFile 'data/raw/district5webcamslist.html', 'utf-8', (err, contents) ->
-    parser = new htmlparser.Parser handler
-    parser.parseComplete contents
+for file in pennDotFiles then do (file) ->
+    fs.readFile file, 'utf-8', (err, contents) ->
+        parser = new htmlparser.Parser handler
+        parser.parseComplete contents
