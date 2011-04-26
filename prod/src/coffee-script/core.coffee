@@ -2,7 +2,7 @@ class fcktrffc
 
     d6BaseUrl: 'http://164.156.16.43/public/Districts/District6/WebCams'
 
-    toWork: [
+    west: [
         51, 50, 49, 48, 46, 45, 44, 71, 72, 73, 93, 94, 95, 96, 97, 98, 99,
         100, 101, 174, 175, 176, 133, 134, 135, 136, 137, 138, 139, 140, 141,
         142
@@ -11,15 +11,19 @@ class fcktrffc
     constructor: ->
         @home = new google.maps.LatLng 40.012638, -75.198691
         @work = new google.maps.LatLng 40.03734, -75.49763
-        @spinner = $('img#spinner')
         @camList = $('ul#cam-list')
         @positionList = $('ul#position-list')
 
-        if navigator.geolocation
-            navigator.geolocation.getCurrentPosition @geoLocSuccess
-            # navigator.geolocation.watchPosition @watchSuccess
-                
         $('ul#cam-list').delegate 'li.cam-li', 'click', @camClickHandler
+        $('a#find-me').click (event) =>
+            event.preventDefault()
+
+            $.mobile.pageLoading()
+            
+            if navigator.geolocation
+                navigator.geolocation.getCurrentPosition @geoLocSuccess
+
+        @load()
 
     camClickHandler: (event) ->
         headingText = $(event.currentTarget)
@@ -40,7 +44,7 @@ class fcktrffc
                 .append(cam)
 
     geoLocSuccess: (position) =>
-        @spinner.hide()
+        @camList.empty()
         current = new google.maps.LatLng position.coords.latitude
                                        , position.coords.longitude
         fromHome = 
@@ -50,16 +54,9 @@ class fcktrffc
             google.maps.geometry.spherical.computeDistanceBetween current
                                                                 , @work
 
-        destination = if fromHome < fromWork then 'work' else 'home'
+        direction = if fromHome < fromWork then 'west' else 'east'
 
-        $('div#distances')
-            .html """
-<strong>#{fromHome.toFixed 0}</strong>m from home, 
-<strong>#{fromWork.toFixed 0}</strong>m from work.
-"""
-        $('span#destination').text "to #{destination}"
-
-        @loadThumbs destination
+        @load direction
 
     geoLocError: (error) -> console.log 'shit'
 
@@ -78,13 +75,14 @@ class fcktrffc
             position.coords.difference = difference or 0
             @lastPositionLatLng = positionLatLng
             @positionList
-                .append($('script#position-item').tmpl(position)).listview('refresh')
+                .append($('script#position-item')
+                .tmpl(position)).listview('refresh')
 
-    loadThumbs: (destination = 'work') ->
-        camNumbers = @toWork.slice 0
-        camNumbers.reverse() if destination is 'work'
+    load: (direction = 'west') ->
         @camList.empty()
         date = new Date() # Let's not create a million date objects in-loop
+        camNumbers = @west.slice 0
+        camNumbers.reverse() if direction is 'work'
 
         for number in camNumbers
             do (number) =>
@@ -93,10 +91,11 @@ class fcktrffc
                     url: @getCamUrl number
                     date: date
                 }
+
                 camItem = $('script#cam-item').tmpl data
                 @camList.append(camItem).listview('refresh')
 
-        @spinner.hide()
+        $.mobile.pageLoading 'false'
 
     getCamUrl: (number) -> 
         if number < 10 then number = "00#{number}"

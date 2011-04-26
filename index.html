@@ -8,27 +8,18 @@
         <script src="http://code.jquery.com/jquery-1.5.2.min.js"></script>
         <script src="http://maps.google.com/maps/api/js?libraries=geometry&sensor=true" type="text/javascript" charset="utf-8"></script>
         <script src="js/jquery.tmpl.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="js/fcktrffc.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="http://code.jquery.com/mobile/1.0a4.1/jquery.mobile-1.0a4.1.min.js"></script>
+        <script src="js/fcktrffc.min.js" type="text/javascript" charset="utf-8"></script>
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.0a4.1/jquery.mobile-1.0a4.1.min.css" />
     </head>
     <body>
         <div data-role="page">
         	<div data-role="header">
-        		<h1>I-76 <span id="destination"></span></h1>
+        		<h1>I-76 <span id="destination">West</span></h1>
+        		<a id="find-me" data-icon="search">Find Me</a>
         	</div>
 
-        	<div data-role="content">	
-        	    <img id="spinner" src="img/spinner.gif">
-                <!-- <div id="distances"></div>
-                
-                <h2>Positions</h2>
-                <ul id="position-list" 
-                    data-role="listview"
-                    class="ui-listview"
-                    >
-                </ul> -->
-
+        	<div data-role="content">
                 <ul id="cam-list"
                     data-role="listview"
                     class="ui-listview"
