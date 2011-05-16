@@ -79,6 +79,7 @@ class fcktrffc
                 .tmpl(position)).listview('refresh')
 
     load: (direction = 'west') ->
+        $('span#direction').text direction
         @camList.empty()
         date = new Date() # Let's not create a million date objects in-loop
         camNumbers = @west.slice 0

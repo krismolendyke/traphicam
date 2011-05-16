@@ -30,7 +30,6 @@ distDir = "dist"
 distFiles = [
     "index.html"
     "css"
-    "img"
     "js"
 ]
 
