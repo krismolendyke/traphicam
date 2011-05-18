@@ -58,7 +58,7 @@ class fcktrffc
 
         @load direction
 
-    geoLocError: (error) -> console.log 'shit'
+    geoLocError: (error) ->
 
     watchSuccess: (position) =>
         positionLatLng = new google.maps.LatLng position.coords.latitude
@@ -76,7 +76,7 @@ class fcktrffc
             @lastPositionLatLng = positionLatLng
             @positionList
                 .append($('script#position-item')
-                .tmpl(position)).listview('refresh')
+                .tmpl(position)).listview 'refresh'
 
     load: (direction = 'west') ->
         $('span#direction').text direction
@@ -85,16 +85,14 @@ class fcktrffc
         camNumbers = @west.slice 0
         camNumbers.reverse() if direction isnt 'west'
 
-        for number in camNumbers
-            do (number) =>
-                data = {
-                    number: number
-                    url: @getCamUrl number
-                    date: date
-                }
+        for number in camNumbers then do (number) =>
+            data =
+                number: number
+                url: @getCamUrl number
+                date: date
 
-                camItem = $('script#cam-item').tmpl data
-                @camList.append(camItem).listview('refresh')
+            camItem = $('script#cam-item').tmpl data
+            @camList.append(camItem).listview 'refresh'
 
         $.mobile.pageLoading 'false'
 
@@ -102,4 +100,4 @@ class fcktrffc
         if number < 10 then number = "00#{number}"
         else if number < 100 then number = "0#{number}"
 
-        "#{@d6BaseUrl}/D6Cam#{number}.jpg"
+        "#{@d6BaseUrl}/D6Cam#{number}.jpg?t=#{Date.now()}"
