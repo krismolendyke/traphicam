@@ -19,7 +19,7 @@ class fcktrffc
             event.preventDefault()
 
             $.mobile.pageLoading()
-            
+
             if navigator.geolocation
                 navigator.geolocation.getCurrentPosition @geoLocSuccess
 
@@ -29,11 +29,11 @@ class fcktrffc
         headingText = $(event.currentTarget)
             .find('.ui-li-heading')
             .text()
-    
+
         cam = $(event.currentTarget)
             .find('img.cam')
             .clone()
-            .removeClass() 
+            .removeClass()
 
         $('div#cam-detail')
             .find('#cam-detail-heading')
@@ -47,10 +47,10 @@ class fcktrffc
         @camList.empty()
         current = new google.maps.LatLng position.coords.latitude
                                        , position.coords.longitude
-        fromHome = 
+        fromHome =
             google.maps.geometry.spherical.computeDistanceBetween current
                                                                 , @home
-        fromWork = 
+        fromWork =
             google.maps.geometry.spherical.computeDistanceBetween current
                                                                 , @work
 
@@ -65,11 +65,11 @@ class fcktrffc
                                               , position.coords.longitude
 
         if @lastPositionLatLng?
-            difference = 
+            difference =
                 google.maps.geometry.spherical.computeDistanceBetween positionLatLng
                                                                     , @lastPositionLatLng
 
-        unless positionLatLng.equals(@lastPositionLatLng) or 
+        unless positionLatLng.equals(@lastPositionLatLng) or
                position.coords.accuracy > difference
             position.coords.date = new Date().toLocaleTimeString()
             position.coords.difference = difference or 0
@@ -83,7 +83,7 @@ class fcktrffc
         @camList.empty()
         date = new Date() # Let's not create a million date objects in-loop
         camNumbers = @west.slice 0
-        camNumbers.reverse() if direction is 'work'
+        camNumbers.reverse() if direction isnt 'west'
 
         for number in camNumbers
             do (number) =>
@@ -98,7 +98,7 @@ class fcktrffc
 
         $.mobile.pageLoading 'false'
 
-    getCamUrl: (number) -> 
+    getCamUrl: (number) ->
         if number < 10 then number = "00#{number}"
         else if number < 100 then number = "0#{number}"
 

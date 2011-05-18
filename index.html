@@ -14,19 +14,19 @@
     </head>
     <body>
         <div data-role="page">
-        	<div data-role="header">
-        		<h1>I-76 <span id="direction">west</span></h1>
-        		<a id="find-me" data-icon="search">Find Me</a>
-        	</div>
+            <div data-role="header">
+                <h1>I-76 <span id="direction">west</span></h1>
+                <a id="find-me" data-icon="search">Find Me</a>
+            </div>
 
-        	<div data-role="content">
+            <div data-role="content">
                 <ul id="cam-list"
                     data-role="listview"
                     class="ui-listview"
                     ></ul>
-        	</div>
+            </div>
         </div>
-        
+
         <div data-role="page" id="cam-detail">
             <div data-role="header">
                 <h1 id="cam-detail-heading"></h1>
@@ -34,7 +34,7 @@
             <div data-role="content"></div>
         </div>
     </body>
-    
+
 <script id="position-item" type="text/x-jquery-tmpl">
 <li class="ui-li ui-li-static ui-body-c">
     <h3 class="ui-li-heading">${coords.date}</h3>
@@ -52,16 +52,16 @@
     >
     <div class="ui-btn-inner ui-li">
         <div class="ui-btn-text">
-            <a href="#cam-detail" 
-               class="ui-link-inherit" 
+            <a href="#cam-detail"
+               class="ui-link-inherit"
                >
-    			<img src="${url}" class="ui-li-thumb cam">
-    			<h3 class="ui-li-heading">PennDOT #${number}</h3>
-    			<p class="ui-li-desc">${date.toLocaleTimeString()}</p>
-    		</a>
-    	</div>
-    	<span class="ui-icon ui-icon-arrow-r"></span>
-	</div>
+                <img src="${url}" class="ui-li-thumb cam">
+                <h3 class="ui-li-heading">PennDOT #${number}</h3>
+                <p class="ui-li-desc">${date.toLocaleTimeString()}</p>
+            </a>
+        </div>
+        <span class="ui-icon ui-icon-arrow-r"></span>
+    </div>
 </li>
 </script>
 
