@@ -11,6 +11,7 @@
         <script src="js/jquery.mobile-1.0a4.1.min.js"></script>
         <script src="js/fcktrffc.min.js" type="text/javascript" charset="utf-8"></script>
         <link rel="stylesheet" href="css/jquery.mobile-1.0a4.1.min.css" />
+        <link rel="stylesheet" href="css/cams.css" />
     </head>
     <body>
         <div data-role="page">
@@ -36,10 +37,9 @@
             <div data-role="content"></div>
             <div data-role="footer">
                 <div data-role="fieldcontain">
-                    <label for="cam-detail-auto-refresh">Auto Refresh:</label>
                     <select name="cam-detail-auto-refresh" id="cam-detail-auto-refresh" data-role="slider">
-                        <option value="off">Off</option>
-                        <option value="on">On</option>
+                        <option value="off">Manual Refresh</option>
+                        <option value="on">Auto Refresh</option>
                     </select>
                 </div>
             </div>
