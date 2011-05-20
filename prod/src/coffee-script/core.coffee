@@ -11,21 +11,32 @@ class fcktrffc
     constructor: ->
         @home = new google.maps.LatLng 40.012638, -75.198691
         @work = new google.maps.LatLng 40.03734, -75.49763
+        @direction = 'west'
         @camList = $('ul#cam-list')
         @positionList = $('ul#position-list')
 
         $('ul#cam-list').delegate 'li.cam-li', 'click', @camClickHandler
+
+        $('a#refresh').click (event) =>
+            event.preventDefault()
+            $.mobile.pageLoading()
+            @load()
+
         $('a#find-me').click (event) =>
             event.preventDefault()
-
             $.mobile.pageLoading()
-
             if navigator.geolocation
                 navigator.geolocation.getCurrentPosition @geoLocSuccess
 
         @load()
 
-    camClickHandler: (event) ->
+    camClickHandler: (event) =>
+        camId = $(event.currentTarget).data 'id'
+
+        $('a#cam-detail-refresh').click (event) =>
+            $('div#cam-detail')
+                .find('img').attr 'src', @getCamUrl camId
+
         headingText = $(event.currentTarget)
             .find('.ui-li-heading')
             .text()
@@ -54,9 +65,9 @@ class fcktrffc
             google.maps.geometry.spherical.computeDistanceBetween current
                                                                 , @work
 
-        direction = if fromHome < fromWork then 'west' else 'east'
+        @direction = if fromHome < fromWork then 'west' else 'east'
 
-        @load direction
+        @load()
 
     geoLocError: (error) ->
 
@@ -78,12 +89,12 @@ class fcktrffc
                 .append($('script#position-item')
                 .tmpl(position)).listview 'refresh'
 
-    load: (direction = 'west') ->
-        $('span#direction').text direction
+    load: ->
+        $('span#direction').text @direction
         @camList.empty()
         date = new Date() # Let's not create a million date objects in-loop
         camNumbers = @west.slice 0
-        camNumbers.reverse() if direction isnt 'west'
+        camNumbers.reverse() if @direction isnt 'west'
 
         for number in camNumbers then do (number) =>
             data =
