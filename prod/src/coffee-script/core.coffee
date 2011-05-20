@@ -94,7 +94,7 @@ class fcktrffc
         @camList.empty()
         date = new Date() # Let's not create a million date objects in-loop
         camNumbers = @west.slice 0
-        camNumbers.reverse() if @direction isnt 'west'
+        camNumbers.reverse() if @direction is 'west'
 
         for number in camNumbers then do (number) =>
             data =
