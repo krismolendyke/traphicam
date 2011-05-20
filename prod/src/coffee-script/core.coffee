@@ -15,13 +15,15 @@ class fcktrffc
         @camList = $('ul#cam-list')
         @positionList = $('ul#position-list')
 
-        $('ul#cam-list').delegate 'li.cam-li', 'click', @camClickHandler
+        @camList.delegate 'li.cam-li', 'click', @camClickHandler
+
+        $('div#cam-detail').live 'pagebeforehide', (event, ui) =>
+            clearInterval @refreshId
 
         $('a#refresh').click (event) =>
             event.preventDefault()
             $.mobile.pageLoading()
             @load()
-
 
         $('a#find-me').click (event) =>
             event.preventDefault()
@@ -39,11 +41,12 @@ class fcktrffc
 
         $('a#cam-detail-refresh').click (event) => @refreshCamDetail camId
 
-        $('select#cam-detail-auto-refresh').change (event) =>
+        $('select#cam-detail-auto-refresh').change((event) =>
             clearInterval @refreshId
             selection = $(event.target).find 'option:selected'
             if selection.val() is 'on'
                 @refreshId = setInterval (=> @refreshCamDetail camId), 5000
+        ).change()
 
         headingText = $(event.currentTarget)
             .find('.ui-li-heading')
