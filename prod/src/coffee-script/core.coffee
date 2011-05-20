@@ -22,6 +22,7 @@ class fcktrffc
             $.mobile.pageLoading()
             @load()
 
+
         $('a#find-me').click (event) =>
             event.preventDefault()
             $.mobile.pageLoading()
@@ -30,12 +31,19 @@ class fcktrffc
 
         @load()
 
+    refreshCamDetail: (id) =>
+        $('div#cam-detail').find('img').attr 'src', @getCamUrl id
+
     camClickHandler: (event) =>
         camId = $(event.currentTarget).data 'id'
 
-        $('a#cam-detail-refresh').click (event) =>
-            $('div#cam-detail')
-                .find('img').attr 'src', @getCamUrl camId
+        $('a#cam-detail-refresh').click (event) => @refreshCamDetail camId
+
+        $('select#cam-detail-auto-refresh').change (event) =>
+            clearInterval @refreshId
+            selection = $(event.target).find 'option:selected'
+            if selection.val() is 'on'
+                @refreshId = setInterval (=> @refreshCamDetail camId), 5000
 
         headingText = $(event.currentTarget)
             .find('.ui-li-heading')
