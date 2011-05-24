@@ -1,0 +1,2229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>trafficcameraswithfeed.kml</name>
+	<StyleMap id="IconStyle00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<Icon>
+				<href>http://www.phillytraffic.com/images/camicon.gif</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<Icon>
+				<href>http://www.phillytraffic.com/images/camicon.gif</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>trafficcameraswithfeed</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark>
+			<name>I-476 McDade on Ramp</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam122.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.348917,39.875833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB @ Mcdade Blvd/Exit 1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam123.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.35165000000001,39.876783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB @ US1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam070.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.547117,39.881167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB N of Bullend Ln</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam196.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.352242,39.883247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB@Watkins</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam069.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.55535,39.89145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WB Platt Bridge</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam165.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.224194,39.892194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WB Platt Bridge Midspan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam164.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.211653,39.897803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB@SEPTA Overpass</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam198.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.364159,39.902934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26th Street &amp; Penrose Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam163.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.194,39.905789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB S of Plush Mill Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam199.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.36205099999999,39.908097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB S of Green Tr Dr</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam068.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.571033,39.911183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB N of Beatty Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam200.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.36241699999999,39.9126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB @Balt Pike</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam124.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.362483,39.9126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 291 WB E of I-76</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam162.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.191853,39.915211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB @ PA 926</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam067.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.57695,39.91955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26th Street to 76 WB</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam160.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.190575,39.921586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB to 26th Street</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam161.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.190325,39.921633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB Ramp to Passyunk Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam159.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.191639,39.923131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB @ Vare Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam158.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.197211,39.929083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB N of Skiles Blvd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam066.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.58555,39.930383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB East of Grays Ferry</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam157.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.199906,39.935106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB @ US1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam125.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.364636,39.936101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB@PA 322</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam065.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.59045,39.940556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB @ University Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam156.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.192581,39.943547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB East of South Street</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam155.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.19136399999999,39.944739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB N of PA320</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam197.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.34865000000001,39.945217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB-North of US 1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam011.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.34865000000001,39.945217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB West of South Street</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam154.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.185261,39.948789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB N of Westtn R</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam063.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.581867,39.950483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB S of Bolmar S</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam064.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.581867,39.950483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB 95@Vine Exp/BF Bridge</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam093.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.141083,39.953017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB @ 30th St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam153.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.181406,39.953761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB-Reed Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam012.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.33735,39.953983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB East of I-676</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam152.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.18061899999999,39.955717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB 95@Race St.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam026.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.140833,39.9559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-676EB 676@8th St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam177.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.15256700000001,39.9569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-676EB 676@3rd St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam178.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.14490000000001,39.956967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-676WB 676@11th St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam132.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.157267,39.957283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-676WB 676@Broad St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam131.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.16175,39.957683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-676EB 676@16th St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam130.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.165367,39.958133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB Ramp to I-476 North</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam010.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.14098300000001,39.95855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB @Vine/Callowhill</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam027.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.14098300000001,39.95855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-676WB 676@18th St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam129.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.168733,39.958783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-676EB 676@Ben Franklin Pkwy</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam127.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.17245,39.959017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-676WB 676@20th St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam128.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.171117,39.95905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-676WB 676@24th St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam126.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.178483,39.959983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB @ I-676</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam151.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.18175599999999,39.9604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB-Blue Rt:7.4</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam013.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.333617,39.963283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB Spring Garden</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam150.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.184433,39.964061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB @ W Chester P</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam062.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.58150000000001,39.9672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB West of Spring Garden</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam149.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.192289,39.969408,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB N or Paoli</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam061.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.5835,39.972817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB- Lawrence Rd:8.1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam014.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.33968299999999,39.973083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB East of Girard</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam148.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.194119,39.97445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB @ Girard</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam147.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.197075,39.976644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB S of West Chester Pike</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam201.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.34090999999999,39.977945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB West of Girard</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam146.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.202353,39.978233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB-95 Indiana St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot.state.pa.us/penndot/districts/district6.nsf/TCamera102?openpage" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.105267,39.980133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB @ PA 322</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam060.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.58886699999999,39.981133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB East of Montgomery</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam145.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.20817200000001,39.983253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB N of West Chester Pike</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam202.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.338263,39.983969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB @ Montgomery</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam144.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.207675,39.987533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB S of Marple Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam203.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.343301,39.988337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB-95 Castor Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam103.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.0881,39.988533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB @ PA 100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam059.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.589033,39.991867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB West of Montgomery Dr</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam143.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.197778,39.995167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB S of Darby Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam204.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.34778,39.995849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 100 NB @ Phoenixville</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam028.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.59391700000001,39.996083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-95 Betsy Ross</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam104.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.082267,39.9973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT23 WB @ City Line Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam212.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.22623,40.00129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 100 NB BEF Kirkland</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam029.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.59950000000001,40.0029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB Ramp to US1 N</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam142.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.195331,40.005092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB @ Boot Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam058.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.58240000000001,40.005317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB @ US1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam141.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.19752800000001,40.005967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB S of Bryn Mawr Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam205.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.35455399999999,40.00659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-95 Wakelng St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam105.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.072633,40.007583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 100 SB AFT BOOT RD</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam030.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.612833,40.0077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aramingo Ave @ Tacony St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam223.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.072407,40.008053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB @ City Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam140.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.20778900000001,40.009753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 30 EB after PA 340</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam081.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.73566700000001,40.009833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB @ Morstein Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam057.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.58116699999999,40.011417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB @ City Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam139.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.209206,40.011539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 1 NB South of Henry</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam166.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.182425,40.011556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB-95 Vankirk</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam106.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.05878300000001,40.012517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 100 SB AFT Pottstown</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam031.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.616433,40.012567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 30 EB before PA 100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam076.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.647933,40.012983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Torresdale @ Harbison Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam213.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.068462,40.013383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 30 WB @ PA 322</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam080.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.724383,40.013467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 1 SB @ Fox Street</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam167.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.178275,40.01455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB@Clyde Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam206.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.357316,40.015636,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harbison Ave @ Sanger St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam224.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.072407,40.016861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 100 NB BEF MTN View</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam032.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.62133300000001,40.017183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 1 SB @ Wissahickon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam168.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.17235599999999,40.017614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 30 WB@BUS 230 Ramp</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam077.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.669533,40.018183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 1 NB @ Roberts/Berkley</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam169.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.16859700000001,40.018258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 30 WB before PA 113</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam078.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.699783,40.019267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 30 WB before PA 282</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam079.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.699783,40.019267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 1 SB @ Broad Street</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam171.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.148892,40.019797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB East of Belmont</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam138.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.219014,40.019994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 1 NB @ 17th Street</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam170.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.153739,40.02035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Torresdale @ Robbins Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam214.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.053572,40.020505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 30 EB @ PA 100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam075.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.62431700000001,40.020517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 1 @ 9th Street</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam172.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.14019399999999,40.020967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Torresdale @  Levick St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam215.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.05162300000001,40.02152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB S of King Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam056.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.58765,40.021817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-95 Disston St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam107.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.03885,40.022167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>State Rd @ Princeton Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam221.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.035265,40.023922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB @ Belmont</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam137.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.229056,40.025292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>State Rd @ Cottman Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam222.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.031494,40.025657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 100 NB @ SR3070</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam033.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.62776700000001,40.028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Torresdale @ Princeton Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam216.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.038766,40.02816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB @ Conestoge Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam207.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.36371699999999,40.028784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB-95 N of COTMN</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam108.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.021933,40.029417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB @ US 30</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam055.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.587867,40.029883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Torresdale @ Cottman Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam217.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.034993,40.030114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT23 WB @ Hollow Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam211.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.26318999999999,40.03098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB West of Belmont</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam136.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.23906100000001,40.031717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Torresdale @ Rhawn St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam218.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.025058,40.035247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-95 Penny Pack</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam109.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.018433,40.035267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB-US 30 RMP:13</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam015.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.359317,40.036033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB East of Gladwyne</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam135.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.2462,40.036883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB West of Gladwyne</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam134.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.247489,40.0375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 100 NB @Sunrise BLVD</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam034.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.63200000000001,40.038517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476-US 30/Exit #13</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot.state.pa.us/penndot/districts/district6.nsf/TCamera119?openpage" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.353183,40.03865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Torresdale @ Ashburner St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam219.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.01526,40.040316,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB-95 S of Amtrak</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam110.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.00451700000001,40.041033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB S of PA 401</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam054.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.570317,40.0434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB West of Gladwyne</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam133.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.25725,40.044786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB CNTY Ln:13.9</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam017.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.3493,40.04585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 100 NB BEF SHIP RD</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam035.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.633467,40.046517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-95 Academy Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam111.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.99979999999999,40.048233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Torresdale @ Linden St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam220.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.99971600000001,40.05037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB N of Mill Lane</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam052.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.546683,40.0508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB-95 Convent Av</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam112.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.98915,40.051117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB @ PA 29</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam051.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.533033,40.051467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB No of Cnty LN</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam018.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.3445,40.051683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB @ Church Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam053.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.5616,40.051783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB East of Waverly</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam176.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.26580300000001,40.053031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 100 NB @Worthington</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam036.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.641317,40.054983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB N of Cedar Hollow Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam050.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.500383,40.056133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 100 SB AFT PA 113</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam037.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.65695,40.0565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB Blue Rt:15.1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam019.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.330983,40.057433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB N of N Valley</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam049.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.48595,40.0579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-95 Mil Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam113.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.981717,40.058567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB @ I-76/Exit 16B</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam020.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.321417,40.06375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95- 895 Tennis Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot.state.pa.us/penndot/districts/district6.nsf/TCamera119?openpage" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.9697,40.06415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB W of Matsnfrd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam098.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.329483,40.064167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB @ Howelvl Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam048.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.472617,40.064283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB West of Waverly</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam175.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.276847,40.064389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB @ I476 Interchange</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam173.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.318264,40.065469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB N of Chesterbrk</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam047.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.460167,40.065533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB @ MM 332</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam099.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.312483,40.066633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB @ MM</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam097.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.337383,40.0676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 N of US 252</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam046.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.451967,40.067783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB-Ramp to PA 63</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam115.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.96120000000001,40.068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB@MM 332.6</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam100.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.30071700000001,40.068033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT23 EB @ Fayette St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam210.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.31126,40.06895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB @ Gulph Mills</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam096.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.34303300000001,40.069467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB- 95 Woodhaven</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam116.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.961083,40.070617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 100 NB @PA Turnpike</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam039.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.68015,40.071167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB @ US 252</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam045.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.441367,40.0718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB @ Conshohocken Curve</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam174.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.28695,40.072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB Consh Crve</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam101.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.28695,40.072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB @ W Valley Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam044.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.42741700000001,40.07325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 WB W of Gypsy Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam095.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.34780000000001,40.073567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB /WWB Packer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot.state.pa.us/penndot/districts/district6.nsf/TCamera119?openpage" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.94883299999999,40.074067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 NB-95 Station Av</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam117.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.94883299999999,40.074067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB Island Airport</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam001.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.94883299999999,40.074067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-Aramingo/Gir</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam009.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.94883299999999,40.074067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-Broad St.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam003.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.94883299999999,40.074067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-EnterPR/Bart</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam002.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.94883299999999,40.074067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-Girard Ave</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam008.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.94883299999999,40.074067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-Packer/Front</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam005.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.94883299999999,40.074067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 SB-Tasker/Reed</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam006.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.94883299999999,40.074067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-95 Wash/Columbus</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam007.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.94883299999999,40.074067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB SCHKL R BRDG</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam021.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.32210000000001,40.075283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB Weadley Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam094.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.36148300000001,40.076217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 Ramp L @ Ramp O</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam071.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.405633,40.078517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB W of Croton</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam093.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.378117,40.079033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 SB US 202/PA 422</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam043.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.407017,40.08015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 Ramp L @ Cont BL</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam072.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.39831700000001,40.0803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 63 WB @ Millbrk Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam092.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.965667,40.080917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 Ramp L @ 76</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam073.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.39148299999999,40.081417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB N of Ridge PK</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam024.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.3111,40.083083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 NB Access Rd BRDG</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam022.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.3111,40.083083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-76 EB Ramp to US 202/422</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam074.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.39735,40.083133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 NB US 202/I/76</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam042.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.39425,40.08325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 @ Allendale</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam041.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.38345,40.0877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 309 SB @ Easton Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam118.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.16595,40.087933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 422 EB-422 @ PA Turnpike</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam082.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.4152,40.090317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 202 @ Town CTR RD</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam040.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.36775,40.09325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 309 NB @ Waverly Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam179.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.170761,40.093553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB S of Ridge PK</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam023.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.30485,40.094617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 SB @ Ridge Pike</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam208.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.29165,40.10015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 309 NB S of Papermill Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam180.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.18586999999999,40.100249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 422 WB-422@PA 23</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam083.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.4185,40.101433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 309 SB @ Papermill Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam181.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.194405,40.102003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I-476 Ramp from Germantown Pike</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam209.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.288651,40.106774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 422 WB-422 @ PA 363</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam084.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.420017,40.11305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT309 SB @ Church Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam182.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.201346,40.113248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 422 EB- 422 PWLNGS RD</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam086.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.454883,40.114167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 422 WB-422 W of PA 363</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam085.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.4311,40.115933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT309 SB S of Turnpike</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam183.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.204989,40.12352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 422 EB- 422 W of Perk</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam087.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.451083,40.1243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 309 NB @PA Turnpike</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot.state.pa.us/penndot/districts/district6.nsf/TCamera119?openpage" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.201183,40.1334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT309 NB N of Turnpike</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam184.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.201183,40.1334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 422 WB-422 Egypt Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam088.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.44676699999999,40.13475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 422 EB-422 Indn Head</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam089.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.46035000000001,40.147783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 422 WB-422 Cider Mil</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam090.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.45990000000001,40.15048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>US 422 WB-422 E of PA 29</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam091.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.47,40.1568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 309 NB @Susquehanna</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam120.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.20125,40.161183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA 309 NB @ Beth PK Mrg</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam121.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.223067,40.195917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT309 SB @ English Village</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam190.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.225004,40.208945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT309 SB N of Hartman Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam191.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.229933,40.218354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT309 NB @ Stump Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam192.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.23414699999999,40.225717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT309 NB @ US 202</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam193.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.24003399999999,40.235524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT309 SB @ North Wales Rd</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam194.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.242627,40.239696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT309 NB @ Five Points</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img border="0" src="http://www.dot35.state.pa.us/public/Districts/District6/WebCams/D6Cam195.jpg" alt="This camera is temporarily out of service." width="350" height="250" />]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-75.243835,40.247671,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
