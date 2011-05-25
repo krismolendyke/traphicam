@@ -30,7 +30,6 @@ get '/': ->
 
 # Socket.io connections
 at connection: ->
-    send 'message', text: 'Hello!'
 
 # Default client-side code to include.
 client ->
@@ -51,15 +50,12 @@ client ->
                 $('div[data-role="content"]')
                     .append $('<p>').text "#{msg.message.text}"
             if msg.currentPosition
-                $('div[data-role="content"]')
-                    .append $('<p>').text """It looks like you're at
+                $('p#stats').text """It looks like you're at
 (#{msg.currentPosition.position.coords.latitude}, #{msg.currentPosition.position.coords.longitude}), give or take #{msg.currentPosition.position.coords.accuracy} feet and that there's at least #{msg.currentPosition.cameras.length} cameras nearby."""
-                list = $('<ol>')
+
                 for camera in msg.currentPosition.cameras
-                    list.append $('<li>')
-                        .append($('<h3>').text camera.name)
-                        .append($('<img>').attr 'src', camera.url)
-                $('div[data-role="content"]').append list
+                    $('ul#cam-list').append($('script#cam-item').tmpl(camera))
+                $('ul#cam-list').listview 'refresh'
 
         socket.connect()
 
@@ -118,4 +114,16 @@ layout ->
                 div 'data-role': 'header', ->
                     h1 'traPHIcam.com'
                 div 'data-role': 'content', ->
-                    @content
+                    p id: 'stats'
+                    ul
+                        id: 'cam-list'
+                        'data-role': 'listview'
+                        class: 'ui-listview'
+        # Camera list item jQueryMobile template.
+        script id: 'cam-item', type: 'text/x-jquery-tmpl', ->
+            li class: 'ui-li-has-thumb ui-btn ui-btn-icon-right ui-li ui-btn-down-c ui-btn-up-c cam-li', 'data-theme': 'c', ->
+                div class: 'ui-btn-inner ui-li', ->
+                    div class: 'ui-btn-text', ->
+                        a class: 'ui-link-inherit', ->
+                            img class: 'ui-li-thumb', src: '${url}', alt: 'M.I.A.'
+                            h3 class: 'ui-li-heading', '${name}'
