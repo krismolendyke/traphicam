@@ -1,3 +1,7 @@
+# Parse traffic camera KML into MongoDB documents and save them with
+# geospatial indexing.  This will allow for $near queries to return traffic
+# cameras around a mobile device.
+
 sys = require 'sys'
 fs = require 'fs'
 xml2js = require 'xml2js'
@@ -69,7 +73,8 @@ parser.addListener 'end', (result) ->
 
 Error: #{err}"""
 
+            # Give some status and close the connection.
             if isLast
                 CameraModel.count {}, (err, count) ->
-                    console.log "Saved #{count} cameras successfully."
+                    console.log "Saved #{count} of #{result.Document.Folder.Placemark.length} cameras successfully."
                     mongoose.disconnect()
