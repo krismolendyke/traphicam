@@ -17,19 +17,20 @@ get '/': ->
 
     # Create the mongoose model.
     mongoose.model 'Camera', Camera
-    CameraModel = mongoose.model 'Camera'
+    app.CameraModel = mongoose.model 'Camera'
+    # app.CameraModel = CameraModel
 
     # Connect to mongodb.
     mongoose.connect 'mongodb://localhost/cams'
 
     # Count those cameras!
-    CameraModel.count {}, (err, @count) =>
+    app.CameraModel.count {}, (err, @count) =>
         # mongoose.disconnect()
         render 'default'
 
 # Socket.io connections
 at connection: ->
-    send 'welcome', text: 'Hello!'
+    send 'message', text: 'Hello!'
 
 # Default client-side code to include.
 client ->
@@ -46,13 +47,19 @@ client ->
         socket.on 'message', (raw) ->
             msg = JSON.parse raw
             console.log msg
-            if msg.welcome
+            if msg.message
                 $('div[data-role="content"]')
-                    .append $('<p>').text "#{msg.welcome.text}"
+                    .append $('<p>').text "#{msg.message.text}"
             if msg.currentPosition
                 $('div[data-role="content"]')
                     .append $('<p>').text """It looks like you're at
-(#{msg.currentPosition.position.coords.latitude}, #{msg.currentPosition.position.coords.longitude}), give or take #{msg.currentPosition.position.coords.accuracy} feet."""
+(#{msg.currentPosition.position.coords.latitude}, #{msg.currentPosition.position.coords.longitude}), give or take #{msg.currentPosition.position.coords.accuracy} feet and that there's at least #{msg.currentPosition.cameras.length} cameras nearby."""
+                list = $('<ol>')
+                for camera in msg.currentPosition.cameras
+                    list.append $('<li>')
+                        .append($('<h3>').text camera.name)
+                        .append($('<img>').attr 'src', camera.url)
+                $('div[data-role="content"]').append list
 
         socket.connect()
 
@@ -67,8 +74,15 @@ client ->
 # Very simple error handling.
 msg error: -> send 'error', @message
 
+# Use the current position to do a geospatial lookup of available cameras.
 msg currentPosition: ->
-    send 'currentPosition', position: @position
+    pos = [@position.coords.latitude, @position.coords.longitude]
+    console.log {loc: $near: pos, $maxDistance: .1}
+    app.CameraModel.find {loc: $near: pos, $maxDistance: .1}, (err, docs) =>
+        if err
+            send 'message', text: JSON.stringify err
+        else
+            send 'currentPosition', position: @position, cameras: docs
 
 # Default view
 view ->
