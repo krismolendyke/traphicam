@@ -8,38 +8,50 @@ util = require 'util'
 
 parser = new xml2js.Parser()
 
+# Read and parse camera KML.
+fs.readFile 'data/raw/trafficcameraswithfeed.kml', (err, data) ->
+    if err then console.log err else parser.parseString data
+
+# Parse camera KML into MongoDB.
 parser.addListener 'end', (result) ->
-    # Define the mongoose schema
+    # Define the mongoose schema.
     Camera = new mongoose.Schema
         name: String
         url: String
         loc:
             x: Number
             y: Number
+
+    # Geospatial indexing!
     Camera.index loc: '2d'
 
-    # Create the mongoose model
+    # Create the mongoose model.
     mongoose.model 'Camera', Camera
     CameraModel = mongoose.model 'Camera'
 
-    # Connect to mongodb
+    # Connect to mongodb.
     mongoose.connect 'mongodb://localhost/cams'
 
-    # Remove all previously saved documents
+    # Remove all previously saved documents.
     aCamera = new CameraModel()
     aCamera.collection.drop()
 
-    # Parse each Placemark into a mongoose model and save each
+    # Parse each Placemark into a mongoose model and save each.
     _(result.Document.Folder.Placemark).each (placemark, i) ->
         # Watch for the last camera since Model.save() is asynchronous and the
         # database connection should be closed after the last successful save.
-        if i + 1 is result.Document.Folder.Placemark.length
-            isLast = true
+        if i + 1 is result.Document.Folder.Placemark.length then isLast = true
         else isLast = false
 
+        # Parse the camera URL out of the CDATA description soup.
+        # TODO: Add some error handling around this, it's pretty brittle.
         url = URL.parse placemark.description.split('"')[3]
+
+        # Coordinates are specified (lat, lng, alt) in the KML.  We only care
+        # about two-dimenional coordinates.
         coords = placemark.Point.coordinates.split ','
 
+        # Create a new camera!
         aCamera = new CameraModel
             name: placemark.name
             url: url.href
@@ -61,6 +73,3 @@ Error: #{err}"""
                 CameraModel.count {}, (err, count) ->
                     console.log "Saved #{count} cameras successfully."
                     mongoose.disconnect()
-
-fs.readFile 'data/raw/trafficcameraswithfeed.kml', (err, data) ->
-    if err then console.log err else parser.parseString data
