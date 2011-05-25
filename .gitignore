@@ -3,3 +3,4 @@ dist/
 img/cams/
 prod/src/coffee-script/fcktrffc.coffee
 node/**.*js
+docs/
