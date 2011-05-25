@@ -4,6 +4,7 @@ xml2js = require 'xml2js'
 _ = require 'underscore'
 URL = require 'url'
 mongoose = require 'mongoose'
+util = require 'util'
 
 parser = new xml2js.Parser()
 
@@ -30,6 +31,12 @@ parser.addListener 'end', (result) ->
 
     # Parse each Placemark into a mongoose model and save each
     _(result.Document.Folder.Placemark).each (placemark, i) ->
+        # Watch for the last camera since Model.save() is asynchronous and the
+        # database connection should be closed after the last successful save.
+        if i + 1 is result.Document.Folder.Placemark.length
+            isLast = true
+        else isLast = false
+
         url = URL.parse placemark.description.split('"')[3]
         coords = placemark.Point.coordinates.split ','
 
@@ -40,6 +47,9 @@ parser.addListener 'end', (result) ->
                 x: parseFloat coords[0], 10
                 y: parseFloat coords[1], 10
 
+        # Save the camera.  After the last camera is saved, close the
+        # connection so that node isn't waiting around thinking more is
+        # coming.
         aCamera.save (err) ->
             if err then console.log """Could not save camera #{i}:
 
@@ -47,7 +57,10 @@ parser.addListener 'end', (result) ->
 
 Error: #{err}"""
 
-    console.log "If you haven't seen any errors, we've probably been successful."
+            if isLast
+                CameraModel.count {}, (err, count) ->
+                    console.log "Saved #{count} cameras successfully."
+                    mongoose.disconnect()
 
 fs.readFile 'data/raw/trafficcameraswithfeed.kml', (err, data) ->
-    parser.parseString data
+    if err then console.log err else parser.parseString data
