@@ -3,6 +3,10 @@ using 'util'
 # Can't figure out how else to use project-local module with Zappa.
 def mongoose: require "#{process.cwd()}/node_modules/mongoose"
 
+# Used for spherical calculations.  According to WolframAlpha.
+def radiusOfEarthMiles: 3956.6
+def feetInAMile: 5280
+
 get '/': ->
     # Define the mongoose schema.
     Camera = new mongoose.Schema
@@ -46,14 +50,25 @@ client ->
         socket.on 'message', (raw) ->
             msg = JSON.parse raw
             console.log msg
+
+            # A message from the server.
             if msg.message
                 $('div[data-role="content"]')
                     .append $('<p>').text "#{msg.message.text}"
-            if msg.currentPosition
-                $('p#stats').text """It looks like you're at
-(#{msg.currentPosition.position.coords.latitude}, #{msg.currentPosition.position.coords.longitude}), give or take #{msg.currentPosition.position.coords.accuracy} feet and that there's at least #{msg.currentPosition.cameras.length} cameras nearby."""
 
-                for camera in msg.currentPosition.cameras
+            # A result from the server based on current position.
+            if msg.currentPosition
+                # Show sensible units for accuracy.  Feet if under a half
+                # mile, miles if over.
+                if msg.currentPosition.position.coords.accuracy > 2640
+                    accuracy = "#{(parseFloat(msg.currentPosition.position.coords.accuracy, 10) / 5280).toFixed 2} miles"
+                else
+                    accuracy = "#{msg.currentPosition.position.coords.accuracy} feet"
+
+                $('p#stats').text """It looks like you're at
+(#{msg.currentPosition.position.coords.latitude}, #{msg.currentPosition.position.coords.longitude}), within an accuracy of #{accuracy} and that there's at least #{msg.currentPosition.cameras.results.length} cameras within a distance of #{msg.currentPosition.cameras.maxDistance} miles at #{new Date(msg.currentPosition.position.timestamp)}."""
+
+                for camera in msg.currentPosition.cameras.results
                     $('ul#cam-list').append($('script#cam-item').tmpl(camera))
                 $('ul#cam-list').listview 'refresh'
 
@@ -73,12 +88,42 @@ msg error: -> send 'error', @message
 # Use the current position to do a geospatial lookup of available cameras.
 msg currentPosition: ->
     pos = [@position.coords.latitude, @position.coords.longitude]
-    console.log {loc: $near: pos, $maxDistance: .1}
-    app.CameraModel.find {loc: $near: pos, $maxDistance: .1}, (err, docs) =>
+
+    # Old, dumb geospatial query.
+    # query = loc: $near: pos, $maxDistance: .2
+    # console.log query
+    # app.CameraModel.find query, (err, docs) =>
+    #     if err
+    #         send 'message', text: JSON.stringify err
+    #     else
+    #         send 'currentPosition', position: @position, cameras: docs
+
+    # For now, let's base the max distance on the accuracy of the location we
+    # have.
+    # maxDistance = parseFloat(@position.coords.accuracy, 10) / feetInAMile / radiusOfEarthMiles
+
+    # Or, pick (user set?) a distance
+    maxDistanceInMiles = 4
+    maxDistanceInRadians = maxDistanceInMiles / radiusOfEarthMiles
+
+    # Construct a new, hot geospatial query for nearest cameras.
+    query =
+        geoNear: 'cameras' # Collection name.
+        near: pos
+        distanceMultiplier: radiusOfEarthMiles # Get distances back in miles.
+        spherical: true # We're dealing with the surface of the Earth!
+        maxDistance: maxDistanceInRadians # Spherical requires radians.
+        # num: 10 # Don't give back more than this, no matter what.
+
+    console.log query
+    mongoose.connection.db.executeDbCommand query, (err, docs) =>
         if err
             send 'message', text: JSON.stringify err
         else
-            send 'currentPosition', position: @position, cameras: docs
+            cameras = docs.documents[0]
+            cameras.maxDistance = maxDistanceInMiles
+            console.log cameras
+            send 'currentPosition', position: @position, cameras: cameras
 
 # Default view
 view ->
@@ -125,5 +170,6 @@ layout ->
                 div class: 'ui-btn-inner ui-li', ->
                     div class: 'ui-btn-text', ->
                         a class: 'ui-link-inherit', ->
-                            img class: 'ui-li-thumb', src: '${url}', alt: 'M.I.A.'
-                            h3 class: 'ui-li-heading', '${name}'
+                            img class: 'ui-li-thumb', src: '${obj.url}', alt: 'M.I.A.'
+                            h3 class: 'ui-li-heading', '${obj.name}'
+                            p class: 'ui-li-desc', '${dis.toFixed(2)} miles away'
