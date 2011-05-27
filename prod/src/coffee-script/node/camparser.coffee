@@ -21,7 +21,7 @@ parser.addListener 'end', (result) ->
     # Define the mongoose schema.
     Camera = new mongoose.Schema
         name: String
-        url: String
+        url: String # TODO: Make this a URL object sub-document
         loc:
             x: Number
             y: Number
