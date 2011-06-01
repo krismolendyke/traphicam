@@ -2,5 +2,6 @@ js/
 dist/
 img/cams/
 prod/src/coffee-script/trphcm.coffee
+prod/src/coffee-script/fcktrffc.coffee
 node/**.*js
 docs/
