@@ -4,7 +4,7 @@ layout ->
     html ->
         head ->
             meta charset: 'utf-8'
-            title 'traPHIcam.com'
+            title 'traphicam.com'
             meta
                 name:'viewport'
                 content: 'width=device-width, minimum-scale=1, maximum-scale=1'
@@ -31,6 +31,6 @@ layout ->
         body ->
             div 'data-role': 'page', ->
                 div 'data-role': 'header', 'data-position': 'fixed', ->
-                    h1 'traPHIcam.com'
+                    h1 'traphicam.com'
                     a id: 'refresh', 'data-icon': 'refresh', -> 'Refresh'
                 div 'data-role': 'content', -> @content

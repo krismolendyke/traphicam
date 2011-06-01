@@ -16,7 +16,6 @@ include 'models/default.coffee'
 # `trphcm.js` which is built by `Cakefile` and is included from the default
 # layout `layouts/default.coffee`.  See `prod/src/coffee-script`
 include 'controllers/http.coffee'
-
 include 'controllers/websockets.coffee'
 
 # Views.

@@ -1,7 +1,13 @@
 # Default view.
 view ->
-    h1 "#{@count} cameras available"
-    p id: 'stats'
+    div 'data-role': 'collapsible-set', ->
+        div 'data-role': 'collapsible', 'data-collapsed': 'true', ->
+            h3 '&beta;eta Software!'
+            p "<strong>traphicam.com</strong> will display the nearest <strong>Philadelphia regional traffic cameras</strong> to your current location (if you choose to share it).  Hopefully you will find it helpful- many more features and improvments are coming soon!"
+        div 'data-role': 'collapsible', 'data-collapsed': 'true', ->
+            h3 'Location Details'
+            p id: 'stats'
+    br ->
     ul
         id: 'cam-list'
         'data-role': 'listview'
