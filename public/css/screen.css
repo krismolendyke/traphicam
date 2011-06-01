@@ -1,0 +1,2 @@
+ul#cam-list li { padding-right: 15px; } /* Override 75px from jQuery Mobile. */
+ul#cam-list img { width: 100%; max-width: 352px; }

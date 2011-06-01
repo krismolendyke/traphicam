@@ -25,9 +25,14 @@ layout ->
             # Google's JavaScript loader is goofy and doesn't work with the
             # @scripts array I've setup so it must be specified here for now.
             script src:'http://maps.google.com/maps/api/js?libraries=geometry&sensor=true'
+
+            # Stylesheets.
             link
                 rel: 'stylesheet'
                 href: '/css/jquery.mobile-1.0a4.1.min.css'
+            link
+                rel: 'stylesheet'
+                href: '/css/screen.css'
         body ->
             div 'data-role': 'page', ->
                 div 'data-role': 'header', 'data-position': 'fixed', ->
