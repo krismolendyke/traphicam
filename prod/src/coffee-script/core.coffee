@@ -39,7 +39,7 @@ class trphcm
         else
             accuracy = "#{msg.currentPosition.position.coords.accuracy} feet"
 
-        $('p#stats').text """It looks like you're at
+        $('p#stats').empty().text """It looks like you're at
 (#{msg.currentPosition.position.coords.latitude}, #{msg.currentPosition.position.coords.longitude}), within an accuracy of #{accuracy} and that there's at least #{msg.currentPosition.cameras.results.length} cameras within a distance of #{msg.currentPosition.cameras.maxDistance} miles at #{new Date(msg.currentPosition.position.timestamp)}."""
 
         for camera in msg.currentPosition.cameras.results
