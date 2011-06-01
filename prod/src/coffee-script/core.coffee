@@ -1,8 +1,7 @@
 class trphcm
     constructor: ->
-        # Create and connect a SocketIO socket.
+        # Create and a SocketIO socket.
         @socket = new io.Socket()
-        @socket.connect()
 
         @socket.on 'connect', ->
             $('div[data-role="content"]').append $('<p>').text 'Connected'
@@ -20,6 +19,9 @@ class trphcm
 
             # A result from the server based on current position.
             if msg.currentPosition then @load msg
+
+        # Connect the SocketIO socket.
+        @socket.connect()
 
         # Currently the only way to refresh position is with your thumb.
         $('a#refresh').click => @sendCurrentPosition()
