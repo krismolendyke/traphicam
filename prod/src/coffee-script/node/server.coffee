@@ -14,7 +14,9 @@ include 'models/default.coffee'
 
 # Controllers.
 include 'controllers/http.coffee'
-include 'controllers/client.coffee'
+# Note: `controllers/client.coffee` has been deprecated in favor of
+# `trphcm.js` which is built by `Cakefile` and is included from the default
+# layout `layouts/default.coffee`.  See `prod/src/coffee-script`
 include 'controllers/websockets.coffee'
 
 # Views.

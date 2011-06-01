@@ -1,3 +1,14 @@
+###
+ * 2011 traphicam.com
+###
+
+# jQuery influenced self-executing function wrapper
+`(function( window, undefined ) {
+    var document = window.document,
+        navigator = window.navigator,
+        location = window.location`
+
+
 class trphcm
     constructor: ->
         @socket = new io.Socket()
@@ -57,3 +68,10 @@ class trphcm
         navigator.geolocation.getCurrentPosition (position) =>
             @socket.send JSON.stringify currentPosition:
                 position: position
+
+
+# jQuery influenced self-executing function wrapper
+`   window.trphcm = trphcm;
+})(window)`
+
+$ -> new trphcm()

@@ -7,11 +7,11 @@ prodSrcCoffeeDir     = 'prod/src/coffee-script'
 testSrcCoffeeDir     = 'test/src/coffee-script'
 nodeSrcCoffeeDir     = "#{prodSrcCoffeeDir}/node"
 
-prodTargetJsDir      = 'js'
+prodTargetJsDir      = 'public/js'
 testTargetJsDir      = 'test/src/js'
 nodeTargetJsDir      = 'node'
 
-prodTargetFileName   = 'fcktrffc'
+prodTargetFileName   = 'trphcm'
 prodTargetCoffeeFile = "#{prodSrcCoffeeDir}/#{prodTargetFileName}.coffee"
 prodTargetJsFile     = "#{prodTargetJsDir}/#{prodTargetFileName}.js"
 prodTargetJsMinFile  = "#{prodTargetJsDir}/#{prodTargetFileName}.min.js"

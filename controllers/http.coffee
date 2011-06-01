@@ -1,7 +1,5 @@
 get '/': ->
-    # `models()` is a `helper` which creates Mongoose schemas and models and
-    # `sets the models on the `app` instance.  See models.coffee` for more
-    # `information.
+    # See `models.coffee`
     models()
 
     # Connect to mongodb.

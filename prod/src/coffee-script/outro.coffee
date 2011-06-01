@@ -1,5 +1,5 @@
 # jQuery influenced self-executing function wrapper
-`   window.fcktrffc = fcktrffc;
+`   window.trphcm = trphcm;
 })(window)`
 
-$ -> new fcktrffc()
+$ -> new trphcm()

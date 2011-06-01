@@ -1,5 +1,5 @@
 ###
- * (c) 2011 fcktraffic.com
+ * 2011 traphicam.com
 ###
 
 # jQuery influenced self-executing function wrapper
