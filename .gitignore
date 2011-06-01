@@ -2,6 +2,7 @@ dist/
 img/cams/
 prod/src/coffee-script/trphcm.coffee
 prod/src/coffee-script/fcktrffc.coffee
+test/src/js
 node/**.*js
 docs/
 .DS_Store
