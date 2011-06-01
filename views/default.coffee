@@ -2,8 +2,9 @@
 view ->
     div 'data-role': 'collapsible-set', ->
         div 'data-role': 'collapsible', 'data-collapsed': 'true', ->
-            h3 '&beta;eta Software!'
-            p "<strong>traphicam.com</strong> will display the nearest <strong>Philadelphia regional traffic cameras</strong> to your current location (if you choose to share it).  Hopefully you will find it helpful- many more features and improvments are coming soon!"
+            h3 'About'
+            p "<strong>traphicam.com</strong> will display the nearest <strong>Philadelphia regional traffic cameras</strong> to <strong>your current location</strong>, if you choose to share it. At the moment, it's probably most useful when accessed with your <strong>smart phone</strong>."
+            p "Hopefully you will find it <strong>helpful during your commute</strong> or local Philly trip planning.  Many more features and improvments are coming soon including <strong>auto-refreshing</strong> and opt-in <strong>location watching</strong>. In the meantime, please excuse the rough edges of this &beta;eta software!"
         div 'data-role': 'collapsible', 'data-collapsed': 'true', ->
             h3 'Location Details'
             p id: 'stats'
