@@ -12,7 +12,6 @@ layout ->
             @allScripts = [
                 '/socket.io/socket.io'
                 ,'http://code.jquery.com/jquery-1.6.1.min'
-                ,'/default'
                 ,'/js/jquery.tmpl.min'
                 ,'/js/jquery.mobile-1.0a4.1.min'
                 ,'/js/trphcm.min'
