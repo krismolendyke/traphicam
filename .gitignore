@@ -5,3 +5,7 @@ prod/src/coffee-script/trphcm.coffee
 prod/src/coffee-script/fcktrffc.coffee
 node/**.*js
 docs/
+.DS_Store
+*~
+*.diff
+*.patch
