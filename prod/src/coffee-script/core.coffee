@@ -10,7 +10,7 @@ class trphcm
 
         @socket.on 'message', (raw) =>
             msg = JSON.parse raw
-            console.log msg
+            # console.log msg
 
             # A message from the server.
             if msg.message
