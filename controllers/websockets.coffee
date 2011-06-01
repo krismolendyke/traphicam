@@ -8,19 +8,6 @@ msg error: -> send 'error', @message
 msg currentPosition: ->
     pos = [@position.coords.latitude, @position.coords.longitude]
 
-    # Old, dumb geospatial query.
-    # query = loc: $near: pos, $maxDistance: .2
-    # console.log query
-    # app.CameraModel.find query, (err, docs) =>
-    #     if err
-    #         send 'message', text: JSON.stringify err
-    #     else
-    #         send 'currentPosition', position: @position, cameras: docs
-
-    # For now, let's base the max distance on the accuracy of the location we
-    # have.
-    # maxDistance = parseFloat(@position.coords.accuracy, 10) / feetInAMile / radiusOfEarthMiles
-
     # Or, pick (user set?) a distance
     maxDistanceInMiles = 4
     maxDistanceInRadians = maxDistanceInMiles / radiusOfEarthMiles
