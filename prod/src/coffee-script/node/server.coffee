@@ -12,11 +12,11 @@ def feetInAMile: 5280
 # Models.
 include 'models/default.coffee'
 
-# Controllers.
-include 'controllers/http.coffee'
-# Note: `controllers/client.coffee` has been deprecated in favor of
+# Controllers. `controllers/client.coffee` has been deprecated in favor of
 # `trphcm.js` which is built by `Cakefile` and is included from the default
 # layout `layouts/default.coffee`.  See `prod/src/coffee-script`
+include 'controllers/http.coffee'
+
 include 'controllers/websockets.coffee'
 
 # Views.
