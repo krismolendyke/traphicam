@@ -22,6 +22,10 @@ Returned camera documents are rendered in the client browser using the [jQuery M
 
 # Future Goals
 
+## More Data
+
+traphicam is currently focused on the Philadelphia area.  At its core it is predicated upon a simple mapping of location to image information.  Expanding scope beyond the Philadelphia region should therefore be as easy as adding that information to the system.  Immediately, PennDOT has traffic cameras [across the state](http://www.dot.state.pa.us/Internet/Districts/DistrictGraphics.nsf/TrafficCamerasMap?OpenForm "PennDOT Traffic Cameras Map").
+
 ## Interface Improvements
   
 Currently, the client-side interface makes a mostly boring use of jQuery Mobile features.  Since a major goal of this project is to not just present traffic camera data to mobile users, but to present it safely, much can be done yet.  Large, broad touch-gestures should be favored versus minute, distracting button pokes and endless scrolling.  
