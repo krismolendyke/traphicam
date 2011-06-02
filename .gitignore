@@ -5,7 +5,6 @@ test/src/js
 public/js/trphcm.js
 node/**.*js
 docs/
-.DS_Store
 *~
 *.diff
 *.patch
