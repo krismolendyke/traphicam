@@ -12,6 +12,8 @@ view ->
     ul
         id: 'cam-list'
         'data-role': 'listview'
+        'data-filter': true
+        'data-filter-placeholder': 'Filter cameras...'
         class: 'ui-listview'
 
     # Camera list item jQueryMobile template.
