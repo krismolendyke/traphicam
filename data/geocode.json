@@ -1,0 +1,290 @@
+[
+    {
+        "geocode": "nonhighway",
+        "names": [
+            {"name": "26th Street & Penrose Ave"},
+            {"name": "26th Street to 76 WB"},
+            {"name": "Aramingo Ave @ Tacony St"},
+            {"name": "Harbison Ave @ Sanger St"},
+            {"name": "State Rd @ Cottman Ave"},
+            {"name": "State Rd @ Princeton Ave"},
+            {"name": "WB Platt Bridge"},
+            {"name": "WB Platt Bridge Midspan"},
+            {"name": "Torresdale @ Ashburner St"},
+            {"name": "Torresdale @ Cottman Ave"},
+            {"name": "Torresdale @ Harbison Ave"},
+            {"name": "Torresdale @ Levick St"},
+            {"name": "Torresdale @ Linden St"},
+            {"name": "Torresdale @ Princeton Ave"},
+            {"name": "Torresdale @ Rhawn St"},
+            {"name": "Torresdale @ Robbins Ave"}
+        ]
+    },
+    {
+        "geocode": "Interstate 476",
+        "names": [
+            {"name": "I-476 McDade on Ramp"},
+            {"name": "I-476 NB @ I-76/Exit 16B"},
+            {"name": "I-476 NB Access Rd BRDG"},
+            {"name": "I-476 NB Blue Rt:15.1"},
+            {"name": "I-476 NB N of Beatty Rd"},
+            {"name": "I-476 NB N of Bullend Ln"},
+            {"name": "I-476 NB N of Ridge PK"},
+            {"name": "I-476 NB N of West Chester Pike"},
+            {"name": "I-476 NB S of Darby Rd"},
+            {"name": "I-476 NB S of Plush Mill Rd"},
+            {"name": "I-476 NB- Lawrence Rd:8.1"},
+            {"name": "I-476 NB-Blue Rt:7.4"},
+            {"name": "I-476 NB-North of US 1"},
+            {"name": "I-476 NB-Reed Rd"},
+            {"name": "I-476 Ramp from Germantown Pike"},
+            {"name": "I-476 SB @ Conestoge Rd"},
+            {"name": "I-476 SB @ Mcdade Blvd/Exit 1"},
+            {"name": "I-476 SB @ Ridge Pike"},
+            {"name": "I-476 SB @ US1"},
+            {"name": "I-476 SB @Balt Pike"},
+            {"name": "I-476 SB CNTY Ln:13.9"},
+            {"name": "I-476 SB N of PA320"},
+            {"name": "I-476 SB No of Cnty LN"},
+            {"name": "I-476 SB S of Bryn Mawr Ave"},
+            {"name": "I-476 SB S of Marple Rd"},
+            {"name": "I-476 SB S of Ridge PK"},
+            {"name": "I-476 SB S of West Chester Pike"},
+            {"name": "I-476 SB SCHKL R BRDG"},
+            {"name": "I-476 SB-US 30 RMP:13"},
+            {"name": "I-476 SB@Clyde Rd"},
+            {"name": "I-476 SB@SEPTA Overpass"},
+            {"name": "I-476-US 30/Exit #13"}
+        ]
+    },
+    {
+        "geocode": "Interstate 676",
+        "names": [
+            {"name": "I-676EB 676@16th St"},
+            {"name": "I-676EB 676@3rd St"},
+            {"name": "I-676EB 676@8th St"},
+            {"name": "I-676EB 676@Ben Franklin Pkwy"},
+            {"name": "I-676WB 676@11th St"},
+            {"name": "I-676WB 676@18th St"},
+            {"name": "I-676WB 676@20th St"},
+            {"name": "I-676WB 676@24th St"},
+            {"name": "I-676WB 676@Broad St"}
+        ]
+    },
+    {
+        "geocode": "Interstate 76",
+        "names": [
+            {"name": "I-76 EB @ Belmont"},
+            {"name": "I-76 EB @ City Ave"},
+            {"name": "I-76 EB @ Girard"},
+            {"name": "I-76 EB @ Gulph Mills"},
+            {"name": "I-76 EB @ I-676"},
+            {"name": "I-76 EB @ Montgomery"},
+            {"name": "I-76 EB @ University Ave"},
+            {"name": "I-76 EB @ US1"},
+            {"name": "I-76 EB @ Vare Ave"},
+            {"name": "I-76 EB East of Grays Ferry"},
+            {"name": "I-76 EB East of Montgomery"},
+            {"name": "I-76 EB East of South Street"},
+            {"name": "I-76 EB East of Waverly"},
+            {"name": "I-76 EB Ramp to Passyunk Ave"},
+            {"name": "I-76 EB Ramp to US 202/422"},
+            {"name": "I-76 EB Ramp to US1 N"},
+            {"name": "I-76 EB to 26th Street"},
+            {"name": "I-76 EB W of Croton"},
+            {"name": "I-76 EB W of Matsnfrd"},
+            {"name": "I-76 EB Weadley Rd"},
+            {"name": "I-76 EB West of Girard"},
+            {"name": "I-76 EB West of Gladwyne"},
+            {"name": "I-76 EB West of Spring Garden"},
+            {"name": "I-76 EB West of Waverly"},
+            {"name": "I-76 EB@MM 332.6"},
+            {"name": "I-76 WB @ 30th St"},
+            {"name": "I-76 WB @ City Ave"},
+            {"name": "I-76 WB @ Conshohocken Curve"},
+            {"name": "I-76 WB @ I476 Interchange"},
+            {"name": "I-76 WB @ MM"},
+            {"name": "I-76 WB @ MM 332"},
+            {"name": "I-76 WB Consh Crve"},
+            {"name": "I-76 WB East of Belmont"},
+            {"name": "I-76 WB East of Girard"},
+            {"name": "I-76 WB East of Gladwyne"},
+            {"name": "I-76 WB East of I-676"},
+            {"name": "I-76 WB Spring Garden"},
+            {"name": "I-76 WB W of Gypsy Rd"},
+            {"name": "I-76 WB West of Belmont"},
+            {"name": "I-76 WB West of Gladwyne"},
+            {"name": "I-76 WB West of Montgomery Dr"},
+            {"name": "I-76 WB West of South Street"}
+        ]
+    },
+    {
+        "geocode": "Interstate 95",
+        "names": [
+            {"name": "I-95 NB /WWB Packer"},
+            {"name": "I-95 NB 95@Race St."},
+            {"name": "I-95 NB 95@Vine Exp/BF Bridge"},
+            {"name": "I-95 NB Ramp to I-476 North"},
+            {"name": "I-95 NB-95 Castor Ave"},
+            {"name": "I-95 NB-95 Convent Av"},
+            {"name": "I-95 NB-95 Indiana St"},
+            {"name": "I-95 NB-95 N of COTMN"},
+            {"name": "I-95 NB-95 S of Amtrak"},
+            {"name": "I-95 NB-95 Station Av"},
+            {"name": "I-95 NB-95 Vankirk"},
+            {"name": "I-95 NB-Ramp to PA 63"},
+            {"name": "I-95 SB @Vine/Callowhill"},
+            {"name": "I-95 SB Island Airport"},
+            {"name": "I-95 SB- 95 Woodhaven"},
+            {"name": "I-95 SB-95 Academy Rd"},
+            {"name": "I-95 SB-95 Betsy Ross"},
+            {"name": "I-95 SB-95 Disston St"},
+            {"name": "I-95 SB-95 Mil Rd"},
+            {"name": "I-95 SB-95 Penny Pack"},
+            {"name": "I-95 SB-95 Wakelng St"},
+            {"name": "I-95 SB-Aramingo/Gir"},
+            {"name": "I-95 SB-Broad St."},
+            {"name": "I-95 SB-EnterPR/Bart"},
+            {"name": "I-95 SB-Girard Ave"},
+            {"name": "I-95 SB-Packer/Front"},
+            {"name": "I-95 SB-Tasker/Reed"},
+            {"name": "I-95 Wash/Columbus"},
+            {"name": "I-95- 895 Tennis Ave"}
+        ]
+    },
+    {
+        "geocode": "Pennsylvania 100",
+        "names": [
+            {"name": "PA 100 NB @ Phoenixville"},
+            {"name": "PA 100 NB @ SR3070"},
+            {"name": "PA 100 NB @PA Turnpike"},
+            {"name": "PA 100 NB @Sunrise BLVD"},
+            {"name": "PA 100 NB @Worthington"},
+            {"name": "PA 100 NB BEF Kirkland"},
+            {"name": "PA 100 NB BEF MTN View"},
+            {"name": "PA 100 NB BEF SHIP RD"},
+            {"name": "PA 100 SB AFT BOOT RD"},
+            {"name": "PA 100 SB AFT PA 113"},
+            {"name": "PA 100 SB AFT Pottstown"}
+        ]
+    },
+    {
+        "geocode": "Pennsylvania 291",
+        "names": [
+            {"name": "PA 291 WB E of I-76"}
+        ]
+    },
+    {
+        "geocode": "Pennsylvania 309",
+        "names": [
+            {"name": "PA 309 NB @ Beth PK Mrg"},
+            {"name": "PA 309 NB @ Waverly Rd"},
+            {"name": "PA 309 NB @PA Turnpike"},
+            {"name": "PA 309 NB @Susquehanna"},
+            {"name": "PA 309 NB S of Papermill Rd"},
+            {"name": "PA 309 SB @ Easton Rd"},
+            {"name": "PA 309 SB @ Papermill Rd"},
+            {"name": "RT309 NB @ Five Points"},
+            {"name": "RT309 NB @ Stump Rd"},
+            {"name": "RT309 NB @ US 202"},
+            {"name": "RT309 NB N of Turnpike"},
+            {"name": "RT309 SB @ Church Rd"},
+            {"name": "RT309 SB @ English Village"},
+            {"name": "RT309 SB @ North Wales Rd"},
+            {"name": "RT309 SB N of Hartman Rd"},
+            {"name": "RT309 SB S of Turnpike"}
+        ]
+    },
+    {
+        "geocode": "Pennsylvania 23",
+        "names": [
+            {"name": "RT23 EB @ Fayette St"},
+            {"name": "RT23 WB @ City Line Ave"},
+            {"name": "RT23 WB @ Hollow Rd"}
+        ]
+    },
+    {
+        "geocode": "U.S. 1",
+        "names": [
+            {"name": "US 1 @ 9th Street"},
+            {"name": "US 1 NB @ 17th Street"},
+            {"name": "US 1 NB @ Roberts/Berkley"},
+            {"name": "US 1 NB South of Henry"},
+            {"name": "US 1 SB @ Broad Street"},
+            {"name": "US 1 SB @ Fox Street"},
+            {"name": "US 1 SB @ Wissahickon"}
+        ]
+    },
+    {
+        "geocode": "U.S. 202",
+        "names": [
+            {"name": "US 202 @ Allendale"},
+            {"name": "US 202 @ Town CTR RD"},
+            {"name": "US 202 N of US 252"},
+            {"name": "US 202 NB @ Boot Rd"},
+            {"name": "US 202 NB @ Morstein Rd"},
+            {"name": "US 202 NB @ W Chester P"},
+            {"name": "US 202 NB @ W Valley Rd"},
+            {"name": "US 202 NB N of Chesterbrk"},
+            {"name": "US 202 NB N of Mill Lane"},
+            {"name": "US 202 NB N of N Valley"},
+            {"name": "US 202 NB N of Skiles Blvd"},
+            {"name": "US 202 NB N of Westtn R"},
+            {"name": "US 202 NB N or Paoli"},
+            {"name": "US 202 NB S of Bolmar S"},
+            {"name": "US 202 NB S of PA 401"},
+            {"name": "US 202 NB US 202/I/76"},
+            {"name": "US 202 NB@PA 322"},
+            {"name": "US 202 Ramp L @ 76"},
+            {"name": "US 202 Ramp L @ Cont BL"},
+            {"name": "US 202 Ramp L @ Ramp O"},
+            {"name": "US 202 SB @ Church Rd"},
+            {"name": "US 202 SB @ Howelvl Rd"},
+            {"name": "US 202 SB @ PA 100"},
+            {"name": "US 202 SB @ PA 29"},
+            {"name": "US 202 SB @ PA 322"},
+            {"name": "US 202 SB @ PA 926"},
+            {"name": "US 202 SB @ US 252"},
+            {"name": "US 202 SB @ US 30"},
+            {"name": "US 202 SB @ US1"},
+            {"name": "US 202 SB N of Cedar Hollow Rd"},
+            {"name": "US 202 SB S of Green Tr Dr"},
+            {"name": "US 202 SB S of King Rd"},
+            {"name": "US 202 SB US 202/PA 422"},
+            {"name": "US 202 SB@Watkins"}
+        ]
+    },
+    {
+        "geocode": "U.S. 30",
+        "names": [
+            {"name": "US 30 EB @ PA 100"},
+            {"name": "US 30 EB after PA 340"},
+            {"name": "US 30 EB before PA 100"},
+            {"name": "US 30 WB @ PA 322"},
+            {"name": "US 30 WB before PA 113"},
+            {"name": "US 30 WB before PA 282"},
+            {"name": "US 30 WB@BUS 230 Ramp"}
+        ]
+    },
+    {
+        "geocode": "U.S. 422",
+        "names": [
+            {"name": "US 422 EB- 422 PWLNGS RD"},
+            {"name": "US 422 EB- 422 W of Perk"},
+            {"name": "US 422 EB-422 @ PA Turnpike"},
+            {"name": "US 422 EB-422 Indn Head"},
+            {"name": "US 422 WB-422 @ PA 363"},
+            {"name": "US 422 WB-422 Cider Mil"},
+            {"name": "US 422 WB-422 E of PA 29"},
+            {"name": "US 422 WB-422 Egypt Rd"},
+            {"name": "US 422 WB-422 W of PA 363"},
+            {"name": "US 422 WB-422@PA 23"}
+        ]
+    },
+    {
+        "geocode": "U.S. 63",
+        "names": [
+            {"name": "US 63 WB @ Millbrk Rd"}
+        ]
+    }
+]
