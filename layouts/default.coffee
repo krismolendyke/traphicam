@@ -36,6 +36,6 @@ layout ->
         body ->
             div 'data-role': 'page', ->
                 div 'data-role': 'header', 'data-position': 'fixed', ->
-                    h1 'traphicam.com'
+                    h1 'traphicam'
                     a id: 'refresh', 'data-icon': 'refresh', -> 'Refresh'
                 div 'data-role': 'content', -> @content

@@ -12,9 +12,21 @@ util = require 'util'
 
 parser = new xml2js.Parser()
 
-# Read and parse camera KML.
-fs.readFile 'data/raw/trafficcameraswithfeed.kml', (err, data) ->
-    if err then console.log err else parser.parseString data
+names = []
+
+# Read in the mapping of geocoded highway names.
+fs.readFile 'data/geocode.json', 'utf-8', (err, data) ->
+    geocode = JSON.parse data
+
+    # Massage the data structure into a simple array for easy lookup of
+    # geocode info. when the camera documents are created.
+    for item in geocode
+        for name in item.names
+            names[name] = item.geocode
+
+    # Read and parse camera KML.
+    fs.readFile 'data/raw/trafficcameraswithfeed.kml', (err, data) ->
+        if err then console.log err else parser.parseString data
 
 # Parse camera KML into MongoDB.
 parser.addListener 'end', (result) ->
@@ -22,6 +34,7 @@ parser.addListener 'end', (result) ->
     Camera = new mongoose.Schema
         name: String
         url: String # TODO: Make this a URL object sub-document
+        geocode: String
         loc:
             x: Number
             y: Number
@@ -59,6 +72,7 @@ parser.addListener 'end', (result) ->
         aCamera = new CameraModel
             name: placemark.name
             url: url.href
+            geocode: names[placemark.name]
             loc:
                 x: parseFloat coords[0], 10
                 y: parseFloat coords[1], 10
