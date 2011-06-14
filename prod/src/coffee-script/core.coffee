@@ -4,10 +4,10 @@ class trphcm
         @socket = new io.Socket()
 
         @socket.on 'connect', ->
-            $('div[data-role="content"]').append $('<p>').text 'Connected'
+            # $('div[data-role="content"]').append $('<p>').text 'Connected'
 
         @socket.on 'disconnect', ->
-            $('div[data-role="content"]').append $('<p>').text 'Disconnected'
+            # $('div[data-role="content"]').append $('<p>').text 'Disconnected'
 
         @socket.on 'message', (raw) =>
             msg = JSON.parse raw
@@ -24,10 +24,10 @@ class trphcm
         @socket.connect()
 
         # Currently the only way to refresh position is with your thumb.
-        $('a#refresh').click => @sendCurrentPosition()
+        $('a#refresh').live 'click', => @sendCurrentPosition()
 
-        # OK, well, the first load sends your position if you agree...
-        @sendCurrentPosition()
+        # OK, well, the page show event sends your position if you agree...
+        $('div#follow').live 'pageshow', => @sendCurrentPosition()
 
     # Load the camera list with images and information about each image.
     load: (msg) =>

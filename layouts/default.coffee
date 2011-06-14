@@ -6,7 +6,7 @@ layout ->
             meta charset: 'utf-8'
             title 'traphicam'
             meta
-                name:'viewport'
+                name: 'viewport'
                 content: 'width=device-width, minimum-scale=1, maximum-scale=1'
             # App-wide scripts to be included on every page.
             @allScripts = [
@@ -33,9 +33,4 @@ layout ->
             link
                 rel: 'stylesheet'
                 href: '/css/screen.css'
-        body ->
-            div 'data-role': 'page', ->
-                div 'data-role': 'header', 'data-position': 'fixed', ->
-                    h1 'traphicam'
-                    a id: 'refresh', 'data-icon': 'refresh', -> 'Refresh'
-                div 'data-role': 'content', -> @content
+        body -> @content
