@@ -12,21 +12,47 @@ util = require 'util'
 
 parser = new xml2js.Parser()
 
-names = []
+cameraToRoadMap = []
+
+# Connect to mongodb.
+mongoose.connect 'mongodb://localhost/cams'
 
 # Read in the mapping of geocoded highway names.
-fs.readFile 'data/geocode.json', 'utf-8', (err, data) ->
-    geocode = JSON.parse data
+fs.readFile 'data/roads.json', 'utf-8', (err, data) ->
+    roads = JSON.parse data
 
-    # Massage the data structure into a simple array for easy lookup of
-    # geocode info. when the camera documents are created.
-    for item in geocode
-        for name in item.names
-            names[name] = item.geocode
+    # Define the `Road` schema.
+    Road = new mongoose.Schema
+        name: String
+        roadId: String
+        cameraCount: Number
 
-    # Read and parse camera KML.
-    fs.readFile 'data/raw/trafficcameraswithfeed.kml', (err, data) ->
-        if err then console.log err else parser.parseString data
+    Road.index 'road'
+    mongoose.model 'Road', Road
+    RoadModel = mongoose.model 'Road'
+    aRoad = new RoadModel()
+    aRoad.collection.drop()
+
+    _(roads).each (road, i) ->
+        if i + 1 is roads.length then isLast = true else isLast = false
+
+        aRoad = new RoadModel
+            name: road.road.name
+            roadId: road.road.id
+            cameraCount: road.cameras.length
+
+        aRoad.save (err) ->
+            if err then console.log "Could not save road: #{aRoad}: #{err}"
+            if isLast
+                # Massage the data structure into a simple array for easy lookup of
+                # road info. when the camera documents are created.
+                for road in roads
+                    for camera in road.cameras
+                        cameraToRoadMap[camera] = road.road.name
+
+                # Read and parse camera KML.
+                fs.readFile 'data/raw/trafficcameraswithfeed.kml', (err, data) ->
+                    if err then console.log err else parser.parseString data
 
 # Parse camera KML into MongoDB.
 parser.addListener 'end', (result) ->
@@ -34,7 +60,7 @@ parser.addListener 'end', (result) ->
     Camera = new mongoose.Schema
         name: String
         url: String # TODO: Make this a URL object sub-document
-        geocode: String
+        road: String
         loc:
             x: Number
             y: Number
@@ -45,9 +71,6 @@ parser.addListener 'end', (result) ->
     # Create the mongoose model.
     mongoose.model 'Camera', Camera
     CameraModel = mongoose.model 'Camera'
-
-    # Connect to mongodb.
-    mongoose.connect 'mongodb://localhost/cams'
 
     # Remove all previously saved documents.
     aCamera = new CameraModel()
@@ -72,7 +95,7 @@ parser.addListener 'end', (result) ->
         aCamera = new CameraModel
             name: placemark.name
             url: url.href
-            geocode: names[placemark.name]
+            road: cameraToRoadMap[placemark.name]
             loc:
                 x: parseFloat coords[0], 10
                 y: parseFloat coords[1], 10
