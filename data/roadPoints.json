@@ -1,6 +1,6 @@
 [
     {
-        "geocode": "Interstate 76",
+        "road": "Interstate 76",
         "ends": [
             {
                 "x": 40.076866,

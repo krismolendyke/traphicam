@@ -20,6 +20,9 @@ class trphcm
             # A result from the server based on current position.
             if msg.currentPosition then @load msg
 
+            # A result from the server containing a list of roads.
+            if msg.roadList then @loadRoadList msg
+
         # Connect the SocketIO socket.
         @socket.connect()
 
@@ -28,6 +31,16 @@ class trphcm
 
         # OK, well, the page show event sends your position if you agree...
         $('div#follow').live 'pageshow', => @sendCurrentPosition()
+
+        # Ask the server for a list of available road names.
+        $('div#roads').live 'pageshow', => @requestRoadList()
+
+    loadRoadList: (msg) ->
+        for road in msg.roadList.roadList
+            $('ul#road-list').append $('script#road-item').tmpl road
+
+        $('ul#road-list').listview 'refresh'
+        $.mobile.pageLoading true
 
     # Load the camera list with images and information about each image.
     load: (msg) =>
@@ -84,3 +97,11 @@ class trphcm
         else
             @socket.send JSON.stringify error:
                 message: 'Geolocation unsupported.'
+
+    # Request a list of all available road names from the server.
+    # TODO: consider sending the current position and returning the road names
+    # in order of nearest distance? Ask the server for a list of available road names.
+    requestRoadList: =>
+        $.mobile.pageLoading()
+        $('ul#road-list').empty()
+        @socket.send JSON.stringify roadList: message: 'cool'

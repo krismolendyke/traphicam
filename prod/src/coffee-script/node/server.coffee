@@ -21,6 +21,7 @@ include 'controllers/websockets.coffee'
 # Views.
 include 'views/default.coffee'
 include 'views/nearby.coffee'
+include 'views/roads.coffee'
 
 # Layouts.
 include 'layouts/default.coffee'

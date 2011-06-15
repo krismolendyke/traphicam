@@ -1,6 +1,12 @@
 # The `models` `helper` defines Mongoose schemas and creates and sets models
 # on the `app` instance so that they are available throughout the application.
 helper models: ->
+    # Define the `Road` schema.
+    Road = new mongoose.Schema road: String, cameraCount: Number
+    Road.index 'road'
+    mongoose.model 'Road', Road
+    app.RoadModel = mongoose.model 'Road'
+
     # Define the `Camera` schema.
     Camera = new mongoose.Schema
         name: String

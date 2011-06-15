@@ -11,3 +11,13 @@ get '/nearby': ->
     mongoose.connect 'mongodb://localhost/cams'
 
     render 'nearby'
+
+# Get a list of cameras by road that they are on.
+get '/roads': ->
+    # See `models.coffee`
+    models()
+
+    # Connect to mongodb.
+    mongoose.connect 'mongodb://localhost/cams'
+
+    render 'roads'

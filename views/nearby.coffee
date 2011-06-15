@@ -2,7 +2,7 @@
 view nearby: ->
     div 'data-role': 'page', id: 'follow', ->
         div 'data-role': 'header', 'data-position': 'fixed', ->
-            h1 'Nearby Cameras'
+            h1 'Cameras Nearby'
             a id: 'refresh', 'data-icon': 'refresh', -> 'Refresh'
         div 'data-role': 'content', ->
             div 'data-role': 'collapsible', 'data-collapsed': 'true', ->
