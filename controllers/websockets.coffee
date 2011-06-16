@@ -33,6 +33,6 @@ msg currentPosition: ->
 
 # Return all available geocode road names as a list.
 msg roadList: ->
-    app.RoadModel.find {}, (err, docs) ->
+    app.RoadModel.find().sort(['cameraCount'], -1).run (err, docs) ->
         if err then send 'message', text: JSON.stringify err
         else send 'roadList', roadList: docs
