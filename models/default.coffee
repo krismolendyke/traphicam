@@ -2,7 +2,10 @@
 # on the `app` instance so that they are available throughout the application.
 helper models: ->
     # Define the `Road` schema.
-    Road = new mongoose.Schema road: String, cameraCount: Number
+    Road = new mongoose.Schema
+        road: String
+        directions: [String]
+        cameraCount: Number
     Road.index 'road'
     mongoose.model 'Road', Road
     app.RoadModel = mongoose.model 'Road'

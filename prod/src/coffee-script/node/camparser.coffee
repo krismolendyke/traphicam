@@ -25,6 +25,7 @@ fs.readFile 'data/roads.json', 'utf-8', (err, data) ->
     Road = new mongoose.Schema
         name: String
         roadId: String
+        directions: [String]
         cameraCount: Number
 
     Road.index 'road'
@@ -39,6 +40,7 @@ fs.readFile 'data/roads.json', 'utf-8', (err, data) ->
         aRoad = new RoadModel
             name: road.road.name
             roadId: road.road.id
+            directions: road.road.directions
             cameraCount: road.cameras.length
 
         aRoad.save (err) ->
