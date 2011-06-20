@@ -19,7 +19,9 @@ view roads: ->
                     p class: 'ui-li-desc', -> '${cameraCount} cameras'
                     img class: 'road-sign', src: 'img/${roadId}.png', alt: '${name}'
                     div class: 'road-directions', ->
-                        a class: 'road-direction', 'data-direction': '${directions[0]}', ->
+                        a class: 'road-direction',
+                          'data-road': '${name}',
+                          'data-direction': '${directions[0]}', ->
                             img class: 'road-direction',
                                 alt: '${directions[0]}',
                                 src: """
@@ -29,7 +31,9 @@ view roads: ->
                                     img/${directions[0]}-white.png
                                 {{/if}}
                             """
-                        a class: 'road-direction', 'data-direction': '${directions[1]}', ->
+                        a class: 'road-direction',
+                          'data-road': '${name}',
+                          'data-direction': '${directions[1]}', ->
                             img class: 'road-direction',
                                 alt: '${directions[1]}',
                                 src: """
