@@ -1,2 +1,41 @@
 ul#cam-list li { padding-right: 15px; } /* Override 75px from jQuery Mobile. */
 ul#cam-list img { width: 100%; max-width: 352px; }
+ul#road-list li.road-item a {
+    min-height: 70px;
+}
+ul#road-list li.road-item a, ul#road-list li.road-direction-item {
+    padding-left: 83px;
+}
+ul#road-list li.road-direction-item {
+    min-height: 100px;
+    padding-right: 102px;
+}
+ul#road-list li img.road-sign, ul#road-list div.road-directions {
+    top: 10px;
+}
+ul#road-list div.road-directions {
+    max-width: 50%;
+    position: absolute;
+    right: 1px;
+    text-align: right;
+}
+ul#road-list div.road-directions a {
+    display: block;
+    margin-bottom: 2px;
+}
+ul#road-list div.road-directions img {
+    max-width: 100px;
+    vertical-align: middle;
+}
+@media screen and (min-width: 420px) {
+    ul#road-list li.road-direction-item, ul#road-list li.road-item a {
+        min-height: 60px;
+    }
+    ul#road-list li img.road-sign {
+        max-height: 60px;
+    }
+    ul#road-list div.road-directions a {
+        display: inline;
+        margin-left: 2px;
+    }
+}

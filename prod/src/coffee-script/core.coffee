@@ -37,7 +37,13 @@ class trphcm
 
     loadRoadList: (msg) ->
         for road in msg.roadList.roadList
-            $('ul#road-list').append $('script#road-item').tmpl road
+            if road.directions.length is 0 or road.cameraCount is 1
+                $('ul#road-list').append $('script#road-item').tmpl road
+            else
+                if 'N' in road.directions
+                    $('ul#road-list').append $('script#road-north-south-item').tmpl road
+                if 'E' in road.directions
+                    $('ul#road-list').append $('script#road-east-west-item').tmpl road
 
         $('ul#road-list').listview 'refresh'
         $.mobile.pageLoading true
