@@ -16,7 +16,7 @@ ul#road-list li img.road-sign, ul#road-list div.road-directions {
 ul#road-list div.road-directions {
     max-width: 50%;
     position: absolute;
-    right: 1px;
+    right: 2px;
     text-align: right;
 }
 ul#road-list div.road-directions a {
@@ -26,6 +26,13 @@ ul#road-list div.road-directions a {
 ul#road-list div.road-directions img {
     max-width: 100px;
     vertical-align: middle;
+       -moz-box-shadow: 0px 0px 4px 1px rgba(0,0,0,.3);
+    -webkit-box-shadow: 0px 0px 4px 1px rgba(0,0,0,.3);
+            box-shadow: 0px 0px 4px 1px rgba(0,0,0,.3);
+       -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+            border-radius: 8px;
+    -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
 }
 @media screen and (min-width: 420px) {
     ul#road-list li.road-direction-item, ul#road-list li.road-item a {
@@ -35,7 +42,9 @@ ul#road-list div.road-directions img {
         max-height: 60px;
     }
     ul#road-list div.road-directions a {
-        display: inline;
-        margin-left: 2px;
+         display: inline;
+         float: left;
+         margin-left: 4px;
+         margin-bottom: 0;
     }
 }

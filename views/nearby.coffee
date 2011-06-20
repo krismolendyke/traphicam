@@ -23,4 +23,6 @@ view nearby: ->
                     p class: 'ui-li-desc', ->
                         strong '${dis.toFixed(2)} miles away'
                         ' at ${time}'
-                    img src: '${obj.url}', alt: 'M.I.A.'
+                    # Paragraph avoids jQM adding a -has-thumb class to the
+                    # li, which is not what is desired in this view.
+                    p -> img src: '${obj.url}', alt: 'M.I.A.'
