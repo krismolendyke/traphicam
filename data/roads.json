@@ -28,7 +28,7 @@
         "road": {
             "name": "Interstate 476",
             "id": "i476",
-            "directions": [ "N", "S" ]
+            "directions": [ "north", "south" ]
         },
         "cameras": [
             "I-476 McDade on Ramp",
@@ -69,7 +69,7 @@
         "road": {
             "name": "Interstate 676",
             "id": "i676",
-            "directions": [ "E", "W" ]
+            "directions": [ "west", "east" ]
         },
         "cameras": [
             "I-676EB 676@16th St",
@@ -87,7 +87,7 @@
         "road": {
             "name": "Interstate 76",
             "id": "i76",
-            "directions": [ "E", "W" ]
+            "directions": [ "west", "east" ]
         },
         "cameras": [
             "I-76 EB @ Belmont",
@@ -138,7 +138,7 @@
         "road": {
             "name": "Interstate 95",
             "id": "i95",
-            "directions": [ "N", "S" ]
+            "directions": [ "north", "south" ]
         },
         "cameras": [
             "I-95 NB /WWB Packer",
@@ -176,7 +176,7 @@
         "road": {
             "name": "Pennsylvania 100",
             "id": "pa100",
-            "directions": [ "N", "S" ]
+            "directions": [ "north", "south" ]
         },
         "cameras": [
             "PA 100 NB @ Phoenixville",
@@ -196,7 +196,7 @@
         "road": {
             "name": "Pennsylvania 291",
             "id": "pa291",
-            "directions": [ "E", "W" ]
+            "directions": [ "west", "east" ]
         },
         "cameras": [
             "PA 291 WB E of I-76"
@@ -206,7 +206,7 @@
         "road": {
             "name": "Pennsylvania 309",
             "id": "pa309",
-            "directions": [ "N", "S" ]
+            "directions": [ "north", "south" ]
         },
         "cameras": [
             "PA 309 NB @ Beth PK Mrg",
@@ -231,7 +231,7 @@
         "road": {
             "name": "Pennsylvania 23",
             "id": "pa23",
-            "directions": [ "E", "W" ]
+            "directions": [ "west", "east" ]
         },
         "cameras": [
             "RT23 EB @ Fayette St",
@@ -243,7 +243,7 @@
         "road": {
             "name": "U.S. 1",
             "id": "us1",
-            "directions": [ "N", "S" ]
+            "directions": [ "north", "south" ]
         },
         "cameras": [
             "US 1 @ 9th Street",
@@ -259,7 +259,7 @@
         "road": {
             "name": "U.S. 202",
             "id": "us202",
-            "directions": [ "N", "S" ]
+            "directions": [ "north", "south" ]
         },
         "cameras": [
             "US 202 @ Allendale",
@@ -302,7 +302,7 @@
         "road": {
             "name": "U.S. 30",
             "id": "us30",
-            "directions": [ "E", "W" ]
+            "directions": [ "west", "east" ]
         },
         "cameras": [
             "US 30 EB @ PA 100",
@@ -318,7 +318,7 @@
         "road": {
             "name": "U.S. 422",
             "id": "us422",
-            "directions": [ "E", "W" ]
+            "directions": [ "west", "east" ]
         },
         "cameras": [
             "US 422 EB- 422 PWLNGS RD",
@@ -337,7 +337,7 @@
         "road": {
             "name": "Pennsylvania 63",
             "id": "pa63",
-            "directions": [ "E", "W" ]
+            "directions": [ "west", "east" ]
         },
         "cameras": [
             "US 63 WB @ Millbrk Rd"
