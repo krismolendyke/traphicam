@@ -13,6 +13,7 @@ helper models: ->
     # Define the `Camera` schema.
     Camera = new mongoose.Schema
         name: String
+        roadId: String
         url: String # TODO: make this a URL object sub-document.
         loc:
             x: Number

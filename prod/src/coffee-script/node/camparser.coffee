@@ -50,7 +50,7 @@ fs.readFile 'data/roads.json', 'utf-8', (err, data) ->
                 # road info. when the camera documents are created.
                 for road in roads
                     for camera in road.cameras
-                        cameraToRoadMap[camera] = road.road.name
+                        cameraToRoadMap[camera] = road.road
 
                 # Read and parse camera KML.
                 fs.readFile 'data/raw/trafficcameraswithfeed.kml', (err, data) ->
@@ -63,6 +63,7 @@ parser.addListener 'end', (result) ->
         name: String
         url: String # TODO: Make this a URL object sub-document
         road: String
+        roadId: String
         loc:
             x: Number
             y: Number
@@ -97,7 +98,8 @@ parser.addListener 'end', (result) ->
         aCamera = new CameraModel
             name: placemark.name
             url: url.href
-            road: cameraToRoadMap[placemark.name]
+            road: cameraToRoadMap[placemark.name].name
+            roadId: cameraToRoadMap[placemark.name].id
             loc:
                 x: parseFloat coords[0], 10
                 y: parseFloat coords[1], 10

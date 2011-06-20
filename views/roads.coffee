@@ -20,8 +20,7 @@ view roads: ->
                     img class: 'road-sign', src: 'img/${roadId}.png', alt: '${name}'
                     div class: 'road-directions', ->
                         a class: 'road-direction',
-                          'data-road': '${name}',
-                          'data-direction': '${directions[0]}', ->
+                          href: '/roads/${roadId}/${directions[0]}', ->
                             img class: 'road-direction',
                                 alt: '${directions[0]}',
                                 src: """
@@ -32,8 +31,7 @@ view roads: ->
                                 {{/if}}
                             """
                         a class: 'road-direction',
-                          'data-road': '${name}',
-                          'data-direction': '${directions[1]}', ->
+                          href: '/roads/${roadId}/${directions[1]}', ->
                             img class: 'road-direction',
                                 alt: '${directions[1]}',
                                 src: """

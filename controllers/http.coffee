@@ -21,3 +21,5 @@ get '/roads': ->
     mongoose.connect 'mongodb://localhost/cams'
 
     render 'roads'
+
+get '/roads/:road/:direction': -> render 'road'
