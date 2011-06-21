@@ -32,18 +32,6 @@ class trphcm
         # OK, well, the page show event sends your position if you agree...
         $('div#follow').live 'pageshow', => @sendCurrentPosition()
 
-        # Ask the server for a list of available road names.
-        $('div#roads').live 'pageshow', => @requestRoadList()
-
-    loadRoadList: (msg) ->
-        for road in msg.roadList.roadList
-            if road.directions.length is 0 or road.cameraCount is 1
-                $('ul#road-list').append $('script#road-item').tmpl road
-            else if road.directions.length is 2
-                $('ul#road-list').append $('script#road-direction-item').tmpl road
-        $('ul#road-list').listview 'refresh'
-        $.mobile.pageLoading true
-
     # Load the camera list with images and information about each image.
     load: (msg) =>
         # Show sensible units for accuracy.  Feet if under a half mile, miles
@@ -99,11 +87,3 @@ class trphcm
         else
             @socket.send JSON.stringify error:
                 message: 'Geolocation unsupported.'
-
-    # Request a list of all available road names from the server.
-    # TODO: consider sending the current position and returning the road names
-    # in order of nearest distance? Ask the server for a list of available road names.
-    requestRoadList: =>
-        $.mobile.pageLoading()
-        $('ul#road-list').empty()
-        @socket.send JSON.stringify roadList: message: 'cool'
