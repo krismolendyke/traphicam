@@ -19,12 +19,15 @@ layout ->
             ]
             # Append view-specific scripts, if any are included in the view.
             @allScripts.push @scripts if @scripts?
+            console.log @allScripts
             # Add all of the scripts to the head.
-            for s in @allScripts then script src: "#{s}.js"
-
-            # Google's JavaScript loader is goofy and doesn't work with the
-            # @scripts array I've setup so it must be specified here for now.
-            script src:'http://maps.google.com/maps/api/js?libraries=geometry&sensor=true'
+            for s in @allScripts
+                # Google maps API uses its own format, i.e.:
+                # http://maps.google.com/maps/api/js?libraries=geometry&sensor=true
+                if s.indexOf('maps.google.com') is 0
+                    script src: "#{s}"
+                else
+                    script src: "#{s}.js"
 
             # Stylesheets.
             link

@@ -30,9 +30,3 @@ msg currentPosition: ->
             cameras.maxDistance = maxDistanceInMiles
             console.log cameras
             send 'currentPosition', position: @position, cameras: cameras
-
-# Return all available geocode road names as a list.
-msg roadList: ->
-    app.RoadModel.find().sort(['cameraCount'], -1).run (err, docs) ->
-        if err then send 'message', text: JSON.stringify err
-        else send 'roadList', roadList: docs

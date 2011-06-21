@@ -20,9 +20,6 @@ class trphcm
             # A result from the server based on current position.
             if msg.currentPosition then @load msg
 
-            # A result from the server containing a list of roads.
-            if msg.roadList then @loadRoadList msg
-
         # Connect the SocketIO socket.
         @socket.connect()
 
