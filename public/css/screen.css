@@ -1,5 +1,8 @@
 ul#cam-list li { padding-right: 15px; } /* Override 75px from jQuery Mobile. */
-ul#cam-list img { width: 100%; max-width: 352px; }
+ul#cam-list img {
+    width: 100%;
+    max-width: 352px;
+}
 ul#road-list li.road-item a {
     min-height: 70px;
 }

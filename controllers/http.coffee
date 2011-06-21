@@ -20,6 +20,29 @@ get '/roads': ->
     # Connect to mongodb.
     mongoose.connect 'mongodb://localhost/cams'
 
-    render 'roads'
+    app.RoadModel.find().sort(['cameraCount'], -1).run (err, roads) =>
+        console.log err if err?
+        @roads = JSON.stringify roads
+        render 'roads'
 
-get '/roads/:road/:direction': -> render 'road'
+get '/roads/:roadId/:direction': ->
+    models()
+    mongoose.connect 'mongodb://localhost/cams'
+
+    switch @direction
+        when 'north'
+            sortComponent = 'loc.y'
+            sortOrder = 1
+        when 'south'
+            sortComponent = 'loc.y'
+            sortOrder = -1
+        when 'west'
+            sortComponent = 'loc.x'
+            sortOrder = -1
+        when 'east'
+            sortComponent = 'loc.x'
+            sortOrder = 1
+
+    app.CameraModel.find(roadId: @roadId).sort([sortComponent], sortOrder)
+        .run (err, @cameras) =>
+            render 'road'
