@@ -18,6 +18,10 @@ view road: ->
                 for camera in @cameras
                     li class: 'ui-li ui-li-static ui-body-c', 'data-theme': 'c', ->
                         h3 class: 'ui-li-heading', -> camera.name
+                        if camera.url.indexOf('?') is 0
+                            param = "&t=#{Date.now()}"
+                        else
+                            param = "?t=#{Date.now()}"
                         # Paragraph avoids jQM adding a -has-thumb class to the
                         # li, which is not what is desired in this view.
-                        p -> img src: camera.url, alt: 'M.I.A.'
+                        p -> img src: "#{camera.url}#{param}", alt: 'M.I.A.'
