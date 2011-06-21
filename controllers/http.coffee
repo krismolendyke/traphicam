@@ -25,6 +25,21 @@ get '/roads': ->
         @roads = JSON.stringify roads
         render 'roads'
 
+# Get a list of cameras by road id, sorted by camera name.
+get '/roads/:roadId': ->
+    models()
+    mongoose.connect 'mongodb://localhost/cams'
+
+    app.CameraModel.find(roadId: @roadId).sort(['name'], 1)
+        .run (err, @cameras) =>
+            console.log err if err?
+            render 'road'
+
+# Get a list of cameras by road id, sorted by the requested direction.  At the
+# moment, this is a naive sorting based only on lat/lng component values, not
+# path finding.  This means that for roads that may double back on themselves,
+# cameras could be presented out of order.  There's a ticket open for path
+# finding which will improve this behavior and enhance several other features.
 get '/roads/:roadId/:direction': ->
     models()
     mongoose.connect 'mongodb://localhost/cams'
@@ -45,4 +60,5 @@ get '/roads/:roadId/:direction': ->
 
     app.CameraModel.find(roadId: @roadId).sort([sortComponent], sortOrder)
         .run (err, @cameras) =>
+            console.log err if err?
             render 'road'

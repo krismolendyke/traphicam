@@ -14,10 +14,12 @@ view roads: ->
                         li class: 'road-item ui-li-has-thumb ui-btn ui-btn-icon-right ui-li ui-btn-down-c ui-btn-up-c', 'data-theme': 'c', ->
                             div class: 'ui-btn-inner ui-li', ->
                                 div class: 'ui-btn-text', ->
-                                    a class: 'ui-link-inherit', href: '#', ->
+                                    a class: 'ui-link-inherit',
+                                      href: "/roads/#{road.roadId}", ->
                                         h3 class: 'ui-li-heading', -> road.name
                                         p class: 'ui-li-desc', ->
-                                            if road.cameraCount is 1 then '1 camera'
+                                            if road.cameraCount is 1
+                                                '1 camera'
                                             else "#{road.cameraCount} cameras"
                                         img class: 'road-sign ui-li-thumb',
                                             src: "img/#{road.roadId}.png",
