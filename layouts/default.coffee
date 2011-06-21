@@ -12,7 +12,7 @@ layout ->
             @allScripts = [
                 '/socket.io/socket.io'
                 ,'http://code.jquery.com/jquery-1.6.1.min'
-                ,'/js/jquery.mobile-1.0b1pre.min'
+                ,'/js/jquery.mobile-1.0b2pre.min'
                 ,'/js/jquery.tmpl.min'
                 ,'/js/trphcm.min'
                 ,'/js/ga'
@@ -29,7 +29,7 @@ layout ->
             # Stylesheets.
             link
                 rel: 'stylesheet'
-                href: '/css/jquery.mobile-1.0b1pre.min.css'
+                href: '/css/jquery.mobile-1.0b2pre.min.css'
             link
                 rel: 'stylesheet'
                 href: '/css/screen.css'
