@@ -22,7 +22,7 @@ view roads: ->
                                                 '1 camera'
                                             else "#{road.cameraCount} cameras"
                                         img class: 'road-sign ui-li-thumb',
-                                            src: "img/#{road.roadId}.png",
+                                            src: "/img/#{road.roadId}.png",
                                             alt: "#{road.name}"
                                         span class: 'ui-icon ui-icon-arrow-r'
 
@@ -34,7 +34,7 @@ view roads: ->
                             p class: 'ui-li-desc', ->
                                 "#{road.cameraCount} cameras"
                             img class: 'road-sign',
-                                src: "img/#{road.roadId}.png",
+                                src: "/img/#{road.roadId}.png",
                                 alt: "#{road.name}"
                             div class: 'road-directions', ->
                                 if road.name.indexOf 'Interstate' is 0
@@ -45,4 +45,4 @@ view roads: ->
                                       href: "/roads/#{road.roadId}/#{direction}", ->
                                         img class: 'road-direction',
                                             alt: "#{direction}",
-                                            src: "img/#{direction}-#{color}.png"
+                                            src: "/img/#{direction}-#{color}.png"
