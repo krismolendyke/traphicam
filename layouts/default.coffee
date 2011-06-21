@@ -19,7 +19,6 @@ layout ->
             ]
             # Append view-specific scripts, if any are included in the view.
             @allScripts.push @scripts if @scripts?
-            console.log @allScripts
             # Add all of the scripts to the head.
             for s in @allScripts
                 # Google maps API uses its own format, i.e.:
