@@ -11,8 +11,11 @@ view roads: ->
                         # be laid out directionally.  This could be because
                         # there is only a single camera, or because the item
                         # represents more than one road.
-                        li -> a href: "/roads/#{road.roadId}", -> road.name
-
+                        li ->
+                            a href: "/roads/#{road.roadId}", ->
+                                h1 "#{road.name}"
+                                if road.cameraCount is 1 then p '1 Camera'
+                                else p "#{road.cameraCount} Cameras"
                     else if road.directions.length is 2
                         # A road list item that represents a road with cameras
                         # that can be laid out directionally (N, S, E, W).
