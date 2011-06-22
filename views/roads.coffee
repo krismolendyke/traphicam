@@ -19,6 +19,7 @@ view roads: ->
                         li ->
                             for direction in road.directions
                                 a 'data-theme': 'c',
+                                  'data-icon': "trphcm-#{direction}",
                                   href: "/roads/#{road.roadId}/#{direction}",
                                   ->
                                     h1 "#{road.name} #{direction}"

@@ -14,10 +14,10 @@ view road: ->
                     span class: 'ui-btn-text', 'Home'
                     span class: 'ui-icon ui-icon-home ui-icon-shadow'
         div 'data-role': 'content', ->
-            ul id: 'cam-list', 'data-role': 'listview', class: 'ui-listview', ->
+            ul 'data-role': 'listview', class: 'cam-list', ->
                 for camera in @cameras
-                    li class: 'ui-li ui-li-static ui-body-c', 'data-theme': 'c', ->
-                        h3 class: 'ui-li-heading', -> camera.name
+                    li class: 'ui-li-static ui-body-c', 'data-theme': 'c', ->
+                        h3 -> camera.name
                         if camera.url.indexOf('?') is 0
                             param = "&t=#{Date.now()}"
                         else
