@@ -1,0 +1,19 @@
+.ui-icon-trphcm-north {
+    background: url("/img/north.png") no-repeat rgba(0, 0, 0, 0.4) !important;
+}
+.ui-icon-trphcm-south {
+    background: url("/img/south.png") no-repeat rgba(0, 0, 0, 0.4) !important;
+}
+.ui-icon-trphcm-west {
+    background: url("/img/west.png") no-repeat rgba(0, 0, 0, 0.4) !important;
+}
+.ui-icon-trphcm-east {
+    background: url("/img/east.png") no-repeat rgba(0, 0, 0, 0.4) !important;
+}
+ul.cam-list {
+    li { padding-right: 15px; }
+    img {
+        width: 100%;
+        max-width: 352px;
+    }
+}

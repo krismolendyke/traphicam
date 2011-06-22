@@ -8,3 +8,4 @@ images/raster
 *~
 *.diff
 *.patch
+.sass-cache
