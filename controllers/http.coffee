@@ -20,7 +20,7 @@ get '/roads': ->
     # Connect to mongodb.
     mongoose.connect 'mongodb://localhost/cams'
 
-    app.RoadModel.find().sort(['cameraCount'], -1).run (err, roads) =>
+    app.RoadModel.find().sort(['name'], 1).run (err, roads) =>
         console.log err if err?
         @roads = JSON.stringify roads
         render 'roads'
