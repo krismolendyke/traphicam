@@ -9,12 +9,7 @@ view nearby: ->
                 h3 'Location Details'
                 p id: 'stats'
             br ->
-            ul
-                id: 'cam-list'
-                'data-role': 'listview'
-                'data-filter': true
-                'data-filter-placeholder': 'Filter cameras...'
-                class: 'ui-listview'
+            ul id: 'cam-list', 'data-role': 'listview', 'data-filter': true, 'data-filter-placeholder': 'Filter cameras...', class: 'ui-listview'
 
             # Camera list item jQueryMobile template.
             script id: 'cam-item', type: 'text/x-jquery-tmpl', ->
