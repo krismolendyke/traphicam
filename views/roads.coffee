@@ -20,4 +20,6 @@ view roads: ->
                             for direction in road.directions
                                 a 'data-theme': 'c',
                                   href: "/roads/#{road.roadId}/#{direction}",
-                                  -> "#{road.name} #{direction}"
+                                  ->
+                                    h1 "#{road.name} #{direction}"
+                                    p "#{road.cameraCount} Cameras"
