@@ -22,5 +22,5 @@ view roads: ->
                                   'data-icon': "trphcm-#{direction}",
                                   href: "/roads/#{road.roadId}/#{direction}",
                                   ->
-                                    h1 "#{road.name} #{direction}"
+                                    h1 "#{road.name} #{direction[0].toUpperCase()}"
                                     p "#{road.cameraCount} Cameras"
