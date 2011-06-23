@@ -37,7 +37,10 @@ ul.road-list {
     }
 }
 ul.cam-list {
-    li { padding-right: 15px !important; }
+    li {
+        padding-right: 15px !important;
+        text-align: center;
+    }
     img {
         width: 100%;
         max-width: 352px;
