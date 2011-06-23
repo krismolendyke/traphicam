@@ -1,6 +1,6 @@
 # Nearby cameras view.
 view nearby: ->
-    div 'data-role': 'page', id: 'follow', ->
+    div 'data-role': 'page', id: 'nearby', ->
         div 'data-role': 'header', 'data-position': 'fixed', ->
             h1 'Cameras Nearby'
             a id: 'refresh', 'data-icon': 'refresh', -> 'Refresh'

@@ -23,6 +23,7 @@ nodeCoffeeOpts = "--bare --output #{nodeTargetJsDir}"
 prodCoffeeFiles = [
     'intro'
     'core'
+    'nearby'
     'outro'
 ]
 

@@ -18,7 +18,13 @@ layout ->
                 ,'/js/ga'
             ]
             # Append view-specific scripts, if any are included in the view.
-            @allScripts.push @scripts if @scripts?
+            # TODO: jQM's AJAX page loading throws a bone in this method.
+            # Since the layout isn't reloaded, the scripts are not regenerated
+            # in the `head`, and therefore are not loaded.  So, every script
+            # that may be necessary in the application must be loaded above.
+            if @scripts?
+                for s in @scripts
+                    @allScripts.unshift "#{s}.js"
             # Add all of the scripts to the head.
             for s in @allScripts
                 # Google maps API uses its own format, i.e.:
