@@ -1,6 +1,8 @@
 # Root is a simple list of various ways to look at cameras.
 get '/': -> render 'default'
 
+get '/about': -> render 'about'
+
 # Get a list of nearby cameras based on the user's position, if they choose to
 # share it.
 get '/nearby': ->
