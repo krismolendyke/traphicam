@@ -8,6 +8,14 @@ layout ->
             meta
                 name: 'viewport'
                 content: 'width=device-width, minimum-scale=1, maximum-scale=1'
+            # Stylesheets.
+            link
+                rel: 'stylesheet'
+                href: '/css/jquery.mobile-1.0b2pre.min.css'
+            link
+                rel: 'stylesheet'
+                href: '/css/screen.css'
+
             # App-wide scripts to be included on every page.
             @allScripts = [
                 '/socket.io/socket.io'
@@ -33,12 +41,4 @@ layout ->
                     script src: "#{s}"
                 else
                     script src: "#{s}.js"
-
-            # Stylesheets.
-            link
-                rel: 'stylesheet'
-                href: '/css/jquery.mobile-1.0b2pre.min.css'
-            link
-                rel: 'stylesheet'
-                href: '/css/screen.css'
         body -> @content
