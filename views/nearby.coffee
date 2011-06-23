@@ -16,7 +16,7 @@ view nearby: ->
                 li class: 'ui-li ui-li-static ui-body-c', 'data-theme': 'c', ->
                     h3 class: 'ui-li-heading', '${obj.name}'
                     p class: 'ui-li-desc', ->
-                        strong '${dis.toFixed(2)} miles away'
+                        '${dis.toFixed(2)} miles away'
                         # TODO: Display formatted time here.  See
                         # prod/../nearby.coffee
                     # Paragraph avoids jQM adding a -has-thumb class to the
