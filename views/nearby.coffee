@@ -17,7 +17,8 @@ view nearby: ->
                     h3 class: 'ui-li-heading', '${obj.name}'
                     p class: 'ui-li-desc', ->
                         strong '${dis.toFixed(2)} miles away'
-                        ' at ${time}'
+                        # TODO: Display formatted time here.  See
+                        # prod/../nearby.coffee
                     # Paragraph avoids jQM adding a -has-thumb class to the
                     # li, which is not what is desired in this view.
                     p -> img src: '${obj.url}', alt: 'M.I.A.'
