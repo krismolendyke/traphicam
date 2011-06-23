@@ -11,7 +11,7 @@ view ->
                             src: 'img/roads.png',
                             alt: 'Roads'
                         h1 'Cameras by road'
-                        p 'Find cameras by the roads they are on'
+                        p "Find cameras by the roads they're on"
                 li ->
                     a href: 'nearby', ->
                         img class: 'ui-li-icon',
