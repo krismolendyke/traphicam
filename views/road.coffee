@@ -2,7 +2,7 @@ view road: ->
     div 'data-role': 'page', id: 'road', ->
         div 'data-role': 'header', 'data-position': 'fixed', ->
             h1 "#{@roadId} #{@direction ? ''}"
-            # a id: 'refresh', 'data-icon': 'refresh', -> 'Refresh'
+            a id: 'refresh-road', 'data-icon': 'refresh', -> 'Refresh'
             a href: '/',
               'data-icon': 'home',
               'data-iconpos': 'notext',
