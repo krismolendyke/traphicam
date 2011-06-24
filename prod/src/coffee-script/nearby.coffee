@@ -19,7 +19,7 @@ class Nearby
         @socket.connect()
 
         # Currently the only way to refresh position is with your thumb.
-        $('a#refresh').live 'click', => @sendCurrentPosition()
+        $('a#refresh').live 'tap', => @sendCurrentPosition()
 
     # Load the camera list with images and information about each image.
     load: (msg) =>
