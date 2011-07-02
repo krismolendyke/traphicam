@@ -4,7 +4,19 @@ view about: ->
         div 'data-role': 'header', ->
             h1 'About traphicam'
         div 'data-role': 'content', ->
-            p ->
-                "Welcome! <strong>traphicam.com</strong> will display the nearest <strong>Philadelphia regional traffic cameras</strong> to <strong>your current location</strong>, if you choose to share it. At the moment, it's probably most useful when accessed with your <strong>smart phone</strong>."
-            p ->
-                "Hopefully you will find it <strong>helpful during your commute</strong> or local Philly trip planning.  Many more features and improvments are coming soon including <strong>auto-refreshing</strong> and opt-in <strong>location watching</strong>. In the meantime, please excuse the rough edges of this &beta;eta software!"
+            div -> """
+<strong>traphicam.com</strong> provides a simple interface to view the Philadelphia region's traffic cameras. The traffic cameras are installed and maintained by the <a href='http://www.dot.state.pa.us'>Pennsylvania Department of Transportation</a>.
+"""
+            p -> 'Try it out on your mobile phone!'
+            hr ->
+            h3 'Software Development'
+            p -> """
+The software that powers <strong>traphicam.com</strong> is developed by <a href='http://k20e.com'>Kris Molendyke</a>. It is <a href='http://www.opensource.org/licenses/mit-license.php'>open source</a> and the code is available at <a href='http://github.com/krismolendyke/traphicam'>github</a>. You can read more about the other open source technologies it uses there!
+"""
+            p id: 'html5-badge', ->
+                a href: 'http://www.w3.org/html/logo/', ->
+                    img src: 'http://www.w3.org/html/logo/badge/html5-badge-h-connectivity-css3-device-semantics.png',
+                    width: '229',
+                    height: '64',
+                    alt: 'HTML5 Powered with Connectivity / Realtime, CSS3 / Styling, Device Access, and Semantics',
+                    title: 'HTML5 Powered with Connectivity / Realtime, CSS3 / Styling, Device Access, and Semantics'
