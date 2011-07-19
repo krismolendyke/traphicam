@@ -2,6 +2,7 @@ using 'util'
 
 # Can't figure out how else to use project-local module with Zappa.
 def mongoose: require "#{process.cwd()}/node_modules/mongoose"
+def _date: require "#{process.cwd()}/node_modules/underscore.date"
 
 def URL: require 'url'
 
