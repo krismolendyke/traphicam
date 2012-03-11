@@ -1,0 +1,15 @@
+div[data-role="header"] > .ui-slider {
+}
+
+.ui-li-has-thumb .ui-btn-inner a.ui-link-inherit,
+.ui-li-static.ui-li-has-thumb  {
+    min-height: 250px;
+    padding-left: 1px;
+}
+
+.ui-li-thumb, .ui-listview .ui-li-icon {
+    position: relative;
+    margin-top: 10px;
+    max-height: 240px;
+    max-width: 352px;
+}
